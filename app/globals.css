@@ -74,6 +74,20 @@ button, input, textarea, select {
   gap: 0.75rem;
   margin-bottom: 2rem;
 }
+.empty-subjects {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  padding: 1rem 1.1rem;
+}
+.empty-subjects ol {
+  margin: 0.5rem 0;
+  padding-left: 1.25rem;
+}
+.empty-subjects code {
+  font-size: 0.85rem;
+  background: var(--accent-soft);
+  padding: 0.1rem 0.35rem;
+}
 .subject-card {
   display: flex;
   justify-content: space-between;
