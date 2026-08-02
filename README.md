@@ -48,12 +48,16 @@ npm run build    # 生产构建
 npm test         # 单元测试
 ```
 
-## 部署到 Vercel
+## 部署到 Vercel（手机 / 平板可访问）
 
-1. 将仓库导入 Vercel
-2. 配置与本地相同的环境变量
-3. Supabase Auth → URL Configuration 加入生产域名（Site URL / Redirect URLs）
-4. 生产环境建议重新开启邮箱确认
+完整步骤见：[docs/DEPLOY.md](./docs/DEPLOY.md)
+
+摘要：
+
+1. 代码推到 GitHub  
+2. Vercel 导入仓库，配置 `NEXT_PUBLIC_SUPABASE_URL` 与 `NEXT_PUBLIC_SUPABASE_ANON_KEY`  
+3. Supabase → Authentication → URL Configuration，把 Site URL / Redirect URLs 改成 Vercel 域名  
+4. 手机浏览器打开 `https://你的项目.vercel.app` 登录即可
 
 ## 功能（一期）
 
