@@ -1,0 +1,1307 @@
+[
+  {
+    "id": "cf537ce9-7f5f-51e0-91f5-63ad94fda8b1",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "mcq",
+    "stem": "大作文(短文写作) 英语(一)20分 英语(二)15分 50分 英语一30分 英语二25分 考研英语考场答题顺序（根据分数大小及题型难度） 题型 时间 备注 大作文 30分钟 顺序① 小作文 15-20分钟 阅读 每篇15-20分钟 总计60-80分钟 顺序② 新题型 15-20分钟 顺序③ 翻译 英语一 20-25分钟 英语二 20分钟 翻译只要沾边就有一些分， 尽量翻 完型 10-15 分钟 完型是卷子上最难的题型， 而且分数才10分，性价比 相对低，考试可蒙，甚至 可以把完型的时间挤到阅 读及写作 阅读能力的建立 建立正确的英语阅读思维：容纳生词的阅读能力 7 做阅读时候，要培养一种，生词不理解我也能大概猜出来这一段的意思，甚至是整篇文章的意思，这个 能力培养起来后，再逐渐强化新单词。如：幼龄孩子学语言 Who helped you to brush your teeth? 捉住关键词块 什么是关键的短语和词呢？句子中复现 8 ① 现在很多人都在谈环保，但真正做到的却不多。② 想要践行环保，就要从身边小事做起，比如随手 关灯、分类垃圾。③ 只有每个人都把环保放在心上，我们的生活环境才会变得更好。 段落大意是什么？",
+    "options": [
+      {
+        "key": "A",
+        "text": "改善生活环境需要人人重视环保，从日常小事落实行动"
+      },
+      {
+        "key": "B",
+        "text": "随手关灯、分类垃圾是日常生活里简单易操作的家务"
+      },
+      {
+        "key": "C",
+        "text": "当下很多人只会空谈各类社会议题，缺少实际行动"
+      },
+      {
+        "key": "D",
+        "text": "生活环境变差的根源在于人们没有养成良好生活习惯 复现词可帮助快速了解全文重要信息"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "英语2/导学课 - 【最终版】.pdf",
+    "source_page": 4,
+    "needs_review": true,
+    "sort_order": 1
+  },
+  {
+    "id": "29ae640e-9ebf-5954-b04c-d336a610da2a",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "mcq",
+    "stem": "It can be learned from the last paragraph that desire paths ______ .",
+    "options": [
+      {
+        "key": "A",
+        "text": "reveal humans’ deep respect for nature"
+      },
+      {
+        "key": "B",
+        "text": "are crucial to humans’ mental well-being"
+      },
+      {
+        "key": "C",
+        "text": "are a human imitation of animal behaviour"
+      },
+      {
+        "key": "D",
+        "text": "show a shared trait in humans and animals"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "英语2/导学课 - 【最终版】.pdf",
+    "source_page": 23,
+    "needs_review": true,
+    "sort_order": 2
+  },
+  {
+    "id": "dce8797b-746e-56cf-9a98-4a33c6b88ec9",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "short",
+    "stem": "文章词数（补充∶一和二有字数区别，一是约280词；二是约350 词）。 考研完型例题 在一篇280（英一）/350（英二）词的文章中留出20个空白，要求考生从每题给出的4个选项中选出最佳 the life story of Bermuda（百慕达） has been repeated by almost every one of the islands far from land .These 51 islands（岛屿） are fundamentally different from the continents（大陆）.",
+    "options": null,
+    "answer": "，使补全后的文章意思通顺。【意味着不仅仅是意思通顺，还要上下文连贯，形成一致性】",
+    "explanation": "",
+    "source_file": "英语2/导学课 - 【最终版】.pdf",
+    "source_page": 30,
+    "needs_review": true,
+    "sort_order": 3
+  },
+  {
+    "id": "5c77500d-b5f8-5bd6-aabd-ffc507271dd6",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "mcq",
+    "stem": "",
+    "options": [
+      {
+        "key": "A",
+        "text": "forgotten（被遗忘）"
+      },
+      {
+        "key": "B",
+        "text": "man-made（人造的）"
+      },
+      {
+        "key": "C",
+        "text": "lost（迷失之岛，强调 \"被遗忘/神秘消失\" 的意象，通常带有传说或虚构色彩。）"
+      },
+      {
+        "key": "D",
+        "text": "isolated（孤岛/与世隔绝的岛，强调地理或社会意义上的隔绝，可能是自然形成或人为导致。 不一定是\"被遗忘\"，只是难以到达或缺乏外部接触。 在具体语境中综合运用语言知识的能力 the life story of Bermuda（百慕达） has been repeated by almost every one of the islands far from land .These 51 islands（岛屿） are fundamentally different from the continents（大陆）. 翻译：百慕大群岛的发展历程，在全球所有远离大陆的海岛身上几乎都上演过。这 51 座岛屿，在本质上 与大陆截然不同。"
+      }
+    ],
+    "answer": "D",
+    "explanation": "",
+    "source_file": "英语2/导学课 - 【最终版】.pdf",
+    "source_page": 31,
+    "needs_review": true,
+    "sort_order": 4
+  },
+  {
+    "id": "9ce18985-13b7-5815-b0a7-35f8289cb218",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "mcq",
+    "stem": "",
+    "options": [
+      {
+        "key": "A",
+        "text": "forgotten（被遗忘）"
+      },
+      {
+        "key": "B",
+        "text": "man-made（人造的）"
+      },
+      {
+        "key": "C",
+        "text": "lost（迷失之岛，强调 \"被遗忘/神秘消失\" 的意象，通常带有传说或虚构色彩。）"
+      },
+      {
+        "key": "D",
+        "text": "isolated（孤岛/与世隔绝的岛，强调地理或社会意义上的隔绝，可能是自然形成或人为导致。 不一定是\"被遗忘\"，只是难以到达或缺乏外部接触。 翻译 翻译大纲 英语（二）考查考生理解所给英语语言材料并将其译成汉语的能力。要求译文准确、完整、通顺。 要求考生阅读、理解长度为150词左右的一个或几个英语段落，并将其全部译成汉语。共15分。 英语（一）的翻译部分，主要考查考生理解语篇中概念或结构较复杂的语句并将其译成汉语的能力。 大纲对其难度做了明确说明，英一的翻译的难点就是句子结构，多个语法知识点重叠，因此比较复 杂。所以各位考生务必要重视语法结构理解能力，学会长难句分析的方法，借助连接词。并且还要 能识别各类语法现象，理解语法结构所表达的语义或逻辑。 英语二翻译（150单词） 英语一翻译 英语一：400字文章 挖空5个句子，总共翻译字数150字 写作 写作 写作A节（1小题）∶要求考生根据规定情景写一篇约100词（标点符号不计算在内）的应用文 类型包括书信、通知、告示、纪要等。 写作B节（1小题）∶要求考生根据提示信息写一篇160-200词（标点符号不计算在内）的论说 文。提示信息的形式为文字、图画、图表等。 如何备考 如何备考：语法过1一遍+基础薄弱词汇多过+分数更高，阅读多做 目前水平 目标分数 所学内容 四级未过(高考90分以下) 40/50 考研语法(1遍)+词汇(2遍)+8篇阅读 四级未过(高考高于90分) 50/60 考研语法(1遍)+词汇(1遍)+16篇阅读 四级未过(高考高于90分) 60/70 考研语法(1遍)+词汇(1遍)+20篇阅读 四级已过 60/70 考研语法(1遍)+词汇(1遍)+20篇阅读 四级已过 70/80 考研语法(1遍)、词汇(1遍)+28篇阅读 六级已过 70/80 28篇阅读 Recap"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "英语2/导学课 - 【最终版】.pdf",
+    "source_page": 32,
+    "needs_review": true,
+    "sort_order": 5
+  },
+  {
+    "id": "8da94395-ffbb-5473-b46d-f4bd56e232c7",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "mcq",
+    "stem": "There exists the prejudice that vocational education is for kids who____.",
+    "options": [
+      {
+        "key": "A",
+        "text": "have a stereotyped mind 思维刻板、抱有固化成见的人"
+      },
+      {
+        "key": "B",
+        "text": "have no career motivation没有职业发展动力的人"
+      },
+      {
+        "key": "C",
+        "text": "are not academically successful学业上难以取得好成绩的人"
+      },
+      {
+        "key": "D",
+        "text": "are financially disadvantaged经济条件差、家境贫寒的人 职业教育体系内的学校都存在这种刻板印象。 说法一：职业教育体系内的学校认为技工是低人一等 说法二：职业教育学校被大众贴上这个标签"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "英语2/语法基础第十节-定从1.pdf",
+    "source_page": 13,
+    "needs_review": true,
+    "sort_order": 6
+  },
+  {
+    "id": "2b52eb3b-1b3b-534f-8002-e609e6c7874a",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "short",
+    "stem": "According to Paragraph 1, most previous surveys found that home ____. 通过时态定位第二句 文段主要内容：复现词，段首句+段尾句+but/yet等有对比转折的句子/段落每个句子的主干 句间逻辑 15",
+    "options": null,
+    "answer": "正确答案是 [C] are not academically successful（学业上不成功的孩子）。",
+    "explanation": "原文依据：文中明确提到职业教育的刻板印象：\"it's for kids who can't make it academically\"\n（职业教育是给“学业上无法成功”的孩子）。这句话直接对应选项 [C] are not academically successful。\n排除其他选项：[A] have a stereotyped mind（有刻板思维的孩子）→ 原文讨论的是社会对职业教育的刻\n板印象，而非学生本身的思维模式。\n[B] have no career motivation（没有职业动力的孩子）→ 原文未提及学生的职业动机问题。\n[D] are financially disadvantaged（经济困难的孩子）→ 原文未涉及经济背景，属于无关选项。\n核心逻辑：题目问的是“社会对职业教育的偏见”，而原文明确将职业教育与“学业失败”挂钩，因此 [C] 是唯\n一符合原文的选项。\n总结：偏见内容 = 职业教育是学业不成功孩子的选择，故选 C。\n定语从句阅读阅读方法\n16\nfeelings that may be advantageous in one context may be harmful in another.\n在一种情境下可能有利的情感，在另一种情境下可能会有害\n第一步：找出所有动词\nmay be；may be\n第二步：非谓语动词词组=起点+终点（前）\n起点：to do；doing；done\n终点=下一个标点符号前；下一个连接词前；\n下一个动词前\n无\n第三步：一个连词+搭配一个谓语动词+终\n点（下一个标点符号；下一个连接词；下\n一个动词）",
+    "source_file": "英语2/语法基础第十节-定从1.pdf",
+    "source_page": 14,
+    "needs_review": true,
+    "sort_order": 7
+  },
+  {
+    "id": "3970a849-d40f-5c6b-a1e8-1b22c9ece7a3",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "short",
+    "stem": "Vaish holds that the rethinking about guilt comes from an awareness that ______. [A] emotions are context-independent 情绪与场景无关 [B] emotions are socially constructive情绪具有社会建设性 [C] emotional stability can benefit health情绪稳定有益于身体健康 [D] an emotion can play opposing roles 同一种情绪能够起到截然相反的作用 18 [D] an emotion can play opposing roles 分析选项：[A] emotions are context-independent（情感与情境无关）：与原文矛盾，原文强调情感的作用 取决于情境。[B] emotions are socially constructive（情感具有社会建设性）：原文未提到“社会建设性”， 属于无关信息。[C] emotional stability can benefit health（情绪稳定有益健康）：原文未提及“情绪稳定”或 “健康”，属于无关信息。[D] an emotion can play opposing roles（一种情感不同情况下可以扮演对立的角 色）：与原文完全一致，对应“may be advantageous in one context may be harmful in another”。排除法： [A]、[B]、[C]均与原文无关或矛盾，只有[D]直接对应原文。 opponent n.对手，竞争者；反对者，阻止者；adj.对立的，敌对的 opposite prep.在……对面，与……相对 阅读过程中碰到不认识的单词怎么办？？ 19 情况一：不懂的单词在核心观点句，利用后边句子帮助理解一下观点即可，不要陷入细节 In the popular imagination, of course, guilt still gets a bad rap. It is deeply uncomfortable—it’s the emotional equivalent of wearing a jacket weighted with stones. 情况二：通过连接词的关系，绕开它 There has been a kind of revival or a rethinking about what guilt is and what role guilt can serve 真题演练三 20 In the popular imagination, of course, guilt still gets a bad rap. It is deeply uncomfortable—it’s the emotional equivalent of wearing a jacket weighted with stones. Yet this understanding is outdated. “There has been a kind of revival or a rethinking about what guilt is and what role guilt can serve,” says Amrisha Vaish, a psychology researcher at the University of Virginia, adding that this revival is part of a larger recognition that emotions aren’t binary—feelings that may be advantageous in one context may be harmful in another. Jealousy and anger, for example, may have evolved to alert us to important inequalities. Too much happiness can be destructive. According to Paragraph 2, many people still consider guilt to be ______. [A] deceptive欺骗性的；误导的；虚伪的 [B] burdensome繁重的；令人不堪重负的；累赘的 [C] addictive使人上瘾的；易沉迷的 [D] inexcusable不可原谅的；无法辩解的 21 [B] burdensome 解题步骤：定位关键信息：第二段开头提到： In the popular imagination, of course, guilt still gets a bad rap. It is deeply uncomfortable—it’s the emotional equivalent of wearing a jacket weighted with stones. \"gets a bad rap\"：意思是内疚通常被负面看待。\"deeply uncomfortable\"和\"wearing a jacket weighted with stones\"：用“背着装满石头的夹克”比喻内疚的感受，强调其沉重、负担的特性。 分析选项：[A] deceptive（欺骗性的）：原文未提及内疚与欺骗相关。[B] burdensome（沉重的）：与 “wearing a jacket weighted with stones”（背着沉重的石头）直接对应，强调内疚是一种负担。[C] addictive（上瘾的）：原文未提及内疚会让人上瘾。[D] inexcusable（不可原谅的）：原文未提到内疚是 否可以被原谅。 定语从句阅读阅读方法：there指的是什么 22 \"We are just in a situation where there are no good theories explaining what consciousness actually is and how you could ever build a machine to get there.\" 我们正处于这样一种困境：目前尚无完善的理论能解释意识的本质，也无法阐明如何打造 出（?)的机器。 第一步：找出所有动词 are， are，explaining，is，could build，to get 第二步：非谓语动词词组=起点+终点（前） 起点：to do；doing；done 终点=下一个标点符号前；下一个连接词前； 下一个动词前",
+    "options": null,
+    "answer": "及解析",
+    "explanation": "",
+    "source_file": "英语2/语法基础第十节-定从1.pdf",
+    "source_page": 17,
+    "needs_review": true,
+    "sort_order": 8
+  },
+  {
+    "id": "8214ef2f-5734-540c-90b8-5e77d6dbf4cc",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "mcq",
+    "stem": "how you could ever build a machine 结论：唯一谓语动词are 主句：We are just in a situation 代词there指的是什么？ 23 ①Today the rapid growth of artificial intelligence (AI) raises fundamental questions: \"What is intelligence, identity, or consciousness? What makes humans humans?\" ②Just how people think is still far too complex to be understood, let alone reproduced, says David Eagleman, a Stanford University neuroscientist. \"We are just in a situation where there are no good theories explaining what consciousness actually is and how you could ever build a machine to get there.\" there是地点隐喻，指代前文提出的目标状态 代词很大概率都是跟核心的复现词相关的，可从核心复现词入手 真题演练四，如果核心观点句里面有不认识得单词怎么办？ complex，reproduced—下文可能是上文观点的具象化解释 24 ①Today the rapid growth of artificial intelligence (AI) raises fundamental questions: \"What is intelligence, identity, or consciousness? What makes humans humans?\" ②Just how people think is still far too complex to be understood, let alone reproduced, says David Eagleman, a Stanford University neuroscientist. \"We are just in a situation where there are no good theories explaining what consciousness actually is and how you could ever build a machine to get there.\" In David Eagleman's opinion, our current knowledge of consciousness ______.",
+    "options": [
+      {
+        "key": "A",
+        "text": "helps explain artificial intelligence有助于解释人工智能"
+      },
+      {
+        "key": "B",
+        "text": "can be misleading to robot making对机器人制造产生误导"
+      },
+      {
+        "key": "C",
+        "text": "inspires popular sci-fi TV series给热门科幻电视剧带来创作灵感"
+      },
+      {
+        "key": "D",
+        "text": "is too limited for us to reproduce it太过有限，我们无法复刻它（意识） 什么时候看上下文，用上下文解题？观点有不懂的单词或者观点难 以理解过于抽象"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "英语2/语法基础第十节-定从1.pdf",
+    "source_page": 22,
+    "needs_review": true,
+    "sort_order": 9
+  },
+  {
+    "id": "d71d6564-a342-548c-b9b2-c4cf8d68d6d8",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "mcq",
+    "stem": "第二句：直接引语具象化解释（Explanation） 用专家的原话拆解为什么会有上面那个结论：现状 = 没有成熟理论定义意识本质，也不知道如何造出具备意识 的机器。 翻译：“我们当下的处境是，尚无完善理论能够阐释意识究竟是什么，更无从谈起如何制造一台拥有意识的机 器。” 解题：捉复现词+感情色彩no good 26 ①Today the rapid growth of artificial intelligence (AI) raises fundamental questions: \"What is intelligence, identity, or consciousness? What makes humans humans?\" ②Just how people think is still far too complex to be understood, let alone reproduced, says David Eagleman, a Stanford University neuroscientist. \"We are just in a situation where there are no good theories explaining what consciousness actually is and how you could ever build a machine to get there.\" In David Eagleman's opinion, our current knowledge of consciousness ______.",
+    "options": [
+      {
+        "key": "A",
+        "text": "helps explain artificial intelligence有助于解释人工智能"
+      },
+      {
+        "key": "B",
+        "text": "can be misleading to robot making对机器人制造产生误导"
+      },
+      {
+        "key": "C",
+        "text": "inspires popular sci-fi TV series给热门科幻电视剧带来创作灵感"
+      },
+      {
+        "key": "D",
+        "text": "is too limited for us to reproduce it太过有限，我们无法复刻它（意识）"
+      }
+    ],
+    "answer": "D",
+    "explanation": "",
+    "source_file": "英语2/语法基础第十节-定从1.pdf",
+    "source_page": 25,
+    "needs_review": false,
+    "sort_order": 10
+  },
+  {
+    "id": "f42f2f95-035f-59d5-9ddf-446904880927",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "mcq",
+    "stem": "than they absorb 主干：The climate change could one day leave us with forests 真题演练五【Forests，we humans】 34 Forests give us shade, quiet and one of the harder challenges in the fight against climate change. Despite the fact that we humans count on forests to soak up a good share of the carbon dioxide we produce, we are threatening their ability to do so. The climate change we are hastening could one day leave us with forests that emit more carbon than they absorb. By saying \"one of the harder challenges,\" the author implies that ______. [A] global climate change may get out of control全球气候变化可能会失控 [B] people may misunderstand global warming人们或许会误解全球变暖 [C] extreme weather conditions may arise极端天气状况可能出现 [D] forests may become a potential threat森林可能成为一种潜在威胁 35",
+    "options": [
+      {
+        "key": "A",
+        "text": "global climate change may get out of control（全球气候变化可能会失控） 原文只说：森林固碳能力受损，未来森林会碳释放＞碳吸收，加剧气候问题。 文中完全没有 “失控（out of control）” 这个程度的表述，属于过度夸大、无中生有。 题干提问对象是 “森林是难题”，A 的主语是气候变化，偏离核心讨论对象。"
+      },
+      {
+        "key": "B",
+        "text": "people may misunderstand global warming（人们可能误解全球变暖） 全文没有任何句子提到 “人们误解、认知错误” 相关内容，整篇只讲人类破坏森林、森林固碳失效，完 全无对应信息，无中生有。"
+      },
+      {
+        "key": "C",
+        "text": "extreme weather conditions may arise（极端天气可能会出现） 文章全程只围绕「森林、二氧化碳、碳吸收 / 排放」展开； 从头到尾没有出现高温、暴雨、台风、干旱等极端天气相关字眼，属于凭空捏造的信息，无中生有。 D 为什么正确原文关键句：forests that emit more carbon than they absorb 森林本是对抗气候变化的帮手，如今会反向释放碳，加重气候危机，等同于森林会变成潜在威胁，完全匹 配文意。 定语从句翻译 定语从句翻译:8大8小原则"
+      }
+    ],
+    "answer": "D",
+    "explanation": "",
+    "source_file": "英语2/语法基础第十节-定从1.pdf",
+    "source_page": 33,
+    "needs_review": true,
+    "sort_order": 11
+  },
+  {
+    "id": "772ba07e-70a0-548c-a5b4-5d41db48d00e",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "short",
+    "stem": "It can be learned that in Iowa，_____. [A] wind is a widely used energy source风能是一种被广泛使用的能源 [B] wind energy has replaced fossil fuels风能已经取代了化石燃料 [C] tech giants are investing in clean energy科技巨头正在投资清洁能源 [D] there is a shortage of clean energy supply清洁能源供应存在短缺 48",
+    "options": null,
+    "answer": "A",
+    "explanation": "选项A正确。原文明确提到爱荷华州“风力发电机星罗棋布”（wind turbines dot the fields），且风\n电占全州发电量的36%（provide 36 percent of the state’s electricity generation），说明风能已被广泛利\n用。\n选项B错误。文中未提及风能“完全取代”化石燃料（replaced fossil fuels），仅强调其占比高，且特朗普\n仍主张发展化石燃料。\n选项C片面。科技巨头（如微软）因清洁能源可用性被吸引（attracted by clean energy），但“投资清洁\n能源”这一主动行为未被明确说明。\n选项D与原文矛盾。文中指出清洁能源充足（availability of clean energy），而非短缺。\n方法二：非限制性定语从句中找复现词wind，复现词是重点讨论对象，所以更有可能放在选项的主语位\n置，排除CD，句子不是讨论tech giants，也不是a shortage of clean energy supply，然后B有fossil\nfuel非限制性定从里没有这个意群的重现。\nRecap\n49\nRecap\n50\nThanks.",
+    "source_file": "英语2/语法基础第十节-定从1.pdf",
+    "source_page": 47,
+    "needs_review": true,
+    "sort_order": 12
+  },
+  {
+    "id": "2d70f877-62a7-52d1-89c1-208708b5ad11",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "short",
+    "stem": "It can be learned that in Iowa，_____. [A] wind is a widely used energy source风能是一种被广泛使用的能源 [B] wind energy has replaced fossil fuels风能已经取代了化石燃料 [C] tech giants are investing in clean energy科技巨头正在投资清洁能源 [D] there is a shortage of clean energy supply清洁能源供应存在短缺 12",
+    "options": null,
+    "answer": "A",
+    "explanation": "选项A正确。原文明确提到爱荷华州“风力发电机星罗棋布”（wind turbines dot the fields），且风\n电占全州发电量的36%（provide 36 percent of the state’s electricity generation），说明风能已被广泛利\n用。\n选项B错误。文中未提及风能“完全取代”化石燃料（replaced fossil fuels），仅强调其占比高，且特朗普\n仍主张发展化石燃料。\n选项C片面。科技巨头（如微软）因清洁能源可用性被吸引（attracted by clean energy），但“投资清洁\n能源”这一主动行为未被明确说明。\n选项D与原文矛盾。文中指出清洁能源充足（availability of clean energy），而非短缺。\n方法二：非限制性定语从句中找复现词wind，复现词是重点讨论对象，所以更有可能放在选项的主语位\n置，排除CD，句子不是讨论tech giants，也不是a shortage of clean energy supply，然后B有fossil\nfuel非限制性定从里没有这个意群的重现。\n真题演练七\n13\n①The power and ambition of the giants of the digital economy is astonishing - Amazon has just\nannounced the purchase of the upmarket grocery chain Whole Foods for $13.5bn, but two years ago\nFacebook paid even more than that to acquire the WhatsApp messaging service, which doesn't have\nany physical product at all. ②What WhatsApp offered Facebook was an intricate and finely detailed\nweb of its users' friendships and social lives.\nAccording to Paragraph 1, Facebook acquired WhatsApp for its____.\nA. digital products数字产品\nB. user information用户信息\nC. physical assets实体资产\nD. quality service优质服务\n答案及解析\n14\n正确答案：B（user information）\n选项B正确。原文明确提到，WhatsApp为Facebook提供的是“用户友谊和社交生活的复杂而\n精细的网络”（an intricate and finely detailed web of its users' friendships and social lives），这属\n于用户信息范畴。选项A（digital products）错误。WhatsApp本身是数字服务，但收购原因并非其\n“产品”，而是用户数据。选项C（physical assets）错误。文中强调WhatsApp“没有任何实体产品”\n（doesn't have any physical product at all）。选项D（quality service）错误。服务质量未被提及，\n收购核心是用户社交关系数据。\n真题演练八\n15\nTransient investors, who demand high quarterly profits from companies, can hinder a firm’s efforts to\ninvest in long-term research or to build up customer loyalty. This has been dubbed “quarterly capitalism.”",
+    "source_file": "英语2/长难句-定从2 (1).pdf",
+    "source_page": 11,
+    "needs_review": true,
+    "sort_order": 13
+  },
+  {
+    "id": "6bf4fa30-27eb-5070-90ec-8e380f3d0cf0",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "mcq",
+    "stem": "It is argued that the influence of transient investment on public companies can be ______.",
+    "options": [
+      {
+        "key": "A",
+        "text": "indirect间接的；迂回的；非直接的"
+      },
+      {
+        "key": "B",
+        "text": "adverse不利的；负面的；有害的；"
+      },
+      {
+        "key": "C",
+        "text": "minimal极小的；最低限度的；微不足道的"
+      },
+      {
+        "key": "D",
+        "text": "temporary暂时的；临时的 universe n.宇宙 ad朝向"
+      }
+    ],
+    "answer": "B",
+    "explanation": "原文指出，短期投资者（transient investors）要求公司实现高额季度利润，这会阻碍企业对长期研\n究或培养客户忠诚度的投入，这种现象被称为“季度资本主义”（quarterly capitalism）。关键动词“hinder”\n（阻碍）直接表明短期投资的影响是负面的，与选项B“adverse”（不利的）完全对应。\n其他选项分析：A项“indirect”（间接的）：未提及间接影响，原文是直接阻碍。C项“minimal”（微小的）：\n与“hinder”的负面程度矛盾。D项“temporary”（暂时的）：短期投资者的行为可能导致长期负面影响，不符\n合“temporary”的短暂性。\n真题演练九\n17\n①That said, there is a way in which grade forgiveness satisfies colleges’ own needs as well.\n②For public institutions, state funds are sometimes tied partly to their success on metrics such\nas graduation rates and student retention—so better grades can, by boosting figures like those, mean\nmore money. ③And anything that raises GPAs will likely make students—who, at the end of the day,\nare paying the bill—feel they’ve gotten a better value for their tuition dollars, which is another\nbig concern for colleges.",
+    "source_file": "英语2/长难句-定从2 (1).pdf",
+    "source_page": 15,
+    "needs_review": false,
+    "sort_order": 14
+  },
+  {
+    "id": "6b9a9709-1570-5323-8d6f-34129fbf39f2",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "mcq",
+    "stem": "According to Paragraph 5, grade forgiveness enables colleges to",
+    "options": [
+      {
+        "key": "A",
+        "text": "obtain more financial support 获取更多财政资金支持 / 拿到更多经费补贴"
+      },
+      {
+        "key": "B",
+        "text": "boost their student enrollments促进招生"
+      },
+      {
+        "key": "C",
+        "text": "improve their teaching quality 提升教学质量"
+      },
+      {
+        "key": "D",
+        "text": "meet local governments' needs 满足地方政府的需求"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "英语2/长难句-定从2 (1).pdf",
+    "source_page": 17,
+    "needs_review": true,
+    "sort_order": 15
+  },
+  {
+    "id": "92bc6616-3849-532c-95cf-663ea7e7ca80",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "short",
+    "stem": "Khurana believes that the importation of terminology aims to ______. [A] revive historical terms复兴旧时用语 [B] promote company image提升企业形象 [C] foster corporate cooperation促进企业内部合作 [D] strengthen employee loyalty增强员工忠诚度 重要的复现词 Khurana把公司术语和非盈利机构术语进行对比 26 ①These terms are also intended to infuse work with meaning and, as Rakesh Khurana, another professor, points out, increase allegiance to the firm. ②“You have the importation of terminology that historically used to be associated with non-profit organizations and religious organizations: terms like vision, values, passion, and purpose,” said Khurana. ① 表层形式：同根 / 同范畴上下义词 二者上位词都是 organization（组织 / 机构），属于同一语义场范畴复现（都是 “独立法人”）。 ② 深层逻辑：反向对立复现（Contrast Repetition） 内核是一组盈利属性反义词： firm = for-profit organization 营利性组织 non-profit organization 非营利性组织 原文作者恰恰利用二者属性对立做对比论证： 27 解题步骤：定位关键信息：原文提到，这些术语旨在\"infuse work with meaning\"（为工作注入意义），并引 用Khurana教授的观点指出，它们能\"increase allegiance to the firm\"（增强对公司的忠诚度）。 后文进一步说明，这些术语（如vision, values, passion, purpose）传统上与非营利组织和宗教组织相关， 暗示其情感号召力。选项匹配：[D] strengthen employee loyalty：直接对应原文\"increase allegiance to the firm\"（allegiance ≈ loyalty）。术语如\"purpose, passion\"等旨在激发员工情感认同，从而提升忠诚度。 [A] revive historical terms（复兴历史术语）：原文仅提到术语的\"历史关联性\"，未提及\"复兴\"这一目的，属 于过度引申。[B] promote company image（提升公司形象）：原文未提及对外宣传或形象塑造，偏离核心。 [C] foster corporate cooperation（促进企业合作）\"合作\"（cooperation）与原文\"忠诚\"（allegiance）概念 不符。 介词提前的定语从句 介词提前的定语从句 29 This is the hospital in which I was born 主句：This is the hospital 简单句： I was born in the hospital 阅读方法——切分成两个单句 30 【例子1】reading becomes the default state from which you temporarily surface to take care of business. 简单句1： reading becomes the default state 翻译：阅读成为默认状态 简单句2： you temporarily surface(from the default state) to take care of business (from the default state) 翻译：你暂时从默认状态切换出来处理事务 【例子2】Rare is the household in which the division of labor is so clinically and methodically laid out. 简单句1：Rare is the household（倒装句） 翻译：这样的家庭实属罕见 简单句2：the division of labor is so clinically and methodically laid out in the household 翻译：在家庭中，劳动分工的安排是（像医学般）仔细，精准且有条不紊。 总：很少的家庭，劳动分工的安排是（像医学般）仔细，精准且有条不紊。 真题演练十一 31 ①A new study suggests that contrary to most surveys, people are actually more stressed at home than at work. ② At work, people pretty much know what they’re supposed to be doing: working, making money, doing the tasks they have to do in order to draw an income. ③The bargain is very pure: Employee puts in hours of physical or mental labor and employee draws out life-sustaining moola.④On the home front, however, people have no such clarity. ⑤Rare is the household in which the division of labor is so clinically and methodically laid out. ⑥There are a lot of tasks to be done, there are inadequate rewards for most of them.",
+    "options": null,
+    "answer": "D",
+    "explanation": "",
+    "source_file": "英语2/长难句-定从2 (1).pdf",
+    "source_page": 25,
+    "needs_review": true,
+    "sort_order": 16
+  },
+  {
+    "id": "f1e6c7eb-0b93-5e4d-8bc0-4f4ae9941041",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "short",
+    "stem": "The home front differs from the workplace in that______. [A] family labor is often adequately rewarded家庭劳动往往能得到充分的回报 [B] home is hardly a cozier working environment家几乎算不上是更舒适的工作场所 [C] household tasks are generally more motivating家务事通常更能激发人的积极性 [D] division of labor at home is seldom clear-cut家庭内部的分工很少界限分明 32",
+    "options": null,
+    "answer": "及解析",
+    "explanation": "",
+    "source_file": "英语2/长难句-定从2 (1).pdf",
+    "source_page": 31,
+    "needs_review": true,
+    "sort_order": 17
+  },
+  {
+    "id": "f7240de3-7d59-5155-9ff9-180cbe137c6e",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "short",
+    "stem": "正确答案：D 解题步骤：定位关键信息（题干：home front vs. workplace）：工作场所（workplace）： 原文②段：人们清楚自己该做什么（\"know what they're supposed to be doing\"），即任务明确、回报 直接（\"draw an income\"）。家庭环境（home front）： 原文③段：家庭中分工不明确（\"no such clarity\"），且劳动分配\"rarely clinically and methodically laid out\"（很少像临床手术般精确规划）。家庭任务奖励不足（\"inadequate rewards\"）。 题目： What is commonly regarded as the cause of grade inflation? 原文只说 more stressed（心理压力更大） 压力大 = 精神内耗、任务边界模糊、付出没回报； B 选项偷换成 cozier（物理环境舒适度） cozy 指房间舒适度、硬件环境、体感惬意度，全文自始至终零提及房屋环境、居家硬件好不好。 这属于概念范畴偷换，不是简单脑补，是出题人典型的 “近义词概念嫁接陷阱”。 完型填空—定语从句 完型填空-定语从句 34 情况一：根据限定关系解题 【例题1】 The ____that I live in faces north. A cat B environment C house D address 【例题2】Even ....... homeless individuals manage to find a _____that will give them three meals a day and a place to sleep at night, .......... A lodging(出租的宿舍） B shelter （收容所） C dwelling（公寓，住宅） D house（房子） 完型填空-定语从句 35 情况二：根据先行词和关系连词解题 【例题1】 I live in a house whose_____is brown [A] leg [B] roof [C] hair [D] address 【例题2】Second, some paper checks（纸质支票） have the advantage that they provide receipt（ 发票，收据）, something that many consumers are unwilling to _____ [A] give up（放弃） [B] take over（接管） [C] bring back（带回来） [D] pass down（传承） 36",
+    "options": null,
+    "answer": "及解析",
+    "explanation": "",
+    "source_file": "英语2/长难句-定从2 (1).pdf",
+    "source_page": 32,
+    "needs_review": true,
+    "sort_order": 18
+  },
+  {
+    "id": "972c53de-2635-583e-a1ad-72b14fcf4d14",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "short",
+    "stem": "It can be learned that in Iowa，_____. [A] wind is a widely used energy source风能是一种被广泛使用的能源 [B] wind energy has replaced fossil fuels风能已经取代了化石燃料 [C] tech giants are investing in clean energy科技巨头正在投资清洁能源 [D] there is a shortage of clean energy supply清洁能源供应存在短缺 12",
+    "options": null,
+    "answer": "A",
+    "explanation": "选项A正确。原文明确提到爱荷华州“风力发电机星罗棋布”（wind turbines dot the fields），且风\n电占全州发电量的36%（provide 36 percent of the state’s electricity generation），说明风能已被广泛利\n用。\n选项B错误。文中未提及风能“完全取代”化石燃料（replaced fossil fuels），仅强调其占比高，且特朗普\n仍主张发展化石燃料。\n选项C片面。科技巨头（如微软）因清洁能源可用性被吸引（attracted by clean energy），但“投资清洁\n能源”这一主动行为未被明确说明。\n选项D与原文矛盾。文中指出清洁能源充足（availability of clean energy），而非短缺。\n方法二：非限制性定语从句中找复现词wind，复现词是重点讨论对象，所以更有可能放在选项的主语位\n置，排除CD，句子不是讨论tech giants，也不是a shortage of clean energy supply，然后B有fossil\nfuel非限制性定从里没有这个意群的重现。\n真题演练七\n13\n①The power and ambition of the giants of the digital economy is astonishing - Amazon has just\nannounced the purchase of the upmarket grocery chain Whole Foods for $13.5bn, but two years ago\nFacebook paid even more than that to acquire the WhatsApp messaging service, which doesn't have\nany physical product at all. ②What WhatsApp offered Facebook was an intricate and finely detailed\nweb of its users' friendships and social lives.\nAccording to Paragraph 1, Facebook acquired WhatsApp for its____.\nA. digital products数字产品\nB. user information用户信息\nC. physical assets实体资产\nD. quality service优质服务\n答案及解析\n14\n正确答案：B（user information）\n选项B正确。原文明确提到，WhatsApp为Facebook提供的是“用户友谊和社交生活的复杂而\n精细的网络”（an intricate and finely detailed web of its users' friendships and social lives），这属\n于用户信息范畴。选项A（digital products）错误。WhatsApp本身是数字服务，但收购原因并非其\n“产品”，而是用户数据。选项C（physical assets）错误。文中强调WhatsApp“没有任何实体产品”\n（doesn't have any physical product at all）。选项D（quality service）错误。服务质量未被提及，\n收购核心是用户社交关系数据。\n真题演练八\n15\nTransient investors, who demand high quarterly profits from companies, can hinder a firm’s efforts to\ninvest in long-term research or to build up customer loyalty. This has been dubbed “quarterly capitalism.”",
+    "source_file": "英语2/长难句-定从2.pdf",
+    "source_page": 11,
+    "needs_review": true,
+    "sort_order": 19
+  },
+  {
+    "id": "ef617c45-9c0b-548b-952f-54d737cff17c",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "mcq",
+    "stem": "It is argued that the influence of transient investment on public companies can be ______.",
+    "options": [
+      {
+        "key": "A",
+        "text": "indirect间接的；迂回的；非直接的"
+      },
+      {
+        "key": "B",
+        "text": "adverse不利的；负面的；有害的；"
+      },
+      {
+        "key": "C",
+        "text": "minimal极小的；最低限度的；微不足道的"
+      },
+      {
+        "key": "D",
+        "text": "temporary暂时的；临时的 universe n.宇宙 ad朝向"
+      }
+    ],
+    "answer": "B",
+    "explanation": "原文指出，短期投资者（transient investors）要求公司实现高额季度利润，这会阻碍企业对长期研\n究或培养客户忠诚度的投入，这种现象被称为“季度资本主义”（quarterly capitalism）。关键动词“hinder”\n（阻碍）直接表明短期投资的影响是负面的，与选项B“adverse”（不利的）完全对应。\n其他选项分析：A项“indirect”（间接的）：未提及间接影响，原文是直接阻碍。C项“minimal”（微小的）：\n与“hinder”的负面程度矛盾。D项“temporary”（暂时的）：短期投资者的行为可能导致长期负面影响，不符\n合“temporary”的短暂性。\n真题演练九\n17\n①That said, there is a way in which grade forgiveness satisfies colleges’ own needs as well.\n②For public institutions, state funds are sometimes tied partly to their success on metrics such\nas graduation rates and student retention—so better grades can, by boosting figures like those, mean\nmore money. ③And anything that raises GPAs will likely make students—who, at the end of the day,\nare paying the bill—feel they’ve gotten a better value for their tuition dollars, which is another\nbig concern for colleges.",
+    "source_file": "英语2/长难句-定从2.pdf",
+    "source_page": 15,
+    "needs_review": false,
+    "sort_order": 20
+  },
+  {
+    "id": "f7b44e9d-7a86-53d5-8af0-bf3969fc198c",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "mcq",
+    "stem": "According to Paragraph 5, grade forgiveness enables colleges to",
+    "options": [
+      {
+        "key": "A",
+        "text": "obtain more financial support 获取更多财政资金支持 / 拿到更多经费补贴"
+      },
+      {
+        "key": "B",
+        "text": "boost their student enrollments促进招生"
+      },
+      {
+        "key": "C",
+        "text": "improve their teaching quality 提升教学质量"
+      },
+      {
+        "key": "D",
+        "text": "meet local governments' needs 满足地方政府的需求"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "英语2/长难句-定从2.pdf",
+    "source_page": 17,
+    "needs_review": true,
+    "sort_order": 21
+  },
+  {
+    "id": "46d78554-7c46-5103-b04e-68d280aaa3e1",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "short",
+    "stem": "Khurana believes that the importation of terminology aims to ______. [A] revive historical terms复兴旧时用语 [B] promote company image提升企业形象 [C] foster corporate cooperation促进企业内部合作 [D] strengthen employee loyalty增强员工忠诚度 重要的复现词 Khurana把公司术语和非盈利机构术语进行对比 26 ①These terms are also intended to infuse work with meaning and, as Rakesh Khurana, another professor, points out, increase allegiance to the firm. ②“You have the importation of terminology that historically used to be associated with non-profit organizations and religious organizations: terms like vision, values, passion, and purpose,” said Khurana. ① 表层形式：同根 / 同范畴上下义词 二者上位词都是 organization（组织 / 机构），属于同一语义场范畴复现（都是 “独立法人”）。 ② 深层逻辑：反向对立复现（Contrast Repetition） 内核是一组盈利属性反义词： firm = for-profit organization 营利性组织 non-profit organization 非营利性组织 原文作者恰恰利用二者属性对立做对比论证： 27 解题步骤：定位关键信息：原文提到，这些术语旨在\"infuse work with meaning\"（为工作注入意义），并引 用Khurana教授的观点指出，它们能\"increase allegiance to the firm\"（增强对公司的忠诚度）。 后文进一步说明，这些术语（如vision, values, passion, purpose）传统上与非营利组织和宗教组织相关， 暗示其情感号召力。选项匹配：[D] strengthen employee loyalty：直接对应原文\"increase allegiance to the firm\"（allegiance ≈ loyalty）。术语如\"purpose, passion\"等旨在激发员工情感认同，从而提升忠诚度。 [A] revive historical terms（复兴历史术语）：原文仅提到术语的\"历史关联性\"，未提及\"复兴\"这一目的，属 于过度引申。[B] promote company image（提升公司形象）：原文未提及对外宣传或形象塑造，偏离核心。 [C] foster corporate cooperation（促进企业合作）\"合作\"（cooperation）与原文\"忠诚\"（allegiance）概念 不符。 介词提前的定语从句 介词提前的定语从句 29 This is the hospital in which I was born 主句：This is the hospital 简单句： I was born in the hospital 阅读方法——切分成两个单句 30 【例子1】reading becomes the default state from which you temporarily surface to take care of business. 简单句1： reading becomes the default state 翻译：阅读成为默认状态 简单句2： you temporarily surface(from the default state) to take care of business (from the default state) 翻译：你暂时从默认状态切换出来处理事务 【例子2】Rare is the household in which the division of labor is so clinically and methodically laid out. 简单句1：Rare is the household（倒装句） 翻译：这样的家庭实属罕见 简单句2：the division of labor is so clinically and methodically laid out in the household 翻译：在家庭中，劳动分工的安排是（像医学般）仔细，精准且有条不紊。 总：很少的家庭，劳动分工的安排是（像医学般）仔细，精准且有条不紊。 真题演练十一 31 ①A new study suggests that contrary to most surveys, people are actually more stressed at home than at work. ② At work, people pretty much know what they’re supposed to be doing: working, making money, doing the tasks they have to do in order to draw an income. ③The bargain is very pure: Employee puts in hours of physical or mental labor and employee draws out life-sustaining moola.④On the home front, however, people have no such clarity. ⑤Rare is the household in which the division of labor is so clinically and methodically laid out. ⑥There are a lot of tasks to be done, there are inadequate rewards for most of them.",
+    "options": null,
+    "answer": "D",
+    "explanation": "",
+    "source_file": "英语2/长难句-定从2.pdf",
+    "source_page": 25,
+    "needs_review": true,
+    "sort_order": 22
+  },
+  {
+    "id": "411e6d01-16f5-524c-b466-af1a748e2d12",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "short",
+    "stem": "The home front differs from the workplace in that______. [A] family labor is often adequately rewarded家庭劳动往往能得到充分的回报 [B] home is hardly a cozier working environment家几乎算不上是更舒适的工作场所 [C] household tasks are generally more motivating家务事通常更能激发人的积极性 [D] division of labor at home is seldom clear-cut家庭内部的分工很少界限分明 32",
+    "options": null,
+    "answer": "及解析",
+    "explanation": "",
+    "source_file": "英语2/长难句-定从2.pdf",
+    "source_page": 31,
+    "needs_review": true,
+    "sort_order": 23
+  },
+  {
+    "id": "7c86af3e-ab97-505f-9079-2429482d183b",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "short",
+    "stem": "正确答案：D 解题步骤：定位关键信息（题干：home front vs. workplace）：工作场所（workplace）： 原文②段：人们清楚自己该做什么（\"know what they're supposed to be doing\"），即任务明确、回报 直接（\"draw an income\"）。家庭环境（home front）： 原文③段：家庭中分工不明确（\"no such clarity\"），且劳动分配\"rarely clinically and methodically laid out\"（很少像临床手术般精确规划）。家庭任务奖励不足（\"inadequate rewards\"）。 题目： What is commonly regarded as the cause of grade inflation? 原文只说 more stressed（心理压力更大） 压力大 = 精神内耗、任务边界模糊、付出没回报； B 选项偷换成 cozier（物理环境舒适度） cozy 指房间舒适度、硬件环境、体感惬意度，全文自始至终零提及房屋环境、居家硬件好不好。 这属于概念范畴偷换，不是简单脑补，是出题人典型的 “近义词概念嫁接陷阱”。 完型填空—定语从句 完型填空-定语从句 34 情况一：根据限定关系解题 【例题1】 The ____that I live in faces north. A cat B environment C house D address 【例题2】Even ....... homeless individuals manage to find a _____that will give them three meals a day and a place to sleep at night, .......... A lodging(出租的宿舍） B shelter （收容所） C dwelling（公寓，住宅） D house（房子） 完型填空-定语从句 35 情况二：根据先行词和关系连词解题 【例题1】 I live in a house whose_____is brown [A] leg [B] roof [C] hair [D] address 【例题2】Second, some paper checks（纸质支票） have the advantage that they provide receipt（ 发票，收据）, something that many consumers are unwilling to _____ [A] give up（放弃） [B] take over（接管） [C] bring back（带回来） [D] pass down（传承） 36",
+    "options": null,
+    "answer": "及解析",
+    "explanation": "",
+    "source_file": "英语2/长难句-定从2.pdf",
+    "source_page": 32,
+    "needs_review": true,
+    "sort_order": 24
+  },
+  {
+    "id": "2758ca22-ce2c-5271-8e8d-2f2107b854cc",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "short",
+    "stem": "The study suggests that most first-generation students ______. [A] are from single-parent families来自单亲家庭 [B] study at private universities在私立大学就读 [C] are in need of financial support需要经济资助 / 有资金扶持需求 [D] have failed their college没能完成大学学业 12",
+    "options": null,
+    "answer": "[C] are in need of financial support（需要经济支持）",
+    "explanation": "原文依据（对应标注句③）：\"Most of the first-generation students (59.1%) were recipients of\nPell Grants, a federal grant for undergraduates with financial need...\"（59.1%的第一代大学生获得了佩\n尔助学金——一项针对经济困难本科生的联邦资助）。数据对比：仅8.6%的非第一代学生获得该助学金，\n凸显经济需求差异。\n选项匹配：[C] 需要经济支持：直接对应\"Pell Grants for financial need\"的表述，且\"most\"（59.1%）量化\n支持。其他选项排除：[A] 来自单亲家庭 → 全文未提及家庭结构，无依据。[B] 就读私立大学 → 研究样\n本虽来自私立大学，但未说明\"大多数\"第一代学生就读此类学校，以偏概全。[D] 大学失败 → 原文仅提\"\n辍学率更高\"（句①），未明确说\"大多数已失败\"，过度推断。\n真题演练二\n13\nFor one thing, conversations about wildfires need to be more inclusive. Over the past decade, the focus\nhas been on climate change—how the warming of the Earth from greenhouse gases is leading to\nconditions that worsen fires.\nWhile climate is a key element, Moritz says, it shouldn't come at the expense of the rest of the\nequation.“The human systems and the landscapes we live on are linked, and the interactions go both\nways,” he says. Failing to recognize that, he notes, leads to “an overly simplified view of what the solutions\nmight be. Our perception of the problem and of what the solution is becomes very limited.”\nWhile admitting that climate is a key element, Moritz notes that ______.\n[A] public debates have not settled yet 公众层面的相关争论尚无定论\n[B] fire-fighting conditions are improving火灾防控条件正在改善\n[C] other factors should not be overlooked其他影响因素不应被忽视\n[D] a shift in the view of fire has taken place人们对火灾的看法已经发生转变\n答案\n14\nequation：英文释义\nThe part of a situation that must be considered.\nMoney is not the only equation in this decision.\n常见短语：bring X into the equation — 把某因素纳入考量 leave X out of the equation — 不考虑某因素\n答案：C\n原文短语拆解\nat the expense of the rest of the equation\n字面含义：以牺牲等式里其他部分为代价。\n通俗理解：不能只看重气候，而忽略了其他影响因素。\n做题方法：主句核心：不能牺牲其余要素（the rest）。\n选项主语匹配：只有 C 选项主语是 other factors（其余因素）。\nA 主语 public debates、B 主语 fire-fighting conditions、D 主语 view of fire，都和原文 the rest of the\nequation 无关，直接排除。\n真题演练三\n15\n①Though often viewed as a problem for western states, the growing frequency of wildfires is a national\nconcern because of its impact on federal tax dollars, says Professor Max Moritz, a specialist in fire\necology and management.\n②In 2015, the US Forest Service for the first time spent more than half of its $5.5 billion annual budget\nfighting fires—nearly double the percentage it spent on such efforts 20 years ago. In effect, fewer federal\nfunds today are going towards the agency’s other work such as forest conservation, watershed and cultural\nresources management, and infrastructure upkeep that affect the lives of all Americans.\nMore frequent wildfires have become a national concern because in 2015 they______.\n[A] exhausted unprecedented management efforts耗费了前所未有的管理投入\n[B] consumed a record-high percentage of budget占用了占比创历史新高的财政预算\n[C] severely damaged the ecology of western states严重破坏了美国西部各州的生态环境\n[D] caused a huge rise of infrastructure expenditure 造成基础设施开支大幅上涨\n答案\n16\n答案： [B] consumed a record-high percentage of budget\n[A] exhausted unprecedented management efforts\n原文只讲经费 budget/funds 被大量消耗，没有提到 “管理人力、精力（management efforts）”。\n属于偷换概念：把资金开销换成了人力投入，原文无对应信息。\n[C] severely damaged the ecology of western states\n① 题干问：野火成为全国性问题的原因；\n② 原文明确说明：之所以成为全国议题，是因为耗费联邦税款，而不是因为破坏西部生态；\n③ “西部生态” 只是开头一句背景，不是 2015 年这件事的原因。\n属于答非所问 + 无中生有。\n[D] caused a huge rise of infrastructure expenditure\n原文：投入基建维护的拨款资金变少（fewer federal funds）。\n选项 D：基建的开支成本大幅上涨（a huge rise of expenditure）。\n资金投入额度 ≠ 项目成本开销，二者本就是两回事。\n让步状语从句总结：对立关系不是非黑即白，是话题始终统一，只\n是内部视角、维度不一样\n17",
+    "source_file": "英语2/长难句-状从 转折.pdf",
+    "source_page": 11,
+    "needs_review": true,
+    "sort_order": 25
+  },
+  {
+    "id": "f40d8749-c955-5347-b017-85c812718f4d",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "mcq",
+    "stem": "",
+    "options": [
+      {
+        "key": "A",
+        "text": "after"
+      },
+      {
+        "key": "B",
+        "text": "until"
+      },
+      {
+        "key": "C",
+        "text": "while"
+      },
+      {
+        "key": "D",
+        "text": "Since while A， B though/although A，B 考场攻略 19 The correlation between happiness and investment was particularly strong for younger firms,.... The relationship was 15 also stronger in places where happiness was spread more 16.equally.Firms seem to invest more in places where most people are relatively happy, rather than in places with happiness inequality. _17__ this doesn’t prove that happiness causes firms to invest more or to take a longer-term view, the authors believe it at least 18 hints at that possibility."
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "英语2/长难句-状从 转折.pdf",
+    "source_page": 18,
+    "needs_review": true,
+    "sort_order": 26
+  },
+  {
+    "id": "485b899f-bd5a-58ce-b9b9-25cb62664c43",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "mcq",
+    "stem": "",
+    "options": [
+      {
+        "key": "A",
+        "text": "after"
+      },
+      {
+        "key": "B",
+        "text": "until"
+      },
+      {
+        "key": "C",
+        "text": "while"
+      },
+      {
+        "key": "D",
+        "text": "Since Recap 20 Thanks."
+      }
+    ],
+    "answer": "C",
+    "explanation": "",
+    "source_file": "英语2/长难句-状从 转折.pdf",
+    "source_page": 19,
+    "needs_review": true,
+    "sort_order": 27
+  },
+  {
+    "id": "9217abbc-7130-5c5d-8be2-91467ec58a21",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "short",
+    "stem": "[A] Emphasize强调 [B] Identify认出，识别 [C] Assess评估 [D] Explain解释 10 Example 1:",
+    "options": null,
+    "answer": "C",
+    "explanation": "语义搭配：\"movement and exercise\"（运动与锻炼）是固定搭配，两者属于同一语义范畴（身\n体活动）。其他选项：[A] care（照料）→ 与\"movement\"无关。[B] nutrition（营养）→ 属于饮食范畴，\n与\"movement\"不匹配。[D] leisure（休闲）→ 范围过大，不如\"exercise\"精准。逻辑衔接：后文强调\n\"not just in competitive ways\"（不仅以竞争方式），暗示前文应填与体育活动相关的词，\"exercise\"最\n符合。\nExample 2:\n正确答案：A\n破题点：前句 “Most work-related behaviors have multiple components（大多数与工作相关的行为\n都包含多个构成要素），其他的维度会失真，证明各个维度重要性不平等，才会出现一些维度失真了，所\n以正确答案 [A] Emphasize（强调）\n阅读技巧：and并列的短语阅读中通常不会成为正确选项\n11\nIn the general population today, at this genetic and environmental level, we've pretty much gone as far\nas we can go, ” says anthropologist William Cameron Chumlea of Wright StateUniversity.In the case of\nNBA players, their increase in height appears to result from the increasingly common practice of\nrecruiting players from all over the world.",
+    "source_file": "英语2/长难句1-并列句【最终版】.pdf",
+    "source_page": 9,
+    "needs_review": true,
+    "sort_order": 28
+  },
+  {
+    "id": "af90b74b-a9ef-50a6-9979-052e8c23242c",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "short",
+    "stem": "Who does the author think should have addressed the problem? should have done 根据现在的情况判断，认为在过去应该做某事，但实际上没有做。 addressed the problem：解决问题：采取措施来解决问题或困难 [A] Local residents（当地居民）拼凑细节 [B] Mayors.（市长）+[C] Councilors.（议员）：can only do so much 只能做这么多 核心逻辑错 [D] National governments.（国家政府） have failed to do so：【各国中央政府】没能履行职责、解决该问题。 因果关系：与and一样，前后分句感情、观点、逻辑走向全都同向， 这一点完全相同，只是so/for 还带了一层因果关系 14 表示因果关系的并列连词 含义 ....for...... “....因为.....” ....so...... “.....所以....” 例句：strangers are inherently（adv 内在的，固有的） unfamiliar（adj不熟悉） to us，so we are more likely to feel anxious（adj 不安） 陌生人本质上对我们来说是陌生的，所以我们会更容易感到焦虑 We listened eagerly, for he brought news of our families. 我们聚精会神地听着，因为他带来了关于我们家人的消息 阅读真题（改编） 15 In addition to other weakness，these measures are politically weak, for they inevitably put the costs of cleaning the air on to individual driver rather on to the car manufactures ..... what is considered a weakness of measures to tackle dirty air? [A] They are biased against car manufacturers.它们对汽车制造商存有偏见。 [B] They prove impractical for city councils.事实证明它们对市议会而言不具备可行性。 [C] They are deemed too mild for politicians.在政客眼中，这些举措力度太过温和。 [D] They put too much burden on individual motorists它们给私家车主造成了过重的负担。 16 D 选项正确原因 [D] They put too much burden on individual motorists 译文：它们给私家车主施加了过重负担。 逻辑匹配：原文put the costs...on to individual drivers = 将治理成本压给车主，等同于给车主增加沉重负 担，完全对应原文给出的 weakness（缺陷）。 三、其余选项逐项错因分析 A 选项 They are biased against car manufacturers. 它们对汽车制造商存有偏见。 错因：原文恰恰相反 —— 措施没有把成本交给车企，是偏袒车企，而非对车企有偏见，语义完全颠倒。 B 选项 They prove impractical for city councils. 事实证明它们对市议会而言不切实际。 错因：原文只说措施politically weak（政治层面有短板），全文从未提到city councils（市议会）、“不具 备可行性” 相关内容，属于无中生有。 C 选项 They are deemed too mild for politicians. 在政客眼中，这些举措力度太过温和。 错因：politically weak仅指政策分配成本的方式容易引发民众不满、存在政治弊端，没有任何文字说明 “措施力度太温和”，偷换原文概念。 or前后大方向一致，语义同向，反向都可 17 表示选择的并列连词 含义 ....or...... ....或者..... 情况1：前后大方向一致，语义同向 同范畴：都是解决粮食短缺的办法（大方向完全统一） 语义同向：两件事都是可行对策，无褒贬对立 In effect，the U.S can import food or it can import the workers 情况 2：or 前后大方向一致，语义反向（同一体系正反两极） Every student is marked pass or fail after the exam. 翻译：所有学生考完试只会被评定为及格或是不及格。 大方向一致：同属考试成绩评级体系； 语义反向：pass 通过 /fail 挂科，结果完全对立。 真题演练 18 People complained that buses were late and infrequent（车次太少）. So, the number of buses and bus lanes were increased, and drivers were 8 or punished according to the time they took.",
+    "options": null,
+    "answer": "及解析",
+    "explanation": "",
+    "source_file": "英语2/长难句1-并列句【最终版】.pdf",
+    "source_page": 13,
+    "needs_review": true,
+    "sort_order": 29
+  },
+  {
+    "id": "735055b3-a3d7-58e0-b8ad-dcc9d2c95d52",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "short",
+    "stem": "[A] hired [B] trained [C] rewarded [D] grouped 19 People complained that buses were late and infrequent（车次太少）. So, the number of buses and bus lanes were increased, and drivers were 8 or punished according to the time they took.",
+    "options": null,
+    "answer": "案",
+    "explanation": "",
+    "source_file": "英语2/长难句1-并列句【最终版】.pdf",
+    "source_page": 18,
+    "needs_review": true,
+    "sort_order": 30
+  },
+  {
+    "id": "7d5ae2c5-9617-5c2c-b96e-6a8c9e9edbca",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "short",
+    "stem": "Which of the following is true about Madrid's clean air zone? [A] Its effects are questionable它的治理效果尚存疑问。 [B]It has been opposed by a judge一名法官反对该空气区政策。 [C] It needs tougher enforcement.它需要更严格的执法管控。 [D] Its fate is yet to be decided.它最终的命运尚无定论。 24 Madrid was hailed as a public health guiding light last November when it rolled out ambitious restrictions on the most polluting cars. Seven months and one election day later, a new conservative city council suspended enforcement of the clean air zone, a first step toward its possible termination.Mayor Jose Luis Martinez-Almeida made opposition to the zone ，a centerpiece of his election campaign, despite its success in improving air quality.A judge has now overruled the city’s decision to stop levying fines, ordering them restored.But with legal battles ahead, the zone’s future looks uncertain at best.",
+    "options": null,
+    "answer": "案",
+    "explanation": "",
+    "source_file": "英语2/长难句1-并列句【最终版】.pdf",
+    "source_page": 23,
+    "needs_review": true,
+    "sort_order": 31
+  },
+  {
+    "id": "f3df4f3f-2e88-549f-846b-745aa526ff78",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "mcq",
+    "stem": "Which of the following is true about Madrid's clean air zone? [A] Its effects are questionable它的治理效果尚存疑问。正反混淆 [B]It has been opposed by a judge正反混淆 [C] It needs tougher enforcement.无中生有 [D] Its fate is yet to be decided 阅读练习2 25 They should start by discarding California's lame argument that exploring the contents of a smartphone— a vast storehouse of digital information—is similar to, say, going through a suspect's purse. The court has ruled that police don't violate the Fourth Amendment when they go through the wallet or pocketbook of an arrestee without a warrant. But exploring one's smartphone is more like entering his or her home. A smartphone may contain an arrestee's reading history, financial history, medical history and comprehensive records of recent correspondence. The development of \"cloud computing,\" meanwhile, has made that exploration so much the easier. The author believes that exploring one’s phone contents is comparable to ______.",
+    "options": [
+      {
+        "key": "A",
+        "text": "getting into one’s residence闯入某人的住宅"
+      },
+      {
+        "key": "B",
+        "text": "handling one’s historical records处理某人的历史档案"
+      },
+      {
+        "key": "C",
+        "text": "scanning one’s correspondences翻阅 / 浏览某人的通信往来"
+      },
+      {
+        "key": "D",
+        "text": "going through one’s wallet翻看、搜查某人的钱包"
+      }
+    ],
+    "answer": "A",
+    "explanation": "原文明确提到 \"But exploring one's smartphone is more like entering his or her home\"（但探索一\n个人的智能手机更像是进入他或她的家），直接对应选项 A 中的 \"residence\"（住所）。B 选项：handling\none’s historical records 处理某人各类历史记录原文只是举例：手机里包含阅读、财务、医疗记录，\n这是手机储存的内容，不是作者拿来和 “搜查手机” 类比的对象。错误：混淆「手机里有什么内容」和\n「搜查手机这件事类比成什么」，答非所问。C 选项：scanning one’s correspondences 浏览他人通讯记\n录和 B 同理，correspondence（通讯记录）只是手机海量隐私信息里的其中一小部分，仅仅是手机包含\n的内容，不是作者给出的类比参照物。错误：以局部细节冒充核心类比对象，偷换概念。选项 D1）加州\n政府的观点：翻看手机内容 ≈ 搜查嫌疑人钱包（going through a suspect's purse/wallet）",
+    "source_file": "英语2/长难句1-并列句【最终版】.pdf",
+    "source_page": 24,
+    "needs_review": false,
+    "sort_order": 32
+  },
+  {
+    "id": "5586603d-12a3-5416-9017-fa131103c293",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "short",
+    "stem": "Which of the following plays a key role in body growth according to the text? [A] Genetic modification [B] Natural environment [C] Living standards [D] Daily exercise 28 D选项为什么错？ 先理清两点： 题干问：什么是人体长高的关键因素； 这句讲的是：NBA 球员身高变高的特殊原因。",
+    "options": null,
+    "answer": "c",
+    "explanation": "",
+    "source_file": "英语2/长难句1-并列句【最终版】.pdf",
+    "source_page": 27,
+    "needs_review": true,
+    "sort_order": 33
+  },
+  {
+    "id": "f8991bec-dc69-5a10-ac9a-c674dd6e2325",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "mcq",
+    "stem": "The author’s attitude to food self-sufficiency in the UK is____.",
+    "options": [
+      {
+        "key": "A",
+        "text": "defensive（防御，戒备）"
+      },
+      {
+        "key": "B",
+        "text": "doubtful（怀疑的，不确定的）"
+      },
+      {
+        "key": "C",
+        "text": "tolerant（宽容的）"
+      },
+      {
+        "key": "D",
+        "text": "optimistic （乐观的) 30"
+      }
+    ],
+    "answer": "B",
+    "explanation": "",
+    "source_file": "英语2/长难句1-并列句【最终版】.pdf",
+    "source_page": 29,
+    "needs_review": false,
+    "sort_order": 34
+  },
+  {
+    "id": "fd7f805d-cc7d-5661-82ce-8ee51ab65d31",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "mcq",
+    "stem": "The key to mastering the art of deep work is to .",
+    "options": [
+      {
+        "key": "A",
+        "text": "keep to your focus time"
+      },
+      {
+        "key": "B",
+        "text": "list your immediate tasks"
+      },
+      {
+        "key": "C",
+        "text": "make specific daily plans"
+      },
+      {
+        "key": "D",
+        "text": "seize every minute to work 阅读练习"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "英语2/长难句1-并列句【最终版】.pdf",
+    "source_page": 35,
+    "needs_review": true,
+    "sort_order": 35
+  },
+  {
+    "id": "8e3bc099-39d9-5d44-943f-18cbec4d0c63",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "mcq",
+    "stem": "The key to mastering the art of deep work is to .",
+    "options": [
+      {
+        "key": "A",
+        "text": "keep to your focus time"
+      },
+      {
+        "key": "B",
+        "text": "list your immediate tasks列出你当下的任务"
+      },
+      {
+        "key": "C",
+        "text": "make specific daily plans 制定详细的每日计划"
+      },
+      {
+        "key": "D",
+        "text": "seize every minute to work抓紧每一分钟工作"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "英语2/长难句1-并列句【最终版】.pdf",
+    "source_page": 36,
+    "needs_review": true,
+    "sort_order": 36
+  },
+  {
+    "id": "3518f2f1-a303-5660-b39e-18fdcd10dbc4",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "mcq",
+    "stem": "句子组合 并列句：He is Jay and all teenagers admire him 套娃式复合句：He is who all teenagers admire. 连接词 6 连接词 基本意义 that 无实在意义 whether 是否 if 是否 who 谁 whom 谁 whose 谁的 what 什么 / 所……的事物，可指代物和人【没有选择范围】 I don't know what kinds of books he likes. which 哪一个，可指代物和人【有选择范围的】 I don't know which book he likes，the red one or the blue one when 指时间，什么时候 where 指地点，在哪里 why 指原因，为什么 how 指方式或程度，如何 名词性从句考法对比 7 初中题目 I believe ______ he will finish his homework on time.",
+    "options": [
+      {
+        "key": "A",
+        "text": "what"
+      },
+      {
+        "key": "B",
+        "text": "that"
+      },
+      {
+        "key": "C",
+        "text": "whose"
+      },
+      {
+        "key": "D",
+        "text": "how 考研考法： The Supreme Court will now consider whether police can search the contents of a mobile phone without a warrant if the phone is on or around a person during an arrest."
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "英语2/长难句2- 宾从.pdf",
+    "source_page": 5,
+    "needs_review": true,
+    "sort_order": 37
+  },
+  {
+    "id": "ce086852-d750-530f-aa7c-2bdc3e8b87f4",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "mcq",
+    "stem": "一般疑问句变宾语从句 主句: I’m not sure ______ 从句: Does my ginger cat still love me? 步骤一：入乡随俗 (调整语序，主语提前) my orange cat still loves me 步骤二：楚河分界 (加入连词) : if/whether 完整: I’m not sure if/whether my ginger cat still loves me. 怎么选择连接词？ 13 看看陈述句缺什么，缺人，连接词who，缺物，连接词what，缺是否，连接词if/whether，什么都不缺，填that 中文：我知道你昨天在商场买了一个苹果。 主句： I know 从句： you bought an apple in the shopping mall yesterday 例子1：从句什么都不缺： 宾语从句：I know (that) you bought an apple in the shopping mall yesterday 例子2：从句缺苹果（物）：2.you bought ____in the shopping mall yesterday 宾语从句：I know (what)you bought in the shopping mall yesterday 例子3：从句缺地点：2. you bought an apple_______ yesterday 宾语从句：I know (where) you bought an apple yesterday 例子4：从句缺时间：2. you bought an apple in the shopping mall 宾语从句：I know (when) you bought an apple in the shopping mall 例子5：从句缺是否: 2. 你昨天是否买了苹果 宾语从句：I don’t know（if /whether）you bought an apple in the shopping mall yesterday. 在宾语从句中，连词（连接词）不仅起到语法连接作用，还承载着特定的语义功能 考点一：宾语从句阅读方法 14 一.怎么判断句子的主句 步骤一：先把句子所有动词找出来 步骤二：找从句，从句=起点+从句谓语动词【途经】+终点。起点=连词 ；终点=下一个标点符号；下一 个连接词；下一个动词。 The Supreme Court will now consider whether police can search the contents of a mobile phone without a warrant if the phone is on or around a person during an arrest. 长难句阅读方法演示 步骤一：先把句子所有动词找出来 will consider；can search；is 步骤二：（起点）连词 whether；if 步骤二：（终点）下一个连词前 whether+can search+warrant 步骤二：（终点）下一个标点符号 if+is+arrest. 最高法院现在将审议在逮捕过程中，如果手机在被捕者身上或其周围，警 方是否可以在没有搜查令的情况下搜查手机内容 真题演练一 15 Just how much does the Constitution protect your digital data? The Supreme Court will now consider whether police can search the contents of a mobile phone without a warrant if the phone is on or around a person during an arrest. The Supreme Court will work out whether, during an arrest, it is legitimate to ______.",
+    "options": [
+      {
+        "key": "A",
+        "text": "prevent suspects from deleting their phone contents"
+      },
+      {
+        "key": "B",
+        "text": "search for suspects' mobile phones without a warrant"
+      },
+      {
+        "key": "C",
+        "text": "check suspects' phone contents without being authorized"
+      },
+      {
+        "key": "D",
+        "text": "prohibit suspects from using their mobile phones"
+      }
+    ],
+    "answer": "C",
+    "explanation": "题目与原文对应关系：\n原文明确提到最高法院将审议\"whether police can search the contents of a mobile phone without a\nwarrant\"（警方能否无搜查令搜查手机内容），这与选项C中的\"check suspects' phone contents without\nbeing authorized\"（未经授权查看嫌疑人手机内容）完全对应。\n关键词匹配：\"search the contents\" = \"check...contents\"（搜查/查看内容）\"without a warrant\" = \"without\nbeing authorized\"（无搜查令/未经授权）。原文中的\"warrant\"特指法律程序中的\"搜查令\"，而\"authorized\"\n是其同义替换。\n排除其他选项：A项\"阻止删除内容\"：原文未提及数据删除问题。B项\"无令搜查手机\"：与原文接近，但\n\"search for phones\"（搜查手机本身）与原文\"search the contents\"（搜查内容）范围不同。D项\"禁止使用\n手机\"：与搜查内容无关。\n长难句阅读法\n18\nDeSombre argues that the best way to collectively change the behavior of large\nnumbers of people is for the change to be structural.\n第一步：找出所有动词\nargues， to change，is ，to be\n第二步：非谓语动词词组=起点+终点（前）\n起点：to do/be；doing；done\n终点=下一个标点符号前；下一个连接词前；\n下一个动词前",
+    "source_file": "英语2/长难句2- 宾从.pdf",
+    "source_page": 12,
+    "needs_review": false,
+    "sort_order": 38
+  },
+  {
+    "id": "fa08cd63-0ff2-5f9f-9578-5b959064de70",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "short",
+    "stem": "that+is+change 结论：主句+宾从主干 主句DeSombre argues 宾从主干：the best way is to be structural. 互动练习 19 It’s important to acknowledge that the environment isn’t everyone’s priority — or even most people’s. We shouldn’t expect it to be. In her latest book, Why Good People Do Bad Environmental Things, Wellesley College professor Elizabeth R. DeSombre argues that the best way to collectively change the behavior of large numbers of people is for the change to be structural. DeSombre argues that the best way for a collective change should be______. [A] a win-win arrangement双赢的安排 [B] a self-driven mechanism自主驱动机制 [C] a cost-effective approach高性价比方案 [D] a top-down process自上而下式流程 20 根据文章内容，Wellesley College教授Elizabeth R. DeSombre认为，要集体改变大量人的行为，最好的 方式是结构性改变（structural change）。结构性改变通常指的是通过制度、政策或规则等自上而下的方 式来实现改变，而不是依赖个人的自我驱动或自愿行为。因此，最符合这一描述的选项是： [D] a top-down process.其他选项分析：[A] a win-win arrangement（双赢安排）：文中未提到双赢的概 念。[B] a self-driven mechanism（自我驱动机制）：与“结构性改变”相反，结构性改变强调外部推动而 非自我驱动。[C] a cost-effective approach（成本效益方法）：文中未提及成本效益。因此，正确答案是 [D]。 注意： It’s important to acknowledge that the environment isn’t everyone’s priority — or even most people’s.",
+    "options": null,
+    "answer": "及解析",
+    "explanation": "",
+    "source_file": "英语2/长难句2- 宾从.pdf",
+    "source_page": 18,
+    "needs_review": true,
+    "sort_order": 39
+  },
+  {
+    "id": "0f58ec90-b3c8-5d57-9380-8b4d749f3c95",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "short",
+    "stem": "that......isn’t even most people’s priority 结论：唯一谓语动词是is 主句：it is important B错哪里？？ 23 It’s important to acknowledge that the environment isn’t everyone’s priority — or even most people’s. We shouldn’t expect it to be. In her latest book, Why Good People Do Bad Environmental Things, Wellesley College professor Elizabeth R. DeSombre argues that the best way to collectively change the behavior of large numbers of people is for the change to be structural. DeSombre argues that the best way for a collective change should be______. [A] a win-win arrangement双赢的安排 [B] a self-driven mechanism自主驱动机制 [C] a cost-effective approach高性价比方案 [D] a top-down process自上而下式流程 考点二：宾语从句可以跟在谓语动词后边，也可以是非谓语动词后边 24 练习：对A 错B 25 It is not enough to say that algorithms(算法) developed by DeepMind will benefit patients and save lives. 判断题1：这个句子包含了宾语从句 判断题2：从句中主干是 algorithms(算法) developed 判断题3：这个句子的it是真正的主语 通过阅读法，找出从句，根据位置判断是不是宾语从句 26 save lives. 翻译：仅声称DeepMind开发的算法将使患者受益并挽救生命是不够的 第一步：找出所有动词 搞清楚and save lives跟谁并列 is not; to say; developed; will benefit; (will)save 第二步：非谓语动词词组=起点+终点（前） 起点：to do；doing；done 终点=下一个标点符号前；下一个连接词前；下一个动词 前搞清楚为什么developed是非谓，而不是谓语",
+    "options": null,
+    "answer": "讲解：It is not enough to say that algorithms(算法) developed by DeepMind will benefit patients and",
+    "explanation": "",
+    "source_file": "英语2/长难句2- 宾从.pdf",
+    "source_page": 22,
+    "needs_review": true,
+    "sort_order": 40
+  },
+  {
+    "id": "a0a519e6-31d5-5c60-bddb-003459d319ef",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "short",
+    "stem": "Both young and old agree that_____ . [A]good-paying jobs are less available高薪工作更少了【无中生有】 主观臆断：年轻人难立足是因为经济不好，就业形势不好，高薪工作更少了 [B]the old made more life achievements老一辈取得了更多人生成就【无中生有】 主观臆断：年轻人和老一辈人开启人生难度的比较 [C]housing loans today are easy to obtain如今房贷容易申请 感情色彩不一致+无中生有房贷+房贷是一个很容易主观臆断概念 老一辈更容易取得成就 32",
+    "options": null,
+    "answer": "D",
+    "explanation": "题干关键句：\"Overwhelming majorities of both groups said they believe it is harder for young people\ntoday to get started in life than it was for earlier generations.\"\n核心含义：年轻人和老年人都认为，如今的年轻人比过去的世代更难“get started in life”（开始生活/立足社\n会）。\n选项匹配：[A] “高薪工作更难找” → 原文未提及“good-paying jobs”，属无关信息。[B] “老年人成就更多” →\n原文比较的是“难度”，而非“成就”，偷换概念。[C] “如今房贷更容易获得” → 与原文语义相反（原文强调“更\n难”）。[D] “年轻人更难立足” → 完全对应原文的“harder for young people to get started in life”。\"get started\nin life\" ≈ \"getting established\"（立足社会/建立生活基础）。\n宾语从句位置：介词后边\n33\n例子\n34\nResearchers measured people's cortisol，a stress marker， and found it higher at what is supposed\nto be a place of refuge.\n翻译：研究人员检测了受试者体内的皮质醇（一种压力指标），结果发现，在本该是避风港湾的地方，\n人们的皮质醇水平反而更高",
+    "source_file": "英语2/长难句2- 宾从.pdf",
+    "source_page": 31,
+    "needs_review": true,
+    "sort_order": 41
+  },
+  {
+    "id": "fa570ed2-53f5-5cab-9eb1-4ffdbbfa685c",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "short",
+    "stem": "According to Paragraph 1, most previous surveys found that home ____. [A]offered greater relaxation than the workplace比工作场所更能让人放松 [B]was an ideal place for stress measurement是测量压力的理想场所 [C]generated more stress than the workplace产生的压力比工作场所更大 [D]was an unrealistic place for relaxation是完全不适合放松地方 36",
+    "options": null,
+    "answer": "A",
+    "explanation": "题目问的是“根据第一段，大多数先前的调查发现家____”。文章第一句提到“A new study\nsuggests that contrary to most surveys, people are actually more stressed at home than at work”，即\n“一项新研究表明，与大多数调查相反，人们实际上在家比在工作时压力更大”。这里的“contrary to most\nsurveys”表明，大多数调查的结果与新研究相反，即大多数人认为在家比在工作时压力更小（more\nrelaxed at home）。因此，最符合的选项是[A]“比工作场所提供更大的放松”。\n其他选项分析：[B]“是测量压力的理想场所”：文中未提及家的“测量功能”，排除。[C]“比工作场所产生更\n多压力”：这是新研究的结论，与“大多数调查”相反，排除。[D]“是一个不切实际的放松场所”：与文意不\n符，排除。\n互动练习\n37\n①Facebook paid even more than $13.5bn to acquire the WhatsApp messaging service.WhatsApp\noffered Facebook its users' friendships and social lives.\n②Facebook promised the European commission that it would not link phone numbers to Facebook\nidentities, but it broke the promise almost as soon as the deal went through. Even without knowing\nwhat was in the messages, the knowledge of who sent them and to whom was enormously revealing\nand still could be.\nLinking phone numbers to Facebook identities may____.\nA. worsen political disputes\nB. mess up customer records\nC. pose a risk to Facebook users\nD. mislead the European commission\n互动练习\n38\n①Facebook paid even more than $13.5bn to acquire the WhatsApp messaging service.WhatsApp\noffered Facebook its users' friendships and social lives.\n②Facebook promised the European commission then that it would not link phone numbers to\nFacebook identities, but it broke the promise almost as soon as the deal went through. Even\nwithout knowing what was in the messages, the knowledge of who sent them and to whom was\nenormously revealing and still could be.\nLinking phone numbers to Facebook identities may____.\nA. worsen political disputes加剧政治争端\nB. mess up customer records扰乱用户档案\nC. pose a risk to Facebook users给脸书用户带来风险\nD. mislead the European commission误导欧盟委员会\n答案及解析\n39\n正确答案：C. pose a risk to Facebook users\n步骤：定位关键信息：原文第②段提到，Facebook 违背承诺，将电话号码与Facebook身份关联\n（linked phone numbers to Facebook identities）。后文强调：即使不知消息内容，仅通过发件人和收件人\n信息就足以暴露大量隐私（enormously revealing），且这种风险至今存在（still could be）。\n逻辑推理：电话号码与身份关联 → 可能泄露用户社交关系或隐私 → 对用户构成风险（与选项C直接对应）。\nA. \"政治争端\"（无提及）B. \"客户记录混乱\"（无关，文中焦点是隐私风险）D. \"误导欧盟委员会\"\n（Facebook违背承诺是事实，而非误导）排除法：原文核心问题是用户隐私风险，而非管理问题（B/D）\n或政治影响（A）。重点句翻译参考：“即使不知消息内容，仅通过谁发送给谁的信息就足以暴露隐私，且\n风险至今仍在。”（支持选项C的持续性风险这一关键点。）\n跟在谓语动词后边的宾从，其主句的位置可前可后可中\n40\n①A new study suggests that contrary to most surveys, people are actually more stressed at\nhome than at work.\n② Popular fireworks should be replaced with cleaner drone(无人机)and laser light shows to avoid the\n\"highly damaging\" impact on wildlife,domestic pets and the broader environment,new Curtin-led\nresearch has found.\n③Failing to recognize that, he notes, leads to “an overly simplified view of what the solutions might\nbe.\n互动练习\n41\n① “The human systems and the landscapes are linked, and the interactions go both ways,” he\nsays.②Failing to recognize that, he notes, leads to “an overly simplified view of what the solutions might\nbe.",
+    "source_file": "英语2/长难句2- 宾从.pdf",
+    "source_page": 35,
+    "needs_review": true,
+    "sort_order": 42
+  },
+  {
+    "id": "8680488d-658f-5d4b-a636-41a8902390b6",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "short",
+    "stem": "②主干是？ 未能认识到这一点，就会导致（对解决方案）过度简化的看法 42",
+    "options": null,
+    "answer": "[D] understand the interrelations of man and nature",
+    "explanation": "步骤：定位关键句：原文中的核心观点：\"The human systems and the landscapes we live on are\nlinked, and the interactions go both ways.\"核心含义：人类系统与自然环境相互关联，且相互作用是双向\n的。后续说明：若未能认识到这一点（Failing to recognize that），会导致对解决方案的过度简化认知\n（overly simplified view）。题干与原文对应：题干：Moritz提到的\"过度简化观点\"是由于未能______。\n原文依据：\"that\" 指代前文\"人类与自然的相互关联及双向作用\"。\n\"未能认识到这一点\" = 未能理解\"人与自然的相互关系\"。选项匹配：[A] \"发现自然的基本组成\" → 原文未\n提及\"fundamental makeup\"，属无关信息。[B] \"探索人类系统的机制\" → 片面，忽略\"自然\"部分。\n[C] \"最大化景观在人类生活中的作用\" → 原文强调\"相互关系\"，而非单方面\"最大化\"。[D] \"理解人与自然的\n相互关系\" → 完全对应\"human systems and landscapes are linked, and interactions go both ways\"。\n真题演练四\n43\n“The human systems and the landscapes are linked, and the interactions go both ways,” Moritz says.\nFailing to recognize that, he notes, leads to “an overly simplified view of what the solutions\nmight be.",
+    "source_file": "英语2/长难句2- 宾从.pdf",
+    "source_page": 41,
+    "needs_review": true,
+    "sort_order": 43
+  },
+  {
+    "id": "724083a7-8502-5b38-ac8f-ef8aea322f07",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "mcq",
+    "stem": "that they will belong to a private monopoly what引导主语从句：具备极强的强调效果，是阅读高频 “核心观点 句” 句式，后边的内容通常会成为考点 8 What makes the problem thornier is that the usual time-management techniques don't seem sufficient. 让问题变得更加棘手的是，常规的时间管理方法似乎并不奏效。 What matters is that they will belong to a private monopoly, with public resources used to develop them. 关键问题在于，这些数据将归私人垄断企业所有，而研发它们依托的却是公共资源。 这两个句子本身就是议论文专门用来输出作者观点的标准句型，绝大多数阅读语境下，它们就是段落 / 话题的 核心观点句；即便只是分论点，也属于作者刻意强调、重点表达的看法，用来承载作者的核心态度。 考点二：主语从句的位置 9 形式主语 \"it\" 用于避免主语过长，使句子更符合英语表达习惯（尤其是正式写作或学术英语）。 主语从句（that/whether 引导）后置后，句子重心更突出，读起来更流畅。 原句： That the seas are being overfished has been known for years. 改写： It has been known for years that the seas are being overfished. 翻译：海洋被过度捕捞的情况早已为人所知。 原句： Whether the separation distances would satisfy air-traffic- control regulations is another matter. 改写： It is another matter whether the separation distances would satisfy air-traffic-control regulations. 翻译：间隔距离是否能满足空中交通管制的规定，则是另一回事。 表语从句 从位置判断这个是表从，表语从句是一个完整的句子放在主句be动 词后，作为表语，通常跟在be后边，连词that不能删掉 11 DeSombre isn’t saying people should stop caring about the environment. It’s just that individual actions are too slow, she says, for that to be the only, or even primary, approach to changing widespread behavior. 根据原句，下列哪项最准确地表达了句意？",
+    "options": [
+      {
+        "key": "A",
+        "text": "她说，个人行动过于缓慢，不足以成为改变广泛行为的唯一甚至主要途径。"
+      },
+      {
+        "key": "B",
+        "text": "她说，个人行动速度太慢，却仍是改变广泛行为唯一的，主要的途径。"
+      },
+      {
+        "key": "C",
+        "text": "她说，只有加快个人行动的速度，才能有效改变广泛行为。 考点一：考试中表语从句理解如何加难度"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "英语2/长难句3-主表同从.pdf",
+    "source_page": 7,
+    "needs_review": true,
+    "sort_order": 44
+  },
+  {
+    "id": "c28bd844-c104-5acc-a0c7-8a5cc8d8be29",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "short",
+    "stem": "The author concludes that individual efforts ____. [A]can be too aggressive可能过于激进 / 强硬 [B]can be too inconsistent可能前后矛盾、缺乏连贯性 [C]are far from sufficient远远不够、严重不足 [D]are far from rational极不理性、缺乏理智 15",
+    "options": null,
+    "answer": "[C] are far from sufficient",
+    "explanation": "步骤：定位关键句：原文明确提到：\"It’s just that individual actions are too slow... to be the only, or\neven primary, approach to changing widespread behavior.\"\n核心含义：个人行动速度太慢，无法作为改变行为的唯一或主要方法。\n隐含结论：仅靠个人行动是远远不够的（insufficient）。\n选项匹配：\n[A] \"可能过于激进\" → 原文未提及\"aggressive\"，完全无关。\n[B] \"可能不一致\" → 未提到\"inconsistent\"，偏离重点。\n[C] \"远远不够\" → 完全对应\"too slow to be the only/primary approach\"。\n[D] \"不够理性\" → 原文批评的是\"速度慢/效果不足\"，而非\"非理性\"。\n考点二：主语从句+表语从句【多层从句嵌套】\n16\nWhat makes the problem thornier is that the usual time-management techniques don't seem sufficient.\n长难句秒杀法三步走\n第一步：找出所有动词\nmakes； is ；don't seem；\n第二步：非谓语动词词组=起点+终点（前）\n起点：to do；doing；done\n终点=下一个标点符号前；下一个连接词前；\n下一个动词前\n无\n第三步：从句=起点+与其搭配的谓语动词+\n终点（前）\n起点：连词\n终点：终点=下一个标点符号；下一个连接\n词；下一个动词",
+    "source_file": "英语2/长难句3-主表同从.pdf",
+    "source_page": 14,
+    "needs_review": true,
+    "sort_order": 45
+  },
+  {
+    "id": "6cb9e5da-2bb8-553d-8046-014dfcf9385a",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "mcq",
+    "stem": "According to the last paragraph, the real worry is ______.",
+    "options": [
+      {
+        "key": "A",
+        "text": "the vicious rivalry among big pharmas各大制药企业之间恶性竞争"
+      },
+      {
+        "key": "B",
+        "text": "the ineffective enforcement of privacy law 隐私法实施不力"
+      },
+      {
+        "key": "C",
+        "text": "the uncontrolled use of new software新软件不受管控的滥用"
+      },
+      {
+        "key": "D",
+        "text": "the monopoly of big data by tech giants科技巨头对大数据的垄断 步骤①：上下文找复现词，快速了解文章背景，重点，预判大意"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "英语2/长难句3-主表同从.pdf",
+    "source_page": 27,
+    "needs_review": true,
+    "sort_order": 46
+  },
+  {
+    "id": "444c8cc8-a494-5693-af71-203229278b0b",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "mcq",
+    "stem": "According to the last paragraph, the real worry is ______.",
+    "options": [
+      {
+        "key": "A",
+        "text": "the vicious rivalry among big pharmas B. the ineffective enforcement of privacy law"
+      },
+      {
+        "key": "C",
+        "text": "the uncontrolled use of new software D. the monopoly of big data by tech giants 步骤②：验证答案D【Data，Privacy law，individual=our，tech giants】"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "英语2/长难句3-主表同从.pdf",
+    "source_page": 29,
+    "needs_review": true,
+    "sort_order": 47
+  },
+  {
+    "id": "e53a2473-0eaa-5947-aa9d-8c6e90d57e8a",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "mcq",
+    "stem": "According to the last paragraph, the real worry is ______.",
+    "options": [
+      {
+        "key": "A",
+        "text": "the vicious rivalry among big pharmas B. the ineffective enforcement of privacy law"
+      },
+      {
+        "key": "C",
+        "text": "the uncontrolled use of new software D. the monopoly of big data by tech giants【回答了the great question】 干扰项分析"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "英语2/长难句3-主表同从.pdf",
+    "source_page": 30,
+    "needs_review": true,
+    "sort_order": 48
+  },
+  {
+    "id": "b3620719-f38c-5fc5-90d0-e76eb0559f60",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "mcq",
+    "stem": "According to the last paragraph, the real worry is ______.",
+    "options": [
+      {
+        "key": "A",
+        "text": "the vicious rivalry among big pharmas各大制药企业之间恶性竞争 【无中生有】"
+      },
+      {
+        "key": "B",
+        "text": "the ineffective enforcement of privacy law 隐私法实施不力【偷换概念：原文使用不合适】"
+      },
+      {
+        "key": "C",
+        "text": "the uncontrolled use of new software新软件不受管控的滥用【无中生有：原文是数据，算法；被垄 断，占用，不是滥用】"
+      }
+    ],
+    "answer": "D",
+    "explanation": "核心问题定位：\n最后一段明确指出，当前隐私法的应用\"does not address the real worry\"，而真正的核心问题是算法技术\n被私人垄断。\n关键句解析：\"What matters is that they will belong to a private monopoly, with public resources used to\ndevelop them.\"\"they\"指代前文提到的\"algorithms developed by DeepMind\"强调用公共资源开发的技术成\n果被私人企业垄断\n选项对比分析：A项（药企恶性竞争）：仅是类比，非讨论重点 。B项（隐私法执行不力）：与原文\n\"maladapted\"（不适用）不符。C项（新软件滥用）：文中未提及此问题。D项（科技巨头垄断大数据）：\n完全对应\"private monopoly\"概念。\"big data\"包含算法等技术要素。准确抓住了公共资源私有化的核心矛盾\n同位语从句\n同位语\n34\n（一） 同位语从句的含义:一个句子做同位语去解释说明一个抽象名词，然后放在主句中做抽象名词的同位\n语（回答是什么）\n例子： it is a piece of good news that we can take 7-days off in National Day.\n（二） 同位语从句的位置\n抽象名词后fact,idea,sign（n 标志）,point（观点）,belief（想法）,faith（信念）,claim（ n 声称）,report\n（n 报告）,worry（担忧），advantage（优势）,evidence（证据）\nindication（指示）,implication（暗示）,insight（洞察力）,probability（可能性）,requirement（要求）.....\n考点一：同位语从句阅读方法\n35\nBut this distinction misses the point that it is processing and aggregation, not the mere possession of bits,\nthat gives the data value.\n但这一区分忽略了一个关键点：赋予数据价值的并非仅仅是对信息的占有，而是对数据的处理与\n整合。\n第一步：找出所有动词\nmisses；is ，processing，gives\n第二步：非谓语动词词组=起点+终点（前）\n起点：to do；doing；done\n终点=下一个标点符号前；下一个连接词前；下\n一个动词前",
+    "source_file": "英语2/长难句3-主表同从.pdf",
+    "source_page": 31,
+    "needs_review": true,
+    "sort_order": 49
+  },
+  {
+    "id": "cb9d471a-cf0f-56d1-92ec-8a9409e1241d",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "mcq",
+    "stem": "that gives the data value. 强调句补充二; 结论：强调部分一般会成为考点 36 But this distinction misses the point that it is processing and aggregation, not the mere possession of bits, that gives the data value. 作用：通过调整句子结构或使用特定词汇，突出句子中的某个部分，使其更引人注意。 用 It is/was + 强调部分 + that/who + 句子剩余部分 特点：强调主语、宾语、状语等成分（不能强调谓语动词）。人用 who/that，物/时间/地点等用 that。 例子：原句：Tom broke the vase yesterday.（汤姆昨天打碎了花瓶。） 强调主语：It was Tom who/that broke the vase yesterday.（是汤姆昨天打碎了花瓶。） 强调宾语：It was the vase that Tom broke yesterday.（汤姆昨天打碎的是花瓶。） 强调时间：It was yesterday that Tom broke the vase.（是昨天汤姆打碎了花瓶。） 如何判断是强调结构：去掉强调结构，不影响句子完整性 not the mere possession of bits（插入语用作对比） 真题演练一 37 DeepMind has almost apologised. The NHS trust has mended its ways. Further arrangements—and there may be many—between the NHS and DeepMind will be carefully scrutinised to ensure that all necessary permissions have been asked of patients and all unnecessary data has been cleaned. There are lessons about informed patient consent to learn. But privacy is not the only angle in this case and not even the most important. Ms Denham chose to concentrate the blame on the NHS trust, since under existing law it \"controlled\" the data and DeepMind merely \"processed\" it. But this distinction misses the point that it is processing and aggregation, not the mere possession of bits, that gives the data value. The author argues in Paragraph 2 that ______.",
+    "options": [
+      {
+        "key": "A",
+        "text": "privacy protection must be secured at all costs必须不惜一切代价保护隐私"
+      },
+      {
+        "key": "B",
+        "text": "leaking patients' data is worse than selling it泄露患者数据比售卖患者数据性质更恶劣"
+      },
+      {
+        "key": "C",
+        "text": "making profits from patients' data is illegal利用患者数据牟利属于违法行为"
+      },
+      {
+        "key": "D",
+        "text": "the value of data comes from the processing of it数据的价值来源于对数据的加工处理 C为什么不选:C. making profits from patients' data is illegal利用 患者数据牟利属于违法行为"
+      }
+    ],
+    "answer": "D",
+    "explanation": "",
+    "source_file": "英语2/长难句3-主表同从.pdf",
+    "source_page": 35,
+    "needs_review": false,
+    "sort_order": 50
+  },
+  {
+    "id": "d08aecb8-76c9-59e4-b685-ba05c74c64a5",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "short",
+    "stem": "The authors of the paper believe that first-generation students____ . [A]may lack opportunities to apply for research projects可能缺少申报科研项目的机会 [B]are inexperienced in handling their issues at college在大学里处理自身问题缺乏经验 [C]can have a potential influence on other students可能会对其他学生产生潜在影响 [D]are actually indifferent to the achievement gap实际上对学业成绩差距漠不关心 41",
+    "options": null,
+    "answer": "及解析",
+    "explanation": "",
+    "source_file": "英语2/长难句3-主表同从.pdf",
+    "source_page": 40,
+    "needs_review": true,
+    "sort_order": 51
+  },
+  {
+    "id": "cf56a3ad-92b3-50dd-8d5d-80e8d185cf8e",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "mcq",
+    "stem": "：ACD 错在哪里 定位关键句：\"first-generation students may be most lacking not in potential but in practical knowledge about how to deal with the issues that face most college students\" ❌ [A] may lack opportunities to apply for research projects 错因：无中生有 + 偷换概念 原文说的是缺乏 practical knowledge about how to deal with issues（处理问题的实践知识） A 选项把它偷换成了 opportunities to apply for research projects（申请研究项目的机会） research projects 这个概念在原文中根本不存在 出题人埋坑：利用\"大学生\"背景，诱导你联想到\"科研项目\"，但原文讨论的是\"practical knowledge\"（实践知识），而非 \"opportunities\"（机会）。 ❌ [C] can have a potential influence on other students 错因：曲解原文词汇 原文的 potential 是指\"潜力、潜能\"，用于说明第一代大学生不是没有潜力 C 选项把 potential 曲解成了\"潜在的\"（potential as an adjective），然后造出\"对其他学生有潜在影响\"这个意思 出题人埋坑：利用同一个词的不同词性和含义制造干扰，考生看到\"potential\"就以为对上了，实际上完全偏离原意。 [D] are actually indifferent to the achievement gap 错因：无中生有 + 相反方向原文说 \"close the achievement gap\"（缩小成绩差距），这是研究者想要达成的目标 第一代大学生是受害者/对象（他们的成绩差距需要被缩小），而不是对这个问题漠不关心的人 indifferent（漠不关心）这个态度在原文中完全没有依据 出题人埋坑：利用\"achievement gap\"这个原文词汇，但给它强加了\"漠不关心\"的负面态度，属于典型的\"用原文词包装 错误意思\"。 真题演练三 42 自然段一： ①Americans should take steps to protect their digital privacy. ②Despite the fact that keeping sensitive information on devices such as phones is increasingly a requirement of normal life，citizens still have a right to expect private documents to remain private and protected by the Constitution’s prohibition on unreasonable searches. In Paragraphs 1，the author shows his concern that ______.",
+    "options": [
+      {
+        "key": "A",
+        "text": "principles are hard to be clearly expressed各项准则难以清晰阐明"
+      },
+      {
+        "key": "B",
+        "text": "the court is giving police less room for action法院留给警方的操作空间正在缩小"
+      },
+      {
+        "key": "C",
+        "text": "citizens’ privacy is not effectively protected公民的隐私未能得到有效保护"
+      },
+      {
+        "key": "D",
+        "text": "phones are used to store sensitive information手机被用来储存敏感信息"
+      }
+    ],
+    "answer": "C",
+    "explanation": "原文重点：作者提到，尽管在数字设备上存储敏感信息已成为现代生活的常态，但公民仍有权期望\n私人文件受到保护，并受到宪法禁止不合理搜查的保障。这暗示当前公民的隐私可能未得到充分保护。\n选项分析：A项“原则难以明确表达”未提及。B项“法院给警察的行动空间更小”与段落无关。C项“公民隐私\n未得到有效保护”与作者担忧一致。D项“手机用于存储敏感信息”是事实陈述，但非作者主要关切。排除法：\nD是现象描述，而C是作者的核心观点，因此选C。\nRecap\n45\n46\n47\nThanks.",
+    "source_file": "英语2/长难句3-主表同从.pdf",
+    "source_page": 41,
+    "needs_review": false,
+    "sort_order": 52
+  },
+  {
+    "id": "38bb52d6-76ad-5bd2-ad32-c89e75039782",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "short",
+    "stem": "The study suggests that most first-generation students ______. [A] are from single-parent families来自单亲家庭 [B] study at private universities在私立大学就读 [C] are in need of financial support需要经济资助 / 有资金扶持需求 [D] have failed their college没能完成大学学业 12",
+    "options": null,
+    "answer": "[C] are in need of financial support（需要经济支持）",
+    "explanation": "原文依据（对应标注句③）：\"Most of the first-generation students (59.1%) were recipients of\nPell Grants, a federal grant for undergraduates with financial need...\"（59.1%的第一代大学生获得了佩\n尔助学金——一项针对经济困难本科生的联邦资助）。数据对比：仅8.6%的非第一代学生获得该助学金，\n凸显经济需求差异。\n选项匹配：[C] 需要经济支持：直接对应\"Pell Grants for financial need\"的表述，且\"most\"（59.1%）量化\n支持。其他选项排除：[A] 来自单亲家庭 → 全文未提及家庭结构，无依据。[B] 就读私立大学 → 研究样\n本虽来自私立大学，但未说明\"大多数\"第一代学生就读此类学校，以偏概全。[D] 大学失败 → 原文仅提\"\n辍学率更高\"（句①），未明确说\"大多数已失败\"，过度推断。\n真题演练二\n13\nFor one thing, conversations about wildfires need to be more inclusive. Over the past decade, the focus\nhas been on climate change—how the warming of the Earth from greenhouse gases is leading to\nconditions that worsen fires.\nWhile climate is a key element, Moritz says, it shouldn't come at the expense of the rest of the\nequation.“The human systems and the landscapes we live on are linked, and the interactions go both\nways,” he says. Failing to recognize that, he notes, leads to “an overly simplified view of what the solutions\nmight be. Our perception of the problem and of what the solution is becomes very limited.”\nWhile admitting that climate is a key element, Moritz notes that ______.\n[A] public debates have not settled yet 公众层面的相关争论尚无定论\n[B] fire-fighting conditions are improving火灾防控条件正在改善\n[C] other factors should not be overlooked其他影响因素不应被忽视\n[D] a shift in the view of fire has taken place人们对火灾的看法已经发生转变\n答案\n14\nequation：英文释义\nThe part of a situation that must be considered.\nMoney is not the only equation in this decision.\n常见短语：bring X into the equation — 把某因素纳入考量 leave X out of the equation — 不考虑某因素\n答案：C\n原文短语拆解\nat the expense of the rest of the equation\n字面含义：以牺牲等式里其他部分为代价。\n通俗理解：不能只看重气候，而忽略了其他影响因素。\n做题方法：主句核心：不能牺牲其余要素（the rest）。\n选项主语匹配：只有 C 选项主语是 other factors（其余因素）。\nA 主语 public debates、B 主语 fire-fighting conditions、D 主语 view of fire，都和原文 the rest of the\nequation 无关，直接排除。\n真题演练三\n15\n①Though often viewed as a problem for western states, the growing frequency of wildfires is a national\nconcern because of its impact on federal tax dollars, says Professor Max Moritz, a specialist in fire\necology and management.\n②In 2015, the US Forest Service for the first time spent more than half of its $5.5 billion annual budget\nfighting fires—nearly double the percentage it spent on such efforts 20 years ago. In effect, fewer federal\nfunds today are going towards the agency’s other work such as forest conservation, watershed and cultural\nresources management, and infrastructure upkeep that affect the lives of all Americans.\nMore frequent wildfires have become a national concern because in 2015 they______.\n[A] exhausted unprecedented management efforts耗费了前所未有的管理投入\n[B] consumed a record-high percentage of budget占用了占比创历史新高的财政预算\n[C] severely damaged the ecology of western states严重破坏了美国西部各州的生态环境\n[D] caused a huge rise of infrastructure expenditure 造成基础设施开支大幅上涨\n答案\n16\n答案： [B] consumed a record-high percentage of budget\n[A] exhausted unprecedented management efforts\n原文只讲经费 budget/funds 被大量消耗，没有提到 “管理人力、精力（management efforts）”。\n属于偷换概念：把资金开销换成了人力投入，原文无对应信息。\n[C] severely damaged the ecology of western states\n① 题干问：野火成为全国性问题的原因；\n② 原文明确说明：之所以成为全国议题，是因为耗费联邦税款，而不是因为破坏西部生态；\n③ “西部生态” 只是开头一句背景，不是 2015 年这件事的原因。\n属于答非所问 + 无中生有。\n[D] caused a huge rise of infrastructure expenditure\n原文：投入基建维护的拨款资金变少（fewer federal funds）。\n选项 D：基建的开支成本大幅上涨（a huge rise of expenditure）。\n资金投入额度 ≠ 项目成本开销，二者本就是两回事。\n让步状语从句总结：对立关系不是非黑即白，是话题始终统一，只\n是内部视角、维度不一样\n17",
+    "source_file": "英语2/长难句5预习版.pdf",
+    "source_page": 11,
+    "needs_review": true,
+    "sort_order": 53
+  },
+  {
+    "id": "363a94bf-34ce-5198-b596-43bd60cc4b96",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "mcq",
+    "stem": "",
+    "options": [
+      {
+        "key": "A",
+        "text": "after"
+      },
+      {
+        "key": "B",
+        "text": "until"
+      },
+      {
+        "key": "C",
+        "text": "while"
+      },
+      {
+        "key": "D",
+        "text": "Since while A， B though/although A，B 考场攻略 19 The correlation between happiness and investment was particularly strong for younger firms,.... The relationship was 15 also stronger in places where happiness was spread more 16.equally.Firms seem to invest more in places where most people are relatively happy, rather than in places with happiness inequality. _17__ this doesn’t prove that happiness causes firms to invest more or to take a longer-term view, the authors believe it at least 18 hints at that possibility."
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "英语2/长难句5预习版.pdf",
+    "source_page": 18,
+    "needs_review": true,
+    "sort_order": 54
+  },
+  {
+    "id": "6394fa54-5cca-5c7b-8b3e-af2d7c6d30bd",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "mcq",
+    "stem": "",
+    "options": [
+      {
+        "key": "A",
+        "text": "after"
+      },
+      {
+        "key": "B",
+        "text": "until"
+      },
+      {
+        "key": "C",
+        "text": "while"
+      },
+      {
+        "key": "D",
+        "text": "Since 对立点：主句强调现象的存在（相关性很强）。 从句强调现象的不确定性（无法证明因果关系）。 两者围绕同一话题（幸福与投资的关系） Recap 20 Thanks."
+      }
+    ],
+    "answer": "C",
+    "explanation": "",
+    "source_file": "英语2/长难句5预习版.pdf",
+    "source_page": 19,
+    "needs_review": true,
+    "sort_order": 55
+  },
+  {
+    "id": "7488919e-e03e-5b1c-9713-6a972812ab7f",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "short",
+    "stem": "The study suggests that most first-generation students ______. [A] are from single-parent families [B] study at private universities [C] are in need of financial support [D] have failed their college 12",
+    "options": null,
+    "answer": "[C] are in need of financial support（需要经济支持）",
+    "explanation": "原文依据（对应标注句③）：\"Most of the first-generation students (59.1%) were recipients of\nPell Grants, a federal grant for undergraduates with financial need...\"（59.1%的第一代大学生获得了佩\n尔助学金——一项针对经济困难本科生的联邦资助）。数据对比：仅8.6%的非第一代学生获得该助学金，\n凸显经济需求差异。\n选项匹配：[C] 需要经济支持：直接对应\"Pell Grants for financial need\"的表述，且\"most\"（59.1%）量化\n支持。其他选项排除：[A] 来自单亲家庭 → 全文未提及家庭结构，无依据。[B] 就读私立大学 → 研究样\n本虽来自私立大学，但未说明\"大多数\"第一代学生就读此类学校，以偏概全。[D] 大学失败 → 原文仅提\"\n辍学率更高\"（句①），未明确说\"大多数已失败\"，过度推断。\n让步状语从句总结：对立关系不是非黑即白，是话题始终统一，只\n是内部视角、维度、群体有反差\n13\nMost of the first-generation students (59.1 percent) were recipients of Pell Grants, a\nfederal grant for undergraduates with financial need, while this was true only for 8.6 percent\nof the students with at least one parent with a four-year degree\n统一话题：两类学生领取佩尔助学金的比例，转折逻辑：同一话题下两组人群数据对比\n原因状语从句\n原因状语从句连接词\n15\n连词\n英文\nbecause=in that\n因为\nas\n因为\nsince\n因为\n真题演练一\n16\nBut the article is actually quite optimistic, as it outlines a potential solution to this problem, suggesting\nthat an approach (which involves a one-hour, next-to-no-cost program) can close 63 percent of the\nachievement gap (measured by such factors as grades) between first-generation and other students.",
+    "source_file": "英语2/长难句6-状语从句【预习版】.pdf",
+    "source_page": 11,
+    "needs_review": true,
+    "sort_order": 56
+  },
+  {
+    "id": "988a7710-3713-550a-aa17-154ce287a9b0",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "short",
+    "stem": "The authors of the research article are optimistic because ______. [A] their findings appeal to students [B] the recruiting rate has increased [C] the problem is solvable [D] their approach is costless 17",
+    "options": null,
+    "answer": "C",
+    "explanation": "题目问\"研究论文的作者持乐观态度的原因是______\"。根据原文：核心依据：文章明确指出\"提出\n了潜在解决方案\"（outlines a potential solution），且该方案能\"缩小63%的学业差距\"（close 63 percent\nof the achievement gap），证明问题可被解决。\n选项匹配：[C] 正确。\"问题可解决\"直接对应原文\"potential solution\"和具体成效。[A] 错误。\"研究结果吸\n引学生\"未提及。[B] 错误。\"招募率提升\"与内容无关。[D] 错误。方案是\"近乎零成本\"（next-to-no-cost），\n非完全\"无成本\"，且非乐观主因。\n关键句：\"as it outlines a potential solution...can close 63 percent of the achievement gap\"关键句翻译：\n\"但这篇文章实际上相当乐观，因为它为这个问题提出了一个潜在的解决方案——研究表明，通过一个仅\n需1小时、近乎零成本的干预项目，能够缩小第一代大学生与其他学生之间63%的学业差距（通过成绩等\n因素衡量）。\"\n真题演练二\n18\n①Biologists estimate that as many as 2 million lesser prairie chickens – a kind of bird living on stretching\ngrasslands – once lent red to the often grey landscape of the midwestern and southwestern United States.\nBut just some 22,000 birds remain today, occupying about 16% of the species’ historic range.\nThe major reason for listing the lesser prairie chicken as threatened is ______.\n[A] its drastically decreased population\n[B] the underestimate of the grassland acreage\n[C] a desperate appeal from some biologists\n[D] the insistence of private landowners\n真题演练二\n19\n①Biologists estimate that as many as 2 million lesser prairie chickens – a kind of bird living on stretching\ngrasslands – once lent red to the often grey landscape of the midwestern and southwestern United States.\nBut just some 22,000 birds remain today, occupying about 16% of the species’ historic range.\n②The crash was a major reason the U.S. Fish and Wildlife Service (USFWS) decided to formally list the\nbird as threatened. “The lesser prairie chicken is in a desperate situation,” said USFWS Director Daniel\nAshe.\nThe major reason for listing the lesser prairie chicken as threatened is ______.\n[A] its drastically decreased population 其种群数量急剧锐减\n[B] the underestimate of the grassland acreage对草原面积的低估\n[C] a desperate appeal from some biologists部分生物学家发出的急切呼吁\n[D] the insistence of private landowners私人土地所有者的坚决主张\n答案及解析\n20\n题目问的是：将小草原榛鸡列为受威胁物种的主要原因是什么？\n选项：[A] its drastically decreased population（其数量的急剧减少）[B] the underestimate of the grassland\nacreage（对草原面积的低估）[C] a desperate appeal from some biologists（一些生物学家的迫切呼吁）\n[D] the insistence of private landowners（私人土地所有者的坚持）\n原文分析 第一段（①）：\n生物学家估计，曾经有多达200万只小草原榛鸡（一种生活在广阔草原上的鸟类）为美国中西部和西南部通\n常灰暗的景观增添了一抹红色。但如今仅剩约2.2万只，占据该物种历史分布范围的约16%。这里明确提到\n小草原榛鸡的数量从200万只急剧减少到2.2万只，分布范围也大幅缩小。\n第二段（②）：这种急剧减少是美国鱼类及野生动物管理局（USFWS）决定正式将该鸟类列为受威胁物种\n的主要原因。USFWS局长Daniel Ashe说：“小草原榛鸡处于绝望的境地。”这里直接指出“急剧减少”（The\ncrash）是主要原因。\n条件状语从句\n条件状语从句逻辑词\n22\n逻辑连词\n中文\nif\n如果\nunless=if not\n除非，除非在……情况下；若非，如果\n不\nonce\n一.....就， 一旦\nas long as/ so long as\n只要\n例句：I eat crayfish if the dog beats the cat（条件状语）\nI don’t eat crayfish if the dog doesn’t beat the cat（双从否定表肯定）\nI don’t eat crayfish unless the dog beats the cat（unless）\n考点一：多个连词阅读法\n23\n①we feel a pressure to fill these different-sized bottles (days, hours, minutes) as ②they pass, for\nif ③they get by without being filled, ④we will have wasted them.",
+    "source_file": "英语2/长难句6-状语从句【预习版】.pdf",
+    "source_page": 16,
+    "needs_review": true,
+    "sort_order": 57
+  },
+  {
+    "id": "18529f05-f801-584b-b36e-2b76a1b4b5d0",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "short",
+    "stem": "The 'empty bottles' metaphor illustrates that people feel a pressure to ______. [A] update their to-do lists [B] make passing time fulfilling [C] carry their plans through [D] pursue carefree reading 25",
+    "options": null,
+    "answer": "[B] make passing time fulfilling（让流逝的时间变得充实）",
+    "explanation": "原文核心内容：作者Gary Eberle在《神圣时间》一书中将时间比作\"不同大小的瓶子\"（days,\nhours, minutes）.人们感到有压力要\"填满\"这些瓶子（fill these bottles）.如果让时间流逝而没有\"填满\"，\n就会觉得是浪费（wasted them）隐喻分析：\"empty bottles\"（空瓶子）的比喻形象地表达了：\n时间像容器一样需要被填满.人们害怕时间空过（未被充分利用）.这种心态不利于沉浸式阅读（最后一句\n的暗示）\n选项对比：\n[A] 更新待办清单 - 原文未提及\n[B] 让流逝的时间充实 - 完全符合\"填满瓶子\"的比喻\n[C] 执行计划 - 过于具体，不是比喻的核心\n[D] 追求无忧无虑的阅读 - 与原文最后一句矛盾\n方法二：复现词（days, hours, minutes 4次=time）\n真题演练二\n26\n①Under the plan, for example, the agency said it would not prosecute landowners or businesses that\nunintentionally kill, harm, or disturb the bird, as long as they had signed a range-wide management plan to\nrestore prairie chicken habitat. ②Negotiated by USFWS and the states, the plan requires individuals and\nbusinesses that damage habitat as part of their operations to pay into a fund to replace every acre\ndestroyed with 2 new acres of suitable habitat. ③The fund will also be used to compensate landowners\nwho set aside habitat. ④USFWS also set an interim goal of restoring prairie chicken populations to an\nannual average of 67,000 birds over the next 10 years. ⑤And it gives the Western Association of Fish and\nWildlife Agencies (WAFWA), a coalition of state agencies, the job of monitoring progress.......\n28 It can be learned from Paragraph 3 that unintentional harm-doers will not be prosecuted if they ______.\n[A] agree to pay a sum for compensation 同意支付一笔补偿金\n[B] volunteer to set up an equally big habitat自愿开辟一片同等面积的栖息地\n[C] offer to support the WAFWA monitoring job 主动配合西部鱼类与野生动物管理协会的监测工作\n[D] promise to raise funds for USFWS operations承诺为美国鱼类及野生动物管理局的运营筹措资金\n答案及解析\n27\n答案：A agree to pay a sum for compensation\n题目问\"从第三段可知，无意造成伤害者若______将不会被起诉\"。根据原文：\n关键条件：无意伤害者需签署\"全区域管理计划\"（a range-wide management plan），该计划要求破坏栖\n息地的个人或企业向基金支付费用（pay into a fund），以\"每破坏1英亩需新增2英亩适宜栖息地\"作为补\n偿（replace every acre destroyed with 2 new acres）。\n选项匹配：\n[A] 正确。\"支付补偿金\"对应原文\"pay into a fund\"的核心要求。\n[B] 错误。\"自愿建立同等大小栖息地\"与原文\"2:1补偿比例\"不符。\n[C] 错误。支持WAFWA监督工作非豁免起诉的条件。\n[D] 错误。原文未提及\"为USFWS筹集资金\"的要求。\n结果状语从句\n结果状语从句连词\n29\n连词\n英文直译\n中文意译\n区别\nso......that.......\n如此......以至于\n太....所以\nso +adj/adv\nsuch+n/名词词\n组\nsuch......that.....\n那样的……以\n致\nso that.....\n结果是\n所以，这样\n无\n考点一：完形填空\n30\nThe homeless（n 无家可归的人） make up a growing percentage（n 比例） of America's\npopulation. __ 1.indeed_homelessness has reached such proportions（n 比例） that local\ngovernments can't possibly __2___.To help homeless people....., the federal government\nmust support job training programs......Finding ways to 10.assist this growing homeless population\nhas become increasingly difficult",
+    "source_file": "英语2/长难句6-状语从句【预习版】.pdf",
+    "source_page": 24,
+    "needs_review": true,
+    "sort_order": 58
+  },
+  {
+    "id": "8301d4f8-b146-5fcf-9039-3c1fb25f8eb9",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "short",
+    "stem": "A stand忍受 B cope C approve批准/同意 D retain保留 31 原文分析：上下文：前文：无家可归者占美国人口的比例越来越大， homelessness（无家可归问题）已达 到如此严重的程度（such proportions）。 后文：地方政府无法可能______。联邦政府必须支持职业培训计划来帮助无家可归者……帮助日益增长的 无家可归者变得越来越困难。 逻辑关系：前文强调问题严重（such proportions），后文提到地方政府无法“应对”或“处理”这一问题，因此 需要联邦政府介入。空格处需填入一个表示“应对”或“处理”的动词，体现地方政府能力不足。 选项匹配[A] stand（忍受/站立）：“can't possibly stand”意为“无法忍受”，但“忍受”与“问题严重性”搭配不够 准确，更侧重主观感受。[B] cope（应对/处理）：“can't possibly cope”意为“无法应对”，直接对应地方政府 无力解决无家可归问题，符合语境。[C] approve（批准/同意）：与上下文无关，无家可归问题不需要“批 准”。[D] retain（保留/保持）：与上下文无关，语义不匹配。排除法[A] 虽勉强可通，但不如[B]精准；[C]和 [D]完全无关。[B]是唯一能准确表达“地方政府无力应对”的选项。 目的状语从句—非重点部分 逻辑连词 33 逻辑连词 中文 区别 so that...... 以便 如何区别so that是表示结 果，还是表示目的？",
+    "options": null,
+    "answer": "[B] cope",
+    "explanation": "",
+    "source_file": "英语2/长难句6-状语从句【预习版】.pdf",
+    "source_page": 30,
+    "needs_review": true,
+    "sort_order": 59
+  },
+  {
+    "id": "ea03351b-08a2-59f0-95f1-78412897abfc",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "mcq",
+    "stem": "_______ When you meet a person for the first time, make an effort to find the things which you and that person have in common so that you can build the conversation from that point. When you start conversation from there and then move outwards, you'll find all of a sudden that the conversation becomes a lot easier.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Just say it"
+      },
+      {
+        "key": "B",
+        "text": "Be present"
+      },
+      {
+        "key": "C",
+        "text": "Pay a unique compliment"
+      },
+      {
+        "key": "D",
+        "text": "Name, places, things"
+      },
+      {
+        "key": "E",
+        "text": "Find the“me too\"s F.Skip the small talk"
+      }
+    ],
+    "answer": "E",
+    "explanation": "题目描述的是初次见面时，应努力寻找与对方的共同点（things which you and that person have in\ncommon），并以此为基础展开对话。这种方法会使对话变得更轻松自然。E选项“Find the 'me too's” 直接\n对应“寻找共同点”这一策略，强调通过发现彼此的共同之处（如兴趣、经历等）来建立联系，与题目描述完\n全契合。其他选项不符合题意：A（直接表达）未提及共同点；B（专注当下）与话题无关；C（独特赞美）\n偏离核心；D（名字、地点、事物）过于宽泛；F（跳过寒暄）与建议的对话方式矛盾。因此，E为最佳答案。\n时间状语从句\n时间状语从句连词\n38\n【逻辑连词：when/while/as/before/after/since/until/as soon as/by the time】\n连词\n意思\nwhen/while/as\n同时发生\nbefore/after\n在...之前/在...之后\nsince/until/by the time\n自从.../直到.../到...之时为止\nas soon as\n一...就...\nWhile producing large quantities of CO₂ ，these computers emit a great deal of heat\n这些计算机在大量产生二氧化碳的同时，还会释放出大量的热量\n知识点一：not until 用法\n39\n简答题\n【例题】the corporate workplace will never be completely family-friendly until women are part of senior\nmanagement decisions......\n直到女性成为高级管理层的一份子，公司才会彻底地为(他们的)家庭着想.\n真题演练一\n40\nEurope is not a gender-equality heaven. In particular, the corporate workplace will never be\ncompletely family-friendly until women are part of senior management decisions, and Europe’s top\ncorporate-governance positions remain overwhelmingly male. Indeed, women hold only 14 per\ncent of positions on European corporate boards.",
+    "source_file": "英语2/长难句6-状语从句【预习版】.pdf",
+    "source_page": 35,
+    "needs_review": false,
+    "sort_order": 60
+  },
+  {
+    "id": "4e0d9358-1534-5ea8-ad4d-4d73550250c4",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "short",
+    "stem": "In the European corporate workplace, generally______. [A] women take the lead [B] men have the final say [C] corporate governance is overwhelmed [D] senior management is family-friendly overwhelm这个词重点掌握，真题高频词 41 Overwhelming majorities of both groups said（that） they believe（that） it is harder for young people today to get started in life than it was for earlier generations. 绝大多数两组人都认为，如今年轻人开始独立生活比前几代人更难 42",
+    "options": null,
+    "answer": "[B] men have the final say",
+    "explanation": "原文核心信息：欧洲企业高层性别不平等（\"not a gender-equality heaven\"）。\n关键数据：女性仅占董事会席位的 14%，高层职位 \"overwhelmingly male\"（绝大多数为男性）。\n职场环境 \"never be completely family-friendly\"（对家庭不友好）除非女性参与高层决策。\n选项分析：[A] women take the lead（女性主导）→ 与原文矛盾，原文强调男性占主导地位。\n[B] men have the final say（男性掌握最终决定权）→ 符合原文“高层绝大多数为男性”的描述，且女性\n参与决策不足。\n[C] corporate governance is overwhelmed（公司治理不堪重负）→ 原文未提及“不堪重负”，属于无关\n选项。\n[D] senior management is family-friendly（高层管理对家庭友好）→ 原文明确说职场 \"never\ncompletely family-friendly\"，直接排除。排除法：[A]、[C]、[D] 均与原文冲突或无支持，仅 [B] 与数据\n和高层性别比例一致。\n地点状语从句—非重点部分\n逻辑连词\n44\nAnd one of the easiest ways to segment（v 划分） a market is to magnify（v 扩大） gender（n 性别）\ndifferences——or invent(v 发明） them where they did not previously（adv 以前地） exist（v. 存在）.\n市场细分最简单的策略之一，就是刻意放大性别差异——甚或在原本并无差异的地方（刻意）制造差异。",
+    "source_file": "英语2/长难句6-状语从句【预习版】.pdf",
+    "source_page": 40,
+    "needs_review": true,
+    "sort_order": 61
+  },
+  {
+    "id": "d1388393-ae8e-5cab-80c9-3271e0fa8d88",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "short",
+    "stem": "where they did not previously exist 4 主句 one of the easiest ways is to A and to B 真题演练一 45 ①Girls’attraction to pink may seem unavoidable, somehow encoded in their DNA, but it is not. ②I had not realised how profoundly marketing trends dictated our perception of what is natural to kids, including our core beliefs about their psychological development. Take the toddler. It was popularized as a marketing trick by clothing manufactures in the 1930s. ③Trade publications counselled department stores that, in order to increase sales, they should create a \"third stepping stone\" between infant wear and older kids' clothes. It was only after \"toddler\" became a common shoppers' term that it evolved into a broadly accepted developmental stage. Splitting kids, or adults, into ever-timer categories has proved a sure-fire way to boost profits. And one of the easiest ways to segment a market is to magnify gender differences or invent them where they did not previously exist. It can be concluded that girls' attraction to pink seems to be_____ . 真题演练一 46 It can be concluded that girls' attraction to pink seems to be_____ . [A] fully understood by clothing manufacturers服装生产商完全理解 [B] clearly explained by their inborn tendency可以由她们与生俱来的倾向清晰解释 [C] mainly imposed by profit-driven businessmen主要是受利益驱动的商人强加造成的 [D] well interpreted by psychological experts被心理学专家充分解读 干扰项分析 47 ①Girls’attraction to pink may seem unavoidable, somehow encoded in their DNA, but it is not. ②Take the toddler. It was popularized as a marketing trick by clothing manufactures in the 1930s. ③Trade publications counselled department stores that, in order to increase sales, they should create a \"third stepping stone\" between infant wear and older kids' clothes. ④And one of the easiest ways to segment a market is to magnify gender differences or invent them where they did not previously exist. 女孩子被红色的衣服吸引，是因为市场营销策略导致的，衣服厂商为了赚钱，他们创造了性别差异 It can be concluded that girls' attraction to pink seems to be_____ . [A] fully understood by clothing manufacturers服装生产商完全理解 [B] clearly explained by their inborn tendency可以由她们与生俱来的倾向清晰解释 [C] mainly imposed by profit-driven businessmen主要是受利益驱动的商人强加造成的 [D] well interpreted by psychological experts被心理学专家充分解读 48 文章主旨：文章指出女孩对粉色的喜爱并非天生，而是由市场营销策略塑造的。商家通过细分市场（如创造 “toddler”这一概念）和放大性别差异来提升利润，粉色与女孩的关联正是这种商业策略的结果。 选项分析：[A] 服装制造商完全理解：文章提到制造商利用营销策略，但未提及他们“完全理解”女孩对粉色的 喜爱，而是强调他们人为制造了这种趋势。[B] 由先天倾向明确解释：文章明确否定这一点（首句指出“not encoded in their DNA”）。[C] 主要由利润驱动的商人强加：与文章内容一致。商家通过细分市场和放大性别 差异（如推广粉色）来提升利润，说明这种吸引力是商业利益驱动的结果。[D] 心理学专家合理解释：文章 未提及心理学专家的角色，重点在商业策略。 比较状语从句—非重点部分 比较逻辑连词 50 逻辑连词 中文 备注 than 比....多/少 than前边是比较级，后边+ 句子，才是比较状语从句 as 和...相比.... Overwhelming majorities of both groups said（that） they believe（that） it is harder for young people today to get started in life than it was for earlier generations. The climate change（that） we are hastening could one day leave us with forests that emit more carbon than they absorb. 真题演练一： 51 ①Even in traditional offices, \"the lingua franca of corporate America has gotten much more emotional and much more right-brained than it was 20 years ago,\" said Harvard Business School professor Nancy Koehn. ②She started spinning off examples. ③\"If you and I parachuted back to Fortune 500 companies in 1990, we would see much less frequent use of terms like journey, mission, passion. ④There were goals, there were strategies, there were objectives, but we didn't talk about energy; we didn't talk about passion.\"",
+    "options": null,
+    "answer": "[C]。文章明确说明女孩对粉色的偏好是商家为利润人为强加的（如第三段末句）。",
+    "explanation": "",
+    "source_file": "英语2/长难句6-状语从句【预习版】.pdf",
+    "source_page": 44,
+    "needs_review": true,
+    "sort_order": 62
+  },
+  {
+    "id": "f37ef7fe-c43c-513b-85ed-a640c92fcc1d",
+    "chapter_id": "22222222-2222-2222-2222-222222222221",
+    "qtype": "short",
+    "stem": "According to Nancy Koehn, office language has become ______. [A] less strategic [B] less energetic [C] more objective [D] more emotional 52 原文分析 关键引述：Nancy Koehn指出：\"美国企业通用语言比20年前更加情感化和右脑化（much more emotional and much more right-brained）\"。 对比1990年：当时更多使用\"goals, strategies, objectives\"等理性词汇，较少使用\"journey, mission, passion\"等感性词汇。 核心变化：过去：强调战略目标（strategic, objective）现在：强调情感表达（emotional, passionate） 选项匹配[A] less strategic：原文未说战略减少，而是表达方式转变。[B] less energetic：与原文 \"energy/passion\"增多的描述矛盾。[C] more objective：与\"emotional\"趋势相反。[D] more emotional： 直接对应\"much more emotional\"。 方式状语从句—非重点部分 逻辑连词 54 逻辑连词 中文 as 按照....方式 as if 好像，仿佛：用于表示某事物或行为看 起来像是另一种情况，但实际上并非如 此 真题演练一 55 Carry a book with you at all times can actually work, too — providing you dip in often enough, so that reading becomes the default state from which you temporarily surface to take care of business, before dropping back down.On a really good day，it no longer feels as if you are “making time” to read，” but just reading and making time for everything",
+    "options": null,
+    "answer": "[D] more emotional",
+    "explanation": "",
+    "source_file": "英语2/长难句6-状语从句【预习版】.pdf",
+    "source_page": 51,
+    "needs_review": true,
+    "sort_order": 63
+  }
+]

@@ -1,0 +1,842 @@
+[
+  {
+    "id": "196bf1e6-fe58-5415-ab32-1e38e408c0ff",
+    "chapter_id": "22222222-2222-2222-2222-222222222213",
+    "qtype": "mcq",
+    "stem": "𝑥+ 𝑦+ 𝑧> 0 ⇒𝑥, 𝑦, 𝑧至少有一个大于0； 𝑥+ 𝑦+ 𝑧⩾0 ⇒𝑥, 𝑦, 𝑧至少有一个大于等于0. 6. 1 𝑛(𝑛+𝑘) = 1 𝑘( 1 𝑛− 1 𝑛+𝑘) ， 1 √𝑛+𝑘−√𝑛= 1 𝑘(√𝑛+ 𝑘+ √𝑛). 知新 主讲人：十一老师 现在是网络设备测试时间，课程将准时开始，请大家耐心等待 你的坚持，终将美好！ 16 题型1：考查乘积的裂项 例1： 1 1×2 + 1 2×3 + 1 3×4 + ⋯+ 1 99×100 = ( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "99 100"
+      },
+      {
+        "key": "B",
+        "text": "100 101"
+      },
+      {
+        "key": "C",
+        "text": "99 101"
+      },
+      {
+        "key": "D",
+        "text": "97 100"
+      },
+      {
+        "key": "E",
+        "text": "98 100 题型2：考查根式的裂项 例2： 1 1+√2 + 1 √2+√3 + 1 √3+√4 + ⋯+ 1 √99+√100 = ( )."
+      },
+      {
+        "key": "A",
+        "text": "9"
+      },
+      {
+        "key": "B",
+        "text": "10"
+      },
+      {
+        "key": "C",
+        "text": "11"
+      },
+      {
+        "key": "D",
+        "text": "3√11 −1"
+      },
+      {
+        "key": "E",
+        "text": "3√11 你的坚持，终将美好！ 17 你的坚持，终将美好！ 18 题型3：考查分式的裂项"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第3章 集合与函数（1）合订版.pdf",
+    "source_page": 1,
+    "needs_review": true,
+    "sort_order": 1
+  },
+  {
+    "id": "42b93742-c070-5c66-982b-bfa3bff78e00",
+    "chapter_id": "22222222-2222-2222-2222-222222222213",
+    "qtype": "mcq",
+    "stem": "𝑓(𝑥) = 1 (𝑥+1)(𝑥+2) + 1 (𝑥+2)(𝑥+3) + ⋯+ 1 (𝑥+9)(𝑥+10) , 𝑓(8) = ( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 9"
+      },
+      {
+        "key": "B",
+        "text": "1 10"
+      },
+      {
+        "key": "C",
+        "text": "1 16"
+      },
+      {
+        "key": "D",
+        "text": "1 17"
+      },
+      {
+        "key": "E",
+        "text": "1 18 你的坚持，终将美好！ 19 知识咖啡站：（此为自学部分，学有余力的同学自行查看） 一、𝒏次方公式"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第3章 集合与函数（1）合订版.pdf",
+    "source_page": 4,
+    "needs_review": true,
+    "sort_order": 2
+  },
+  {
+    "id": "85e51503-7aad-59f4-833f-6292daa46847",
+    "chapter_id": "22222222-2222-2222-2222-222222222213",
+    "qtype": "mcq",
+    "stem": "已知𝐴= {𝑎+ 2, (𝑎+ 1)2, 𝑎2 + 3𝑎+ 3}，若1 ∈𝐴，求实数𝑎的值( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "2"
+      },
+      {
+        "key": "B",
+        "text": "3"
+      },
+      {
+        "key": "C",
+        "text": "4"
+      },
+      {
+        "key": "D",
+        "text": "5"
+      },
+      {
+        "key": "E",
+        "text": "0"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第3章 集合与函数（1）合订版.pdf",
+    "source_page": 10,
+    "needs_review": true,
+    "sort_order": 3
+  },
+  {
+    "id": "ad4cb9de-a346-568d-9346-06a3419a9f06",
+    "chapter_id": "22222222-2222-2222-2222-222222222213",
+    "qtype": "mcq",
+    "stem": "设集合𝐴= {𝑥| |𝑥−𝑎| < 1, 𝑥∈𝐑}，𝐵= {𝑥| |𝑥−𝑏| < 2, 𝑥∈𝐑}，两 𝐴⊂𝐵的充分必要条件是( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "|𝑎−𝑏| ⩽1"
+      },
+      {
+        "key": "B",
+        "text": "|𝑎−𝑏| ⩾1"
+      },
+      {
+        "key": "C",
+        "text": "|𝑎−𝑏| < 1"
+      },
+      {
+        "key": "D",
+        "text": "|𝑎−𝑏| > 1"
+      },
+      {
+        "key": "E",
+        "text": "|𝑎−𝑏| = 1"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第3章 集合与函数（1）合订版.pdf",
+    "source_page": 12,
+    "needs_review": true,
+    "sort_order": 4
+  },
+  {
+    "id": "9f669857-bd5c-595b-89dc-2594fc97de92",
+    "chapter_id": "22222222-2222-2222-2222-222222222213",
+    "qtype": "mcq",
+    "stem": "某单位有90 人，其中65 人参加外语培训，72人参加计算机培训，己 知参加外语培训而未参加计算机培训的有8人，两参加计算机培训而 未参加英语培训的人数是( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "5"
+      },
+      {
+        "key": "B",
+        "text": "8"
+      },
+      {
+        "key": "C",
+        "text": "10"
+      },
+      {
+        "key": "D",
+        "text": "12"
+      },
+      {
+        "key": "E",
+        "text": "15"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第3章 集合与函数（1）合订版.pdf",
+    "source_page": 12,
+    "needs_review": true,
+    "sort_order": 5
+  },
+  {
+    "id": "dca94555-99a4-5d01-b182-2c7e47fbef83",
+    "chapter_id": "22222222-2222-2222-2222-222222222213",
+    "qtype": "mcq",
+    "stem": "已知𝑓(𝑥)为定义在𝐑上的奇函数，当𝑥⩾0时，𝑓(𝑥) = 2𝑥+ 2𝑥−1，两 𝑓(−1) = ( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "−3"
+      },
+      {
+        "key": "B",
+        "text": "−1"
+      },
+      {
+        "key": "C",
+        "text": "1"
+      },
+      {
+        "key": "D",
+        "text": "3"
+      },
+      {
+        "key": "E",
+        "text": "4"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第3章 集合与函数（1）合订版.pdf",
+    "source_page": 15,
+    "needs_review": true,
+    "sort_order": 6
+  },
+  {
+    "id": "4e4c9b90-525f-5232-afa3-2ec0d0514cc4",
+    "chapter_id": "22222222-2222-2222-2222-222222222213",
+    "qtype": "mcq",
+    "stem": "下列函数中，是正比例函数的是( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "𝑦= 1 2 𝑥"
+      },
+      {
+        "key": "B",
+        "text": "𝑦= 4 𝑥"
+      },
+      {
+        "key": "C",
+        "text": "𝑦= 5𝑥−3"
+      },
+      {
+        "key": "D",
+        "text": "𝑦= 6𝑥2 −2𝑥−1"
+      },
+      {
+        "key": "E",
+        "text": "𝑦= 4𝑥+ 3 例2、一次函数𝑦= 𝑘𝑥−𝑘，若𝑦随着𝑥的增大而减小，两该函数图像过( )."
+      },
+      {
+        "key": "A",
+        "text": "一、二、三象限"
+      },
+      {
+        "key": "B",
+        "text": "一、二、四象限"
+      },
+      {
+        "key": "C",
+        "text": "一、三、四象限"
+      },
+      {
+        "key": "D",
+        "text": "二、三、四象限"
+      },
+      {
+        "key": "E",
+        "text": "以上答案均不对"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第3章 集合与函数（1）合订版.pdf",
+    "source_page": 17,
+    "needs_review": true,
+    "sort_order": 7
+  },
+  {
+    "id": "0e5a878e-c7f6-51f2-a642-871fbc03adcc",
+    "chapter_id": "22222222-2222-2222-2222-222222222213",
+    "qtype": "mcq",
+    "stem": "直线𝑦= 𝑘𝑥+ 1一定过点( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "(1,0)"
+      },
+      {
+        "key": "B",
+        "text": "(1, 𝑘)"
+      },
+      {
+        "key": "C",
+        "text": "(0. 𝑘)"
+      },
+      {
+        "key": "D",
+        "text": "(0,1)"
+      },
+      {
+        "key": "E",
+        "text": "(𝑘, 0) 提示：𝒌是可变的，过定点需要消除𝒌的影响."
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第3章 集合与函数（1）合订版.pdf",
+    "source_page": 17,
+    "needs_review": true,
+    "sort_order": 8
+  },
+  {
+    "id": "d7ce5bf7-9c27-5bbf-b85c-5c397e5c7fe9",
+    "chapter_id": "22222222-2222-2222-2222-222222222213",
+    "qtype": "mcq",
+    "stem": "已知二次函数𝑦= 𝑎𝑥2 + 𝑏𝑥+ 𝑐的图像如图所示，两𝑎, 𝑏, 𝑐满足( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "𝑎< 0, 𝑏< 0, 𝑐> 0"
+      },
+      {
+        "key": "B",
+        "text": "𝑎< 0, 𝑏< 0, 𝑐< 0"
+      },
+      {
+        "key": "C",
+        "text": "𝑎< 0, 𝑏> 0, 𝑐> 0"
+      },
+      {
+        "key": "D",
+        "text": "𝑎> 0, 𝑏< 0, 𝑐> 0"
+      },
+      {
+        "key": "E",
+        "text": "𝑎> 0, 𝑏< 0, 𝑐> 0"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第3章 集合与函数（1）合订版.pdf",
+    "source_page": 21,
+    "needs_review": true,
+    "sort_order": 9
+  },
+  {
+    "id": "685ddfe8-6554-583a-937c-b76a391c3e3e",
+    "chapter_id": "22222222-2222-2222-2222-222222222213",
+    "qtype": "mcq",
+    "stem": "已知二次函数𝑦= 𝑎𝑥2 + 𝑏𝑥+ 𝑐的图像顶点坐标为(2, −1)，与𝑦轴的 交点为(0,11)，两有( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "𝑎= 1, 𝑏= −4, 𝑐= 11"
+      },
+      {
+        "key": "B",
+        "text": "𝑎= 3, 𝑏= 12, 𝑐= 11"
+      },
+      {
+        "key": "C",
+        "text": "𝑎= 1, 𝑏= 4, 𝑐= 11"
+      },
+      {
+        "key": "D",
+        "text": "𝑎= 3, 𝑏= −12, 𝑐= 11"
+      },
+      {
+        "key": "E",
+        "text": "𝑎= 1, 𝑏= −12, 𝑐= 11"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第3章 集合与函数（1）合订版.pdf",
+    "source_page": 21,
+    "needs_review": true,
+    "sort_order": 10
+  },
+  {
+    "id": "c141b4fe-1c70-540b-8b34-7b9a9d8582cf",
+    "chapter_id": "22222222-2222-2222-2222-222222222213",
+    "qtype": "mcq",
+    "stem": "设二次函数𝑓(𝑥) = 𝑎𝑥2 + 𝑏𝑥+ 𝑐，且𝑓(2) = 𝑓(0)，且 𝑓(3)−𝑓(2) 𝑓(2)−𝑓(1)=( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "2"
+      },
+      {
+        "key": "B",
+        "text": "3"
+      },
+      {
+        "key": "C",
+        "text": "4"
+      },
+      {
+        "key": "D",
+        "text": "5"
+      },
+      {
+        "key": "E",
+        "text": "6"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第3章 集合与函数（1）合订版.pdf",
+    "source_page": 23,
+    "needs_review": true,
+    "sort_order": 11
+  },
+  {
+    "id": "61bbb49f-3efc-5a8a-8fb9-63dc3bb96c1f",
+    "chapter_id": "22222222-2222-2222-2222-222222222213",
+    "qtype": "mcq",
+    "stem": "如果函数𝑓(𝑥) = 𝑥2 + 2(𝑎−1)𝑥+ 2在区间(−∞, 4]上递减的，那么实 数𝑎的取值范围为( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "𝑎⩽−3"
+      },
+      {
+        "key": "B",
+        "text": "𝑎⩾−3"
+      },
+      {
+        "key": "C",
+        "text": "𝑎⩽5"
+      },
+      {
+        "key": "D",
+        "text": "𝑎⩾5"
+      },
+      {
+        "key": "E",
+        "text": "以上均不正确"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第3章 集合与函数（1）合订版.pdf",
+    "source_page": 23,
+    "needs_review": true,
+    "sort_order": 12
+  },
+  {
+    "id": "508a7121-aba2-5ffd-ad61-bd5907e7fdf7",
+    "chapter_id": "22222222-2222-2222-2222-222222222213",
+    "qtype": "mcq",
+    "stem": "函数𝑓(𝑥) = max {𝑥2, −𝑥2 + 8}的最小值为( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "8"
+      },
+      {
+        "key": "B",
+        "text": "7"
+      },
+      {
+        "key": "C",
+        "text": "6"
+      },
+      {
+        "key": "D",
+        "text": "5"
+      },
+      {
+        "key": "E",
+        "text": "4"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第3章 集合与函数（1）合订版.pdf",
+    "source_page": 25,
+    "needs_review": true,
+    "sort_order": 13
+  },
+  {
+    "id": "bf571d53-3915-53fd-96cb-4c8d013dc61d",
+    "chapter_id": "22222222-2222-2222-2222-222222222213",
+    "qtype": "mcq",
+    "stem": "如果函数𝑓(𝑥) = 𝑥2 + 𝑏𝑥+ 𝑐,对于任意实数𝑡都有𝑓(3 + 𝑡) = 𝑓(3 −𝑡), 那么( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "𝑓(3) < 𝑓(1) < 𝑓(4)"
+      },
+      {
+        "key": "B",
+        "text": "𝑓(1) < 𝑓(3) < 𝑓(4) C. 𝑓(3) < 𝑓(4) < 𝑓(1)"
+      },
+      {
+        "key": "D",
+        "text": "𝑓(4) < 𝑓(3) < 𝑓(1) E. 𝑓(4) < 𝑓(1) < 𝑓(3) 提示：若函数𝑓(𝑥)关于直线𝒙= 𝒂对称， 则有𝒇(𝒂+ 𝒙) = 𝒇(𝒂−𝒙) ⇔ 𝒇(𝒙) = 𝒇(𝟐𝒂−𝒙)."
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第3章 集合与函数（2）含解析的合订版.pdf",
+    "source_page": 2,
+    "needs_review": true,
+    "sort_order": 14
+  },
+  {
+    "id": "b60db6cd-16ff-51d8-92f3-98a64dcddfae",
+    "chapter_id": "22222222-2222-2222-2222-222222222213",
+    "qtype": "mcq",
+    "stem": "如果函数𝑓(𝑥) = (1 −2𝑎)𝑥在实数集𝐑上是减函数，那么实数𝑎的取值 范围是( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "(0, 1 2)"
+      },
+      {
+        "key": "B",
+        "text": "(1 2 , +∞)"
+      },
+      {
+        "key": "C",
+        "text": "(−∞, 1 2)"
+      },
+      {
+        "key": "D",
+        "text": "(−1 2 , 1 2)"
+      },
+      {
+        "key": "E",
+        "text": "(1, +∞)"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第3章 集合与函数（2）含解析的合订版.pdf",
+    "source_page": 5,
+    "needs_review": true,
+    "sort_order": 15
+  },
+  {
+    "id": "34275d33-7afa-519f-840e-c086f41f8967",
+    "chapter_id": "22222222-2222-2222-2222-222222222213",
+    "qtype": "mcq",
+    "stem": "已知函数𝑓(𝑥) = 5𝑥，若𝑓(𝑎+ 𝑏) = 3，则𝑓(2𝑎)𝑓(2𝑏) = ( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "3"
+      },
+      {
+        "key": "B",
+        "text": "4"
+      },
+      {
+        "key": "C",
+        "text": "5"
+      },
+      {
+        "key": "D",
+        "text": "9"
+      },
+      {
+        "key": "E",
+        "text": "25"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第3章 集合与函数（2）含解析的合订版.pdf",
+    "source_page": 5,
+    "needs_review": true,
+    "sort_order": 16
+  },
+  {
+    "id": "f9990b46-d45a-5d4a-a3b5-0b30d53f2e75",
+    "chapter_id": "22222222-2222-2222-2222-222222222213",
+    "qtype": "mcq",
+    "stem": "设𝑎𝑛= log𝑛(𝑛+ 1)，计算𝑎2𝑎3𝑎4 ⋯𝑎127 = ( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "2"
+      },
+      {
+        "key": "B",
+        "text": "4"
+      },
+      {
+        "key": "C",
+        "text": "6"
+      },
+      {
+        "key": "D",
+        "text": "7"
+      },
+      {
+        "key": "E",
+        "text": "8"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第3章 集合与函数（2）含解析的合订版.pdf",
+    "source_page": 9,
+    "needs_review": true,
+    "sort_order": 17
+  },
+  {
+    "id": "1766b5c9-f16c-5377-ac28-19b5b2963ebf",
+    "chapter_id": "22222222-2222-2222-2222-222222222213",
+    "qtype": "mcq",
+    "stem": "已知lg(𝑥+ 𝑦) + lg(2𝑥+ 3𝑦) −lg3 = lg4 + lg𝑥+ lg𝑦,则𝑥: 𝑦的值为( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "2 或1 3"
+      },
+      {
+        "key": "B",
+        "text": "1 2 或3"
+      },
+      {
+        "key": "C",
+        "text": "1 2"
+      },
+      {
+        "key": "D",
+        "text": "1 3"
+      },
+      {
+        "key": "E",
+        "text": "3 2 题型3：考查综合应用（难）"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第3章 集合与函数（2）含解析的合订版.pdf",
+    "source_page": 11,
+    "needs_review": true,
+    "sort_order": 18
+  },
+  {
+    "id": "c12c6168-5a4b-5c1c-927b-12182228b872",
+    "chapter_id": "22222222-2222-2222-2222-222222222213",
+    "qtype": "mcq",
+    "stem": "若2𝑎= 3𝑏= 12，则 2 𝑎+ 1 𝑏= ( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "1"
+      },
+      {
+        "key": "B",
+        "text": "2"
+      },
+      {
+        "key": "C",
+        "text": "3"
+      },
+      {
+        "key": "D",
+        "text": "6"
+      },
+      {
+        "key": "E",
+        "text": "12"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第3章 集合与函数（2）含解析的合订版.pdf",
+    "source_page": 11,
+    "needs_review": true,
+    "sort_order": 19
+  },
+  {
+    "id": "2c4ab2b2-032d-5fa9-969f-876867a641f7",
+    "chapter_id": "22222222-2222-2222-2222-222222222213",
+    "qtype": "mcq",
+    "stem": "下列函数中，幂函数有( )个. ①𝑦= 2𝑥；②𝑦= 𝑥2 −1；③𝑦= 2 √𝑥；④𝑦= 2𝑥；⑤𝑦= √𝑥2 3",
+    "options": [
+      {
+        "key": "A",
+        "text": "1"
+      },
+      {
+        "key": "B",
+        "text": "2"
+      },
+      {
+        "key": "C",
+        "text": "3"
+      },
+      {
+        "key": "D",
+        "text": "4"
+      },
+      {
+        "key": "E",
+        "text": "5"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第3章 集合与函数（2）含解析的合订版.pdf",
+    "source_page": 13,
+    "needs_review": true,
+    "sort_order": 20
+  },
+  {
+    "id": "b5aa352c-a01b-57dd-86e7-eb9e958ed885",
+    "chapter_id": "22222222-2222-2222-2222-222222222213",
+    "qtype": "mcq",
+    "stem": "幂函数𝑓(𝑥) = 𝑘𝑥𝛼(𝑘, 𝛼∈𝐑)的图像过点( 1 2 , √2)，则𝑘+ 𝛼= ( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "0"
+      },
+      {
+        "key": "B",
+        "text": "1"
+      },
+      {
+        "key": "C",
+        "text": "−1"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第3章 集合与函数（2）含解析的合订版.pdf",
+    "source_page": 13,
+    "needs_review": true,
+    "sort_order": 21
+  },
+  {
+    "id": "47497291-51d6-53a3-a13f-b42f8fa5b144",
+    "chapter_id": "22222222-2222-2222-2222-222222222213",
+    "qtype": "mcq",
+    "stem": "如图，在平面直角坐标系中，菱形𝑂𝐴𝐵𝐶的面积为12，点𝐵在𝑦轴上， 点𝐶在反比例函数𝑦= 𝑘 𝑥的图象上，则𝑘的值为( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "−6"
+      },
+      {
+        "key": "B",
+        "text": "8"
+      },
+      {
+        "key": "C",
+        "text": "9"
+      },
+      {
+        "key": "D",
+        "text": "10"
+      },
+      {
+        "key": "E",
+        "text": "11"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第3章 集合与函数（2）含解析的合订版.pdf",
+    "source_page": 14,
+    "needs_review": true,
+    "sort_order": 22
+  },
+  {
+    "id": "65445850-35be-51d8-95fa-712a97ee7722",
+    "chapter_id": "22222222-2222-2222-2222-222222222213",
+    "qtype": "mcq",
+    "stem": "购买𝐴玩具和𝐵玩具各1 件需花费1.4 元，购买200 件𝐴玩具和150件 𝐵玩具需花费250 元，则𝐴玩具的单价为( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "0.5元"
+      },
+      {
+        "key": "B",
+        "text": "0.6元"
+      },
+      {
+        "key": "C",
+        "text": "0.7元"
+      },
+      {
+        "key": "D",
+        "text": "0.8元"
+      },
+      {
+        "key": "E",
+        "text": "0.9元"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第3章 集合与函数（2）含解析的合订版.pdf",
+    "source_page": 20,
+    "needs_review": true,
+    "sort_order": 23
+  },
+  {
+    "id": "e0c1c55e-a45c-52fd-a472-863ced51ed63",
+    "chapter_id": "22222222-2222-2222-2222-222222222213",
+    "qtype": "mcq",
+    "stem": "完成某项工作，甲乙两公司合作需要6天，若甲单独做4天由乙公司接 着做9天完成，若甲单独做需要( )天完成.",
+    "options": [
+      {
+        "key": "A",
+        "text": "7"
+      },
+      {
+        "key": "B",
+        "text": "8"
+      },
+      {
+        "key": "C",
+        "text": "9"
+      },
+      {
+        "key": "D",
+        "text": "10"
+      },
+      {
+        "key": "E",
+        "text": "11"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第3章 集合与函数（2）含解析的合订版.pdf",
+    "source_page": 20,
+    "needs_review": true,
+    "sort_order": 24
+  }
+]

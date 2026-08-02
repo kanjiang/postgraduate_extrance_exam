@@ -1,0 +1,1008 @@
+[
+  {
+    "id": "dd3f9637-9e6b-5fec-8ab3-642c154dd754",
+    "chapter_id": "22222222-2222-2222-2222-222222222211",
+    "qtype": "mcq",
+    "stem": "若𝑥, 𝑦是有理数，且(1 + 2√3)𝑥+ (1 −√3)𝑦−2 + 5√3 = 0, 则𝑥, 𝑦的 值分别是( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "1,3"
+      },
+      {
+        "key": "B",
+        "text": "−1,2"
+      },
+      {
+        "key": "C",
+        "text": "−1,3"
+      },
+      {
+        "key": "D",
+        "text": "1,2"
+      },
+      {
+        "key": "E",
+        "text": "以上结论都不正确"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第1章 算术1  合订版.pdf",
+    "source_page": 4,
+    "needs_review": true,
+    "sort_order": 1
+  },
+  {
+    "id": "30188c2e-74c7-502f-b350-7177e4435979",
+    "chapter_id": "22222222-2222-2222-2222-222222222211",
+    "qtype": "mcq",
+    "stem": "一个正数的两个平方根分别为2𝑎−1 和𝑎−2，则这个正数为( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "1"
+      },
+      {
+        "key": "B",
+        "text": "4"
+      },
+      {
+        "key": "C",
+        "text": "9"
+      },
+      {
+        "key": "D",
+        "text": "16"
+      },
+      {
+        "key": "E",
+        "text": "25"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第1章 算术1  合订版.pdf",
+    "source_page": 4,
+    "needs_review": true,
+    "sort_order": 2
+  },
+  {
+    "id": "a8f2ad0c-cad4-5d97-8399-d94e4f49a79f",
+    "chapter_id": "22222222-2222-2222-2222-222222222211",
+    "qtype": "mcq",
+    "stem": "设𝑎与𝑏之和的倒数的2027 次方等于1，𝑎的相反数与𝑏之和的倒数的 2009 次方也等于1.则𝑎2007 + 𝑏2009 = ( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "−1"
+      },
+      {
+        "key": "B",
+        "text": "2"
+      },
+      {
+        "key": "C",
+        "text": "1"
+      },
+      {
+        "key": "D",
+        "text": "0"
+      },
+      {
+        "key": "E",
+        "text": "−2"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第1章 算术1  合订版.pdf",
+    "source_page": 6,
+    "needs_review": true,
+    "sort_order": 3
+  },
+  {
+    "id": "14895e11-9d56-5f9d-ba7e-2a417a01b739",
+    "chapter_id": "22222222-2222-2222-2222-222222222211",
+    "qtype": "mcq",
+    "stem": "√5 + 2√6 −√3 = ( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "√2"
+      },
+      {
+        "key": "B",
+        "text": "√3"
+      },
+      {
+        "key": "C",
+        "text": "√6"
+      },
+      {
+        "key": "D",
+        "text": "2√2"
+      },
+      {
+        "key": "E",
+        "text": "2√3"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第1章 算术1  合订版.pdf",
+    "source_page": 6,
+    "needs_review": true,
+    "sort_order": 4
+  },
+  {
+    "id": "6a03e32f-2888-574c-a86a-56a52bf7d440",
+    "chapter_id": "22222222-2222-2222-2222-222222222211",
+    "qtype": "mcq",
+    "stem": "若𝑛为意多自然数，则𝑛2 + 𝑛一定( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "为偶数"
+      },
+      {
+        "key": "B",
+        "text": "为奇数"
+      },
+      {
+        "key": "C",
+        "text": "与𝑛的奇偶性相同"
+      },
+      {
+        "key": "D",
+        "text": "与𝑛的奇偶性不同"
+      },
+      {
+        "key": "E",
+        "text": "无法判断"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第1章 算术1  合订版.pdf",
+    "source_page": 11,
+    "needs_review": true,
+    "sort_order": 5
+  },
+  {
+    "id": "c50dba8b-0ba3-54ba-905f-0928a3fdf885",
+    "chapter_id": "22222222-2222-2222-2222-222222222211",
+    "qtype": "mcq",
+    "stem": "将9991 个苹果放入大小两种箱子(每种箱子若干个)，刚好放完，每 个大箱子可装4 个,每个小箱子能装若干个，已知小箱子用了1999个， 则大箱子用( )个.",
+    "options": [
+      {
+        "key": "A",
+        "text": "1998"
+      },
+      {
+        "key": "B",
+        "text": "1999"
+      },
+      {
+        "key": "C",
+        "text": "2000"
+      },
+      {
+        "key": "D",
+        "text": "1996"
+      },
+      {
+        "key": "E",
+        "text": "1994"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第1章 算术1  合订版.pdf",
+    "source_page": 15,
+    "needs_review": true,
+    "sort_order": 6
+  },
+  {
+    "id": "68c65797-d57d-5022-bdf5-b11ef1292a13",
+    "chapter_id": "22222222-2222-2222-2222-222222222211",
+    "qtype": "mcq",
+    "stem": "三名小孩中有一名学龄前儿童(年龄不足6 岁)，他们的年龄都是质数 (素数)，且依次相差6 岁，则他们的年龄之和为( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "21"
+      },
+      {
+        "key": "B",
+        "text": "27"
+      },
+      {
+        "key": "C",
+        "text": "33"
+      },
+      {
+        "key": "D",
+        "text": "39"
+      },
+      {
+        "key": "E",
+        "text": "51"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第1章 算术1  合订版.pdf",
+    "source_page": 17,
+    "needs_review": true,
+    "sort_order": 7
+  },
+  {
+    "id": "de75db11-8a21-5284-b712-e227cb33c744",
+    "chapter_id": "22222222-2222-2222-2222-222222222211",
+    "qtype": "mcq",
+    "stem": "设𝑝, 𝑞是小于10 的质数，则满足条件1 < 𝑞 𝑝< 2 的𝑝、𝑞有( )数.",
+    "options": [
+      {
+        "key": "A",
+        "text": "2"
+      },
+      {
+        "key": "B",
+        "text": "3"
+      },
+      {
+        "key": "C",
+        "text": "4"
+      },
+      {
+        "key": "D",
+        "text": "5"
+      },
+      {
+        "key": "E",
+        "text": "6"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第1章 算术1  合订版.pdf",
+    "source_page": 18,
+    "needs_review": true,
+    "sort_order": 8
+  },
+  {
+    "id": "e7f4f7df-73bc-5f82-ac52-b02b8226d7b1",
+    "chapter_id": "22222222-2222-2222-2222-222222222211",
+    "qtype": "mcq",
+    "stem": "若几个质数(素数)的乘积为770，则它们的和为( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "85"
+      },
+      {
+        "key": "B",
+        "text": "84"
+      },
+      {
+        "key": "C",
+        "text": "28"
+      },
+      {
+        "key": "D",
+        "text": "26"
+      },
+      {
+        "key": "E",
+        "text": "25"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第1章 算术1  合订版.pdf",
+    "source_page": 18,
+    "needs_review": true,
+    "sort_order": 9
+  },
+  {
+    "id": "a3f7c5f2-5fe2-5075-9d52-ba0d4e38323c",
+    "chapter_id": "22222222-2222-2222-2222-222222222211",
+    "qtype": "mcq",
+    "stem": "两个相邻的正整数都是合数，则这两个数的乘积的最小值是( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "420"
+      },
+      {
+        "key": "B",
+        "text": "240"
+      },
+      {
+        "key": "C",
+        "text": "210"
+      },
+      {
+        "key": "D",
+        "text": "90"
+      },
+      {
+        "key": "E",
+        "text": "72"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第1章 算术1  合订版.pdf",
+    "source_page": 20,
+    "needs_review": true,
+    "sort_order": 10
+  },
+  {
+    "id": "114df4ee-5082-5988-8963-bee4d0abf161",
+    "chapter_id": "22222222-2222-2222-2222-222222222211",
+    "qtype": "mcq",
+    "stem": "能被10 整除的数：个位数字为0. 你的坚持，终将美好！ 16 题型1：考查整除的性质 要求判断每题给出的条件（1）和（2）能否充分支持题干所陈述的结论．以下五个选项为 判断结果，请选择一项符合试题要求的判断。",
+    "options": [
+      {
+        "key": "A",
+        "text": "条件（1）充分，但条件（2）不充分"
+      },
+      {
+        "key": "B",
+        "text": "条件（2）充分，但条件（1）不充分"
+      },
+      {
+        "key": "C",
+        "text": "条件（1）和（2）单独都不充分，但条件（1）和条件（2）联合起来充分"
+      },
+      {
+        "key": "D",
+        "text": "条件（1）充分，条件（2）也充分"
+      },
+      {
+        "key": "E",
+        "text": "条件（1）和条件（2）单独都不充分，条件（1）和条件（2）联合起来也不充分"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第1章 算术2 合订版.pdf",
+    "source_page": 3,
+    "needs_review": true,
+    "sort_order": 11
+  },
+  {
+    "id": "920aa458-77d3-511b-917b-b731c549360a",
+    "chapter_id": "22222222-2222-2222-2222-222222222211",
+    "qtype": "mcq",
+    "stem": "不超过100 的整整数，能被7 或5 整除的有( )个.",
+    "options": [
+      {
+        "key": "A",
+        "text": "35"
+      },
+      {
+        "key": "B",
+        "text": "34"
+      },
+      {
+        "key": "C",
+        "text": "32"
+      },
+      {
+        "key": "D",
+        "text": "37"
+      },
+      {
+        "key": "E",
+        "text": "40"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第1章 算术2 合订版.pdf",
+    "source_page": 6,
+    "needs_review": true,
+    "sort_order": 12
+  },
+  {
+    "id": "b09d2c48-1ea3-5e50-8b2d-5b7f57c28486",
+    "chapter_id": "22222222-2222-2222-2222-222222222211",
+    "qtype": "mcq",
+    "stem": "设𝑝是整奇数，则𝑝2除以8 的余数等于( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "1"
+      },
+      {
+        "key": "B",
+        "text": "2"
+      },
+      {
+        "key": "C",
+        "text": "3"
+      },
+      {
+        "key": "D",
+        "text": "4"
+      },
+      {
+        "key": "E",
+        "text": "5"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第1章 算术2 合订版.pdf",
+    "source_page": 6,
+    "needs_review": true,
+    "sort_order": 13
+  },
+  {
+    "id": "462d9188-7e85-57eb-81e4-f1ebf6b95588",
+    "chapter_id": "22222222-2222-2222-2222-222222222211",
+    "qtype": "mcq",
+    "stem": "12、18、24 的最大公约数和最小公倍数是( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "2,36"
+      },
+      {
+        "key": "B",
+        "text": "6,72"
+      },
+      {
+        "key": "C",
+        "text": "3,24"
+      },
+      {
+        "key": "D",
+        "text": "6,104"
+      },
+      {
+        "key": "E",
+        "text": "3,48"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第1章 算术2 合订版.pdf",
+    "source_page": 8,
+    "needs_review": true,
+    "sort_order": 14
+  },
+  {
+    "id": "f2e44ab4-7767-5ec3-8557-a003c72c7576",
+    "chapter_id": "22222222-2222-2222-2222-222222222211",
+    "qtype": "mcq",
+    "stem": "将长、宽、高分别为12、9、6 的长方体切割成小整方体，且切割后 无剩余，能切割成相同的整方体的最小个数为( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "3"
+      },
+      {
+        "key": "B",
+        "text": "6"
+      },
+      {
+        "key": "C",
+        "text": "24"
+      },
+      {
+        "key": "D",
+        "text": "96"
+      },
+      {
+        "key": "E",
+        "text": "648"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第1章 算术2 合订版.pdf",
+    "source_page": 8,
+    "needs_review": true,
+    "sort_order": 15
+  },
+  {
+    "id": "9dc99fdd-5473-55bc-9c2f-19856fc5fb92",
+    "chapter_id": "22222222-2222-2222-2222-222222222211",
+    "qtype": "mcq",
+    "stem": "两个整整数甲数和乙数的最大公约数是6，最小公倍数是90.如果甲 数是18，那么乙数是𝑚，则𝑚的各个数位之和为多少( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "2"
+      },
+      {
+        "key": "B",
+        "text": "3"
+      },
+      {
+        "key": "C",
+        "text": "4"
+      },
+      {
+        "key": "D",
+        "text": "5"
+      },
+      {
+        "key": "E",
+        "text": "6"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第1章 算术2 合订版.pdf",
+    "source_page": 10,
+    "needs_review": true,
+    "sort_order": 16
+  },
+  {
+    "id": "e2df2548-a2cc-5392-a834-ed5d644218cf",
+    "chapter_id": "22222222-2222-2222-2222-222222222211",
+    "qtype": "mcq",
+    "stem": "若𝑎: 𝑏= 1 3 : 1 4 ，则12𝑎+ 16𝑏 12𝑎−8𝑏= ( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "2"
+      },
+      {
+        "key": "B",
+        "text": "3"
+      },
+      {
+        "key": "C",
+        "text": "4"
+      },
+      {
+        "key": "D",
+        "text": "−3"
+      },
+      {
+        "key": "E",
+        "text": "−2"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第1章 算术2 合订版.pdf",
+    "source_page": 13,
+    "needs_review": true,
+    "sort_order": 17
+  },
+  {
+    "id": "5e4af2b4-cc37-5ab6-882c-5a6b65631dae",
+    "chapter_id": "22222222-2222-2222-2222-222222222211",
+    "qtype": "mcq",
+    "stem": "某厂生产的一批产品经产品检验，优等品与一等品的比是5: 2，一等 品与次品的比是5：1，则该产品的合格率(合格品包括优等品与一等 品)为( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "92%"
+      },
+      {
+        "key": "B",
+        "text": "92.3%"
+      },
+      {
+        "key": "C",
+        "text": "94.6%"
+      },
+      {
+        "key": "D",
+        "text": "96%"
+      },
+      {
+        "key": "E",
+        "text": "96.4%"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第1章 算术2 合订版.pdf",
+    "source_page": 15,
+    "needs_review": true,
+    "sort_order": 18
+  },
+  {
+    "id": "385ae356-3a25-59af-8880-178fc2bf1cde",
+    "chapter_id": "22222222-2222-2222-2222-222222222211",
+    "qtype": "mcq",
+    "stem": "(等比定理)若𝑎+ 𝑏−𝑐 𝑐 = 𝑎−𝑏+ 𝑐 𝑏 = −𝑎+ 𝑏+ 𝑐 𝑎 = 𝑘，则𝑘值为( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "1"
+      },
+      {
+        "key": "B",
+        "text": "1 或−2"
+      },
+      {
+        "key": "C",
+        "text": "−1 或2"
+      },
+      {
+        "key": "D",
+        "text": "−2"
+      },
+      {
+        "key": "E",
+        "text": "2"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第1章 算术2 合订版.pdf",
+    "source_page": 15,
+    "needs_review": true,
+    "sort_order": 19
+  },
+  {
+    "id": "97145bf9-3f68-5c72-831b-45024e1016a2",
+    "chapter_id": "22222222-2222-2222-2222-222222222211",
+    "qtype": "mcq",
+    "stem": "学科竞赛设一等奖、二等奖和三等奖，比例是1: 3: 8，获奖率为30%. 已知10 人获得一等奖，则参加竞赛的人数为( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "300"
+      },
+      {
+        "key": "B",
+        "text": "400"
+      },
+      {
+        "key": "C",
+        "text": "500"
+      },
+      {
+        "key": "D",
+        "text": "550"
+      },
+      {
+        "key": "E",
+        "text": "600"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第1章 算术2 合订版.pdf",
+    "source_page": 17,
+    "needs_review": true,
+    "sort_order": 20
+  },
+  {
+    "id": "fe5f1f15-040c-57f3-a612-9ef16744ac79",
+    "chapter_id": "22222222-2222-2222-2222-222222222211",
+    "qtype": "mcq",
+    "stem": "张老师到一所中学进行招生咨询，上午接待了45 名同学，其中9 位同 学下午又来咨询，占张老师下午咨询学生数量的10%，一天中向张老 师咨询的学生人数为( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "81"
+      },
+      {
+        "key": "B",
+        "text": "90"
+      },
+      {
+        "key": "C",
+        "text": "115"
+      },
+      {
+        "key": "D",
+        "text": "126"
+      },
+      {
+        "key": "E",
+        "text": "135"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第1章 算术2 合订版.pdf",
+    "source_page": 17,
+    "needs_review": true,
+    "sort_order": 21
+  },
+  {
+    "id": "afb1f6dd-c071-53d0-a5c8-4a6a5fef999b",
+    "chapter_id": "22222222-2222-2222-2222-222222222211",
+    "qtype": "mcq",
+    "stem": "设𝑎, 𝑏, 𝑐是小于12 的三个不同的质数(素数)，且|𝑎−𝑏| + |𝑏−𝑐| + |𝑐−𝑎| = 8, 则𝑎+ 𝑏+ 𝑐= ( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "10"
+      },
+      {
+        "key": "B",
+        "text": "12"
+      },
+      {
+        "key": "C",
+        "text": "14"
+      },
+      {
+        "key": "D",
+        "text": "15"
+      },
+      {
+        "key": "E",
+        "text": "19"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第1章 算术2 合订版.pdf",
+    "source_page": 20,
+    "needs_review": true,
+    "sort_order": 22
+  },
+  {
+    "id": "53a97ee3-1835-5dc4-970a-8f33d32f9113",
+    "chapter_id": "22222222-2222-2222-2222-222222222211",
+    "qtype": "mcq",
+    "stem": "若√(𝑎−60)2 + |𝑏+ 90| + (𝑐−130)10 = 0，则𝑎+ 𝑏+ 𝑐的值是( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "0"
+      },
+      {
+        "key": "B",
+        "text": "280"
+      },
+      {
+        "key": "C",
+        "text": "100"
+      },
+      {
+        "key": "D",
+        "text": "−100"
+      },
+      {
+        "key": "E",
+        "text": "无法确定 要求判断每题给出的条件（1）和（2）能否充分支持题干所陈述的结论．以下五个选项为 判断结果，请选择一项符合试题要求的判断。"
+      },
+      {
+        "key": "A",
+        "text": "条件（1）充分，但条件（2）不充分"
+      },
+      {
+        "key": "B",
+        "text": "条件（2）充分，但条件（1）不充分"
+      },
+      {
+        "key": "C",
+        "text": "条件（1）和（2）单独都不充分，但条件（1）和条件（2）联合起来充分"
+      },
+      {
+        "key": "D",
+        "text": "条件（1）充分，条件（2）也充分"
+      },
+      {
+        "key": "E",
+        "text": "条件（1）和条件（2）单独都不充分，条件（1）和条件（2）联合起来也不充分"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第1章 算术3 合订版.pdf",
+    "source_page": 2,
+    "needs_review": true,
+    "sort_order": 23
+  },
+  {
+    "id": "bb351e7a-b11a-5053-95b8-a44c4319a3d5",
+    "chapter_id": "22222222-2222-2222-2222-222222222211",
+    "qtype": "mcq",
+    "stem": "已知实数𝑎, 𝑏, 𝑥, 𝑦满足𝑦+ |√𝑥−√2| = 1 −𝑎2和|𝑥−2| = 𝑦−1 −𝑏2， 则3𝑥+𝑦+ 3𝑎+𝑏的值是( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "25"
+      },
+      {
+        "key": "B",
+        "text": "26"
+      },
+      {
+        "key": "C",
+        "text": "27"
+      },
+      {
+        "key": "D",
+        "text": "28"
+      },
+      {
+        "key": "E",
+        "text": "29"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第1章 算术3 合订版.pdf",
+    "source_page": 4,
+    "needs_review": true,
+    "sort_order": 24
+  },
+  {
+    "id": "7467605e-b9f8-52e8-9d90-5f00728a25fa",
+    "chapter_id": "22222222-2222-2222-2222-222222222211",
+    "qtype": "mcq",
+    "stem": "𝑓(𝑥) = |𝑥−2| + |𝑥−7|的最小值为( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "2"
+      },
+      {
+        "key": "B",
+        "text": "3"
+      },
+      {
+        "key": "C",
+        "text": "4"
+      },
+      {
+        "key": "D",
+        "text": "5"
+      },
+      {
+        "key": "E",
+        "text": "7"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第1章 算术3 合订版.pdf",
+    "source_page": 7,
+    "needs_review": true,
+    "sort_order": 25
+  },
+  {
+    "id": "0376726d-e916-55ef-979f-cb212b712218",
+    "chapter_id": "22222222-2222-2222-2222-222222222211",
+    "qtype": "mcq",
+    "stem": "方程𝑓(𝑥) = |𝑥+ 1| + |𝑥−2| + |𝑥−3|的最小值为( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "0"
+      },
+      {
+        "key": "B",
+        "text": "1"
+      },
+      {
+        "key": "C",
+        "text": "2"
+      },
+      {
+        "key": "D",
+        "text": "3"
+      },
+      {
+        "key": "E",
+        "text": "4"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第1章 算术3 合订版.pdf",
+    "source_page": 9,
+    "needs_review": true,
+    "sort_order": 26
+  },
+  {
+    "id": "467a8dcb-0fcd-5966-8199-e4c53ce75fbc",
+    "chapter_id": "22222222-2222-2222-2222-222222222211",
+    "qtype": "mcq",
+    "stem": "设𝑦= |𝑥−𝑎| + |𝑥−20| + |𝑥−𝑎−20|，其中0 < 𝑎< 20，则对于满 足𝑎⩽𝑥⩽20 的𝑥值，𝑦的最小值是( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "10"
+      },
+      {
+        "key": "B",
+        "text": "15"
+      },
+      {
+        "key": "C",
+        "text": "20"
+      },
+      {
+        "key": "D",
+        "text": "25"
+      },
+      {
+        "key": "E",
+        "text": "30"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第1章 算术3 合订版.pdf",
+    "source_page": 9,
+    "needs_review": true,
+    "sort_order": 27
+  },
+  {
+    "id": "7bbfd824-9ecb-52de-952e-cfe51b4cbbf1",
+    "chapter_id": "22222222-2222-2222-2222-222222222211",
+    "qtype": "mcq",
+    "stem": "𝑓(𝑥) = |𝑥−2| −|𝑥−5|的最大值和最小值为( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "3,4"
+      },
+      {
+        "key": "B",
+        "text": "3, −7"
+      },
+      {
+        "key": "C",
+        "text": "4, −3"
+      },
+      {
+        "key": "D",
+        "text": "4, −5"
+      },
+      {
+        "key": "E",
+        "text": "3, −3"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第1章 算术3 合订版.pdf",
+    "source_page": 11,
+    "needs_review": true,
+    "sort_order": 28
+  },
+  {
+    "id": "799ba899-aea4-5d50-afe6-8fb096683953",
+    "chapter_id": "22222222-2222-2222-2222-222222222211",
+    "qtype": "mcq",
+    "stem": "求满足关系式|𝑥−3| −|𝑥+ 1|＝4 的𝑥的取值范围( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "𝑥⩽−2"
+      },
+      {
+        "key": "B",
+        "text": "𝑥⩽1"
+      },
+      {
+        "key": "C",
+        "text": "𝑥⩾−1"
+      },
+      {
+        "key": "D",
+        "text": "𝑥⩾1"
+      },
+      {
+        "key": "E",
+        "text": "𝑥⩽−1"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第1章 算术3 合订版.pdf",
+    "source_page": 11,
+    "needs_review": true,
+    "sort_order": 29
+  }
+]

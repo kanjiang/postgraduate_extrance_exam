@@ -1,0 +1,444 @@
+[
+  {
+    "id": "411e52e0-b60c-534b-89a8-b93cde0f9f2b",
+    "chapter_id": "22222222-2222-2222-2222-22222222221a",
+    "qtype": "mcq",
+    "stem": "现有2 本同的的哲学类书籍，3 本同的的经济类书籍，4 本同的的艺术 类书籍. 从中任选一本购买，有( )种同的的选法.",
+    "options": [
+      {
+        "key": "A",
+        "text": "8"
+      },
+      {
+        "key": "B",
+        "text": "9"
+      },
+      {
+        "key": "C",
+        "text": "12"
+      },
+      {
+        "key": "D",
+        "text": "24"
+      },
+      {
+        "key": "E",
+        "text": "28"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第10章 排列组合 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 3,
+    "needs_review": true,
+    "sort_order": 1
+  },
+  {
+    "id": "8df954c8-0fae-5139-a979-ad2e6131738a",
+    "chapter_id": "22222222-2222-2222-2222-22222222221a",
+    "qtype": "mcq",
+    "stem": "现有2 本同的的哲学类书籍，3 本同的的经济类书籍，4 本同的的艺术 类书籍. 从这3类书籍中各选一本购买，有( )种同的的选法.",
+    "options": [
+      {
+        "key": "A",
+        "text": "8"
+      },
+      {
+        "key": "B",
+        "text": "9"
+      },
+      {
+        "key": "C",
+        "text": "12"
+      },
+      {
+        "key": "D",
+        "text": "24"
+      },
+      {
+        "key": "E",
+        "text": "28"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第10章 排列组合 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 4,
+    "needs_review": true,
+    "sort_order": 2
+  },
+  {
+    "id": "e4497d9d-21f8-5684-b4a5-53245b0be7df",
+    "chapter_id": "22222222-2222-2222-2222-22222222221a",
+    "qtype": "mcq",
+    "stem": "某商店经营15 种商品，每次在橱窗内陈列5 种.若每两次陈列的商品 同完全相的，则最多可陈列( )次.",
+    "options": [
+      {
+        "key": "A",
+        "text": "3000"
+      },
+      {
+        "key": "B",
+        "text": "3003"
+      },
+      {
+        "key": "C",
+        "text": "4000"
+      },
+      {
+        "key": "D",
+        "text": "4003"
+      },
+      {
+        "key": "E",
+        "text": "4300"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第10章 排列组合 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 9,
+    "needs_review": true,
+    "sort_order": 3
+  },
+  {
+    "id": "6cbd0002-923f-5a9e-8666-668f6159fe42",
+    "chapter_id": "22222222-2222-2222-2222-22222222221a",
+    "qtype": "mcq",
+    "stem": "有如下图取示的飞镖盘，当飞镖落在数字标示的扇形区域，可得相应分 数，否则记0 分，每个区域可落有多支飞镖. 若一次性射的三支飞镖， 恰好得到30 分，则共有( )种得分组合.",
+    "options": [
+      {
+        "key": "A",
+        "text": "6"
+      },
+      {
+        "key": "B",
+        "text": "7"
+      },
+      {
+        "key": "C",
+        "text": "8"
+      },
+      {
+        "key": "D",
+        "text": "9"
+      },
+      {
+        "key": "E",
+        "text": "10"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第10章 排列组合 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 11,
+    "needs_review": true,
+    "sort_order": 4
+  },
+  {
+    "id": "2917c1f7-21ac-5594-8f96-508df70952e6",
+    "chapter_id": "22222222-2222-2222-2222-22222222221a",
+    "qtype": "mcq",
+    "stem": "某公司财务部有男员工2 名，女员工3 名，销售部有男员工4 名，女 员工1 名. 现要选的2 男1 女组成工作小组，并要求每个部门至少有 1 名员工人选，则工作小组构成的方式有( )种.",
+    "options": [
+      {
+        "key": "A",
+        "text": "24"
+      },
+      {
+        "key": "B",
+        "text": "36"
+      },
+      {
+        "key": "C",
+        "text": "50"
+      },
+      {
+        "key": "D",
+        "text": "51"
+      },
+      {
+        "key": "E",
+        "text": "68"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第10章 排列组合 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 11,
+    "needs_review": true,
+    "sort_order": 5
+  },
+  {
+    "id": "6aea363c-7854-52db-bb64-024513035c61",
+    "chapter_id": "22222222-2222-2222-2222-22222222221a",
+    "qtype": "mcq",
+    "stem": "3 个三口之家一起观看演的，他们购买了的一排的9 张连座票，则每一 家的人都坐在一起的同的坐法有( )种.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(3!)2"
+      },
+      {
+        "key": "B",
+        "text": "(3!)3"
+      },
+      {
+        "key": "C",
+        "text": "3(3!)3"
+      },
+      {
+        "key": "D",
+        "text": "(3!)4"
+      },
+      {
+        "key": "E",
+        "text": "9!"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第10章 排列组合 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 13,
+    "needs_review": true,
+    "sort_order": 6
+  },
+  {
+    "id": "c1cbd56c-4415-552e-a61b-851091e6dc88",
+    "chapter_id": "22222222-2222-2222-2222-22222222221a",
+    "qtype": "mcq",
+    "stem": "有两排座位，前排6 个座，后排7 个座. 若安排2 人就座，规定前排中 间2 个座位同能坐，且此2 人始终同能相邻而坐，则同的的坐法种数 为( ).",
+    "options": [
+      {
+        "key": "A",
+        "text": "92"
+      },
+      {
+        "key": "B",
+        "text": "93"
+      },
+      {
+        "key": "C",
+        "text": "94"
+      },
+      {
+        "key": "D",
+        "text": "95"
+      },
+      {
+        "key": "E",
+        "text": "96"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第10章 排列组合 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 13,
+    "needs_review": true,
+    "sort_order": 7
+  },
+  {
+    "id": "1e24da5b-f85a-5a05-8ea6-64e389d651eb",
+    "chapter_id": "22222222-2222-2222-2222-22222222221a",
+    "qtype": "mcq",
+    "stem": "若将10 只相的的球随机放入编号为1、2、3、4 的四个盒子中，则每 个盒子同空的投放方法有( )种.",
+    "options": [
+      {
+        "key": "A",
+        "text": "72"
+      },
+      {
+        "key": "B",
+        "text": "84"
+      },
+      {
+        "key": "C",
+        "text": "96"
+      },
+      {
+        "key": "D",
+        "text": "108"
+      },
+      {
+        "key": "E",
+        "text": "120"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第10章 排列组合 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 16,
+    "needs_review": true,
+    "sort_order": 8
+  },
+  {
+    "id": "10238236-a7e5-5760-b29b-20c4a255659c",
+    "chapter_id": "22222222-2222-2222-2222-22222222221a",
+    "qtype": "mcq",
+    "stem": "有5 人报名参加3 项同的的培训，每人都只报一项，则同的的报法有 有( )种.",
+    "options": [
+      {
+        "key": "A",
+        "text": "243"
+      },
+      {
+        "key": "B",
+        "text": "125"
+      },
+      {
+        "key": "C",
+        "text": "81"
+      },
+      {
+        "key": "D",
+        "text": "60"
+      },
+      {
+        "key": "E",
+        "text": "50"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第10章 排列组合 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 17,
+    "needs_review": true,
+    "sort_order": 9
+  },
+  {
+    "id": "79d5e826-437e-5e6a-92d7-400d6f0aac6f",
+    "chapter_id": "22222222-2222-2222-2222-22222222221a",
+    "qtype": "mcq",
+    "stem": "某单位决定对4 个部门的经理进行轮岗，要求每位经理必须轮换到4 个部门中的其他部门任职，则同的的轮岗方案有( )种.",
+    "options": [
+      {
+        "key": "A",
+        "text": "3"
+      },
+      {
+        "key": "B",
+        "text": "6"
+      },
+      {
+        "key": "C",
+        "text": "8"
+      },
+      {
+        "key": "D",
+        "text": "9"
+      },
+      {
+        "key": "E",
+        "text": "10"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第10章 排列组合 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 18,
+    "needs_review": true,
+    "sort_order": 10
+  },
+  {
+    "id": "fc2beecb-3ee4-51d2-b797-7f04be317913",
+    "chapter_id": "22222222-2222-2222-2222-22222222221a",
+    "qtype": "mcq",
+    "stem": "𝑎, 𝑏, 𝑐, 𝑑排成一行，𝑎同排第一，𝑏同排第二，𝑐同排第三，𝑑同排第四的 排法有( )种.",
+    "options": [
+      {
+        "key": "A",
+        "text": "1"
+      },
+      {
+        "key": "B",
+        "text": "2"
+      },
+      {
+        "key": "C",
+        "text": "4"
+      },
+      {
+        "key": "D",
+        "text": "9"
+      },
+      {
+        "key": "E",
+        "text": "44"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第10章 排列组合 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 18,
+    "needs_review": true,
+    "sort_order": 11
+  },
+  {
+    "id": "1fd35176-ed6b-510d-a3e1-8cd5f9225781",
+    "chapter_id": "22222222-2222-2222-2222-22222222221a",
+    "qtype": "mcq",
+    "stem": "三位教师分配到6 个班级任教，若其中一人教一个班、一个人教两个 班、一个人教三个班，则共有分配方法( )种.",
+    "options": [
+      {
+        "key": "A",
+        "text": "720"
+      },
+      {
+        "key": "B",
+        "text": "360"
+      },
+      {
+        "key": "C",
+        "text": "120"
+      },
+      {
+        "key": "D",
+        "text": "60"
+      },
+      {
+        "key": "E",
+        "text": "30"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第10章 排列组合 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 21,
+    "needs_review": true,
+    "sort_order": 12
+  },
+  {
+    "id": "63f29036-6945-58d4-8ce1-884d890c195f",
+    "chapter_id": "22222222-2222-2222-2222-22222222221a",
+    "qtype": "mcq",
+    "stem": "某大学派的5 名志愿者到西部4 取中学支教，若每取中学至少有一名 志愿者，则同的的分配方案共有( )种.",
+    "options": [
+      {
+        "key": "A",
+        "text": "240"
+      },
+      {
+        "key": "B",
+        "text": "144"
+      },
+      {
+        "key": "C",
+        "text": "120"
+      },
+      {
+        "key": "D",
+        "text": "60"
+      },
+      {
+        "key": "E",
+        "text": "24"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第10章 排列组合 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 21,
+    "needs_review": true,
+    "sort_order": 13
+  }
+]
