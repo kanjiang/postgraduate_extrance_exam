@@ -53,6 +53,54 @@ button, input, textarea, select {
   gap: 1rem;
   align-items: center;
 }
+.nav-link-strong {
+  font-weight: 700;
+  color: var(--ink);
+}
+
+.nav-section {
+  margin-top: 1.5rem;
+}
+.nav-section h2 {
+  font-size: 1.05rem;
+  margin: 0 0 0.75rem;
+}
+.nav-grid {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+}
+.nav-card {
+  display: block;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  padding: 0.95rem 1.05rem;
+  color: inherit;
+  text-decoration: none;
+}
+.nav-card:hover {
+  border-color: var(--accent);
+  text-decoration: none;
+}
+.nav-card strong {
+  display: block;
+  font-size: 1.05rem;
+}
+.nav-card span {
+  display: block;
+  margin-top: 0.25rem;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+@media (max-width: 768px) {
+  .nav-link-desktop {
+    display: none;
+  }
+}
 
 .hero {
   padding: 2rem 0 1.25rem;

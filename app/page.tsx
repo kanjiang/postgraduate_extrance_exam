@@ -32,6 +32,9 @@ export default async function HomePage() {
             <Link className="btn-secondary" href="/schedule">
               学习课表
             </Link>
+            <Link className="btn-secondary" href="/nav">
+              全部导航
+            </Link>
           </div>
         </section>
 

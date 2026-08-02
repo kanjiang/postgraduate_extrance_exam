@@ -20,9 +20,18 @@ export function AppHeader() {
         工程管理备考
       </Link>
       <nav className="app-nav">
-        <Link href="/today">今日</Link>
-        <Link href="/schedule">课表</Link>
-        <Link href="/search">搜索</Link>
+        <Link href="/nav" className="nav-link-strong">
+          导航
+        </Link>
+        <Link href="/today" className="nav-link-desktop">
+          今日
+        </Link>
+        <Link href="/schedule" className="nav-link-desktop">
+          课表
+        </Link>
+        <Link href="/search" className="nav-link-desktop">
+          搜索
+        </Link>
         <button type="button" className="btn-text" onClick={logout}>
           退出
         </button>
