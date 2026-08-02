@@ -51,6 +51,13 @@ export default async function SubjectPage({ params, searchParams }: Props) {
               <Link href="/">首页</Link> / {subject.name}
             </p>
             <h1>{subject.name}</h1>
+            {slug === "logic" ? (
+              <p className="subject-guide-link">
+                <Link href="/guides/logic-visual">
+                  打开《逻辑形象化知识点汇总》→
+                </Link>
+              </p>
+            ) : null}
           </div>
           <ChapterDrawer
             chapters={chapters}

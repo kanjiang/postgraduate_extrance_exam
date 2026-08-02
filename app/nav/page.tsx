@@ -66,6 +66,18 @@ export default async function NavPage() {
         </section>
 
         <section className="nav-section">
+          <h2>专题汇总</h2>
+          <ul className="nav-grid">
+            <li>
+              <Link href="/guides/logic-visual" className="nav-card">
+                <strong>逻辑形象化知识点汇总</strong>
+                <span>形式 / 论证 / 综合推理 · 口诀与应试策略</span>
+              </Link>
+            </li>
+          </ul>
+        </section>
+
+        <section className="nav-section">
           <h2>知识点</h2>
           <ul className="nav-grid">
             {TOOL_ITEMS.map((item) => (
