@@ -138,7 +138,11 @@ def test_parse_question_block_marks_short_answer_for_review_when_missing_answer(
         ],
     )
 
-    assert parsed is None
+    assert parsed is not None
+    assert parsed["qtype"] == "short"
+    assert parsed["answer"] == ""
+    assert parsed["needs_review"] is True
+    assert parsed["explanation"] == ""
 
 
 def test_split_metadata_ignores_practice_answer_header_without_choice() -> None:

@@ -257,9 +257,6 @@ def parse_question_block(
             "sort_order": sort_order,
         }
 
-    if answer == "":
-        return None
-
     return {
         "id": stable_question_id(source_file, sort_order),
         "chapter_id": chapter_id,

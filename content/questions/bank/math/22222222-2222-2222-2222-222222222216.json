@@ -2,6 +2,110 @@
   {
     "id": "0dd35970-c4fc-5c2b-a1c5-5f7edc543b84",
     "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "𝑎𝑛= {𝑎1, 𝑛= 1, 𝑆𝑛−𝑆𝑛−1, 𝑛⩾2.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 1,
+    "needs_review": true,
+    "sort_order": 1
+  },
+  {
+    "id": "d9944d9d-1880-53af-80b2-4ef886d87798",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "等差数列：𝑎𝑛= 𝑎1 + (𝑛−1)𝑑= 𝑎𝑘+ (𝑛−𝑘)𝑑.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 1,
+    "needs_review": true,
+    "sort_order": 2
+  },
+  {
+    "id": "90b81b65-4a42-5818-988f-39c895ce022a",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "等差数列：𝑆𝑛= (𝑎1+𝑎𝑛)𝑛 2 = 𝑑 2 𝑛2 + (𝑎1 − 𝑑",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 1,
+    "needs_review": true,
+    "sort_order": 3
+  },
+  {
+    "id": "4ea83000-e993-51c2-b8a3-211c2a53d8f8",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "𝑛.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 1,
+    "needs_review": true,
+    "sort_order": 4
+  },
+  {
+    "id": "ddf1539c-2bc1-5083-8f3b-9eee87d49474",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "等比数列：𝑎𝑛= 𝑎1𝑞𝑛−1 = 𝑎𝑚𝑞𝑛−𝑚.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 1,
+    "needs_review": true,
+    "sort_order": 5
+  },
+  {
+    "id": "ce44d1a0-6675-59fc-a289-1e3f316a29da",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "等比数列：𝑆𝑛= { 𝑛𝑎1, 𝑞= 1, 𝑎1(1−𝑞𝑛) 1−𝑞 , 𝑞≠0 且𝑞≠1.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 1,
+    "needs_review": true,
+    "sort_order": 6
+  },
+  {
+    "id": "a564130f-2d84-5cfb-8652-8c14e5ee7fd9",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "增长率：𝑎为基期值，𝑏为现期值，𝑟为增长率， 则有，现期值=基期值(1 + 𝑟)，即𝑏= 𝑎(1 + 𝑟).",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 1,
+    "needs_review": true,
+    "sort_order": 7
+  },
+  {
+    "id": "4bcb0508-7d38-5997-8dfa-aee9e38b3727",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "平均增长率：𝑎为基期值，𝑏为现期值，𝑟为增长率，𝑛为增长次数，则有， 现期值=基期值(1 + 𝑟)𝑛 ⇒(1 + 𝑟)𝑛= 现期 基期⇒ 𝑟= √现期 基期 𝑛 −1，即𝑟= √𝑏 𝑎 𝑛 −1. 知新 主讲人：十一老师 现在是网络设备测试时间，课程将准时开始，请大家耐心等待 你的坚持，终将美好！ 你的坚持，终将美好！ 4 题型4：考查增长率",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 1,
+    "needs_review": true,
+    "sort_order": 8
+  },
+  {
+    "id": "95ea6a96-9e8f-5e24-9e8c-4ea8d90530a6",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
     "qtype": "mcq",
     "stem": "某产品去年涨价10%，今年涨价20%，则该产品这两年涨价( ).",
     "options": [
@@ -51,10 +155,153 @@
     "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 3,
     "needs_review": true,
-    "sort_order": 1
+    "sort_order": 9
   },
   {
-    "id": "d9944d9d-1880-53af-80b2-4ef886d87798",
+    "id": "2aa6ed5d-79f0-59a5-bab5-dd62f2231e71",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "能确定某企业产值的月平均增长率.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 3,
+    "needs_review": true,
+    "sort_order": 10
+  },
+  {
+    "id": "ce30aac8-58ae-5987-bb2e-b7002325eb7b",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "已知一月份的产值.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 3,
+    "needs_review": true,
+    "sort_order": 11
+  },
+  {
+    "id": "ba86f772-9f5d-58f5-b284-46dac0663f65",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "已知全年的总产值. 你的坚持，终将美好！ 5 你的坚持，终将美好！ 6 考点2：浓度问题（盐水问题） 一、浓度计算公式",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 3,
+    "needs_review": true,
+    "sort_order": 12
+  },
+  {
+    "id": "dbbaf6f5-9f9f-52b2-a848-ab5cd211a127",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "溶液=溶质+溶剂. （盐水=盐+水）",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 5,
+    "needs_review": true,
+    "sort_order": 13
+  },
+  {
+    "id": "ddd3a83c-0a05-5e6b-b4ac-18ac282447a6",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "浓度= 溶质 溶液= 溶质 溶质+溶剂.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 5,
+    "needs_review": true,
+    "sort_order": 14
+  },
+  {
+    "id": "dc1af061-4140-5a4e-9b3d-6aa55f8befaf",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "浓度为𝑥% ⇔ 溶质：溶剂=𝑥：(100 −𝑥).",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 5,
+    "needs_review": true,
+    "sort_order": 15
+  },
+  {
+    "id": "5bb10682-0bf5-514d-b5a5-3a61d5c7a91b",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "浓度不变准则：将溶液分成若干份，每份的浓度相等，都等于原来溶液 的浓度；将溶液倒掉一部分后，剩余溶液的浓度与原溶液的浓度相等.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 5,
+    "needs_review": true,
+    "sort_order": 16
+  },
+  {
+    "id": "cdc79e0b-197a-5a78-8265-5575819306ef",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "物质守恒准则：物质(无论是溶质、溶剂，还是溶液)不会增多也不会减少， 前后都是守恒的. 【注】",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 5,
+    "needs_review": true,
+    "sort_order": 17
+  },
+  {
+    "id": "581dc221-42e5-5637-850b-622883b96f65",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "稀释问题：特点是增加“溶剂”，找不变量“溶质”.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 5,
+    "needs_review": true,
+    "sort_order": 18
+  },
+  {
+    "id": "0d49380f-a5a1-58a5-b174-22f5b2aa1fae",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "浓缩问题：特点是减少“溶剂”，找不变量“溶质”.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 5,
+    "needs_review": true,
+    "sort_order": 19
+  },
+  {
+    "id": "ac45c818-094f-59be-baad-c83fef9ca655",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "加浓问题：特点是增加“溶质”，找不变量“溶剂”. 题型1：考查蒸发情形（溶质守恒）",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 5,
+    "needs_review": true,
+    "sort_order": 20
+  },
+  {
+    "id": "5b5e1cc0-1127-5091-a96d-03df0405e1a1",
     "chapter_id": "22222222-2222-2222-2222-222222222216",
     "qtype": "mcq",
     "stem": "含盐12.5%的盐水40千克蒸发掉部分水分后变成了含盐20%的盐水， 蒸发掉的水分质量为( )千克.",
@@ -85,10 +332,10 @@
     "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 5,
     "needs_review": true,
-    "sort_order": 2
+    "sort_order": 21
   },
   {
-    "id": "90b81b65-4a42-5818-988f-39c895ce022a",
+    "id": "6331c0e5-e899-560d-9785-1eaa05fa72e6",
     "chapter_id": "22222222-2222-2222-2222-222222222216",
     "qtype": "mcq",
     "stem": "若用浓度为30%和20%的甲、乙两种食盐溶液配成浓度为24%的食盐 溶液500 克，则甲、乙两种溶液各取( ).",
@@ -119,10 +366,10 @@
     "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 7,
     "needs_review": true,
-    "sort_order": 3
+    "sort_order": 22
   },
   {
-    "id": "4ea83000-e993-51c2-b8a3-211c2a53d8f8",
+    "id": "44dc02a8-6c3b-509f-b985-ad407a0f8277",
     "chapter_id": "22222222-2222-2222-2222-222222222216",
     "qtype": "mcq",
     "stem": "车间共有40 人，某技术操作考核的平均成绩为80 分，其中男工平均 成绩为83 分，女工平均成绩为78 分.该车间有女工( )人.",
@@ -153,10 +400,10 @@
     "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 8,
     "needs_review": true,
-    "sort_order": 4
+    "sort_order": 23
   },
   {
-    "id": "ddf1539c-2bc1-5083-8f3b-9eee87d49474",
+    "id": "17ce6aea-af5c-5379-b6a7-8686f3500cca",
     "chapter_id": "22222222-2222-2222-2222-222222222216",
     "qtype": "mcq",
     "stem": "甲杯中有纯酒精12克，乙杯中有水15克，第一次，将甲杯中部分酒精 倒入乙杯中。第二次，将乙杯中部分溶液倒入甲杯中。这时，测得甲 杯中溶液浓度为50% ，乙杯中溶液浓度为25% 。则第二次操作中，乙 杯倒入甲杯溶液为( )克.（难）",
@@ -187,10 +434,23 @@
     "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 8,
     "needs_review": true,
-    "sort_order": 5
+    "sort_order": 24
   },
   {
-    "id": "ce44d1a0-6675-59fc-a289-1e3f316a29da",
+    "id": "6b8d84c0-fe31-5b16-9f1b-bc7d6e042b83",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "…… 你的坚持，终将美好！ 13 题型3：考查溶液置换",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 11,
+    "needs_review": true,
+    "sort_order": 25
+  },
+  {
+    "id": "d9d570e8-4ff7-5c52-9d3d-a5c1bf6510b9",
     "chapter_id": "22222222-2222-2222-2222-222222222216",
     "qtype": "mcq",
     "stem": "某容器中装满了浓度为90%的酒精，倒出1 升后用水将容器注满，搅 拌均匀后又倒出1 升，再用水将容器注满.已知此时的酒精浓度为40%， 则该容器的容积为( ).",
@@ -221,10 +481,10 @@
     "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 12,
     "needs_review": true,
-    "sort_order": 6
+    "sort_order": 26
   },
   {
-    "id": "a564130f-2d84-5cfb-8652-8c14e5ee7fd9",
+    "id": "136b61e4-0da3-5727-a72e-8a5c67a64407",
     "chapter_id": "22222222-2222-2222-2222-222222222216",
     "qtype": "mcq",
     "stem": "某班同学在一次测试中，平均成绩为75 分，其中男同学人数比女同学 人数多80%，而女同学的平均成绩比男同学的高20%，则女同学的平 均成绩为( ).",
@@ -255,10 +515,75 @@
     "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 14,
     "needs_review": true,
-    "sort_order": 7
+    "sort_order": 27
   },
   {
-    "id": "4bcb0508-7d38-5997-8dfa-aee9e38b3727",
+    "id": "80f500a4-9cca-5619-aa0d-d8807cda7a47",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "路程=速度×时间，( 𝑠= 𝑣𝑡 ). 时间= 路程 速度，( 𝑡= 𝑠 𝑣 ). 速度= 路程 时间，( 𝑣= 𝑠 𝑡 ). 𝑠一定时，𝑣和𝑡成反比；𝑡一定时，𝑠和𝑣成正比；𝑣一定时，𝑠和𝑡成正比.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 15,
+    "needs_review": true,
+    "sort_order": 28
+  },
+  {
+    "id": "3996bc4b-cc90-5bab-b89c-7c488b20dfc0",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "等距离平均速度公式：𝑣= 2𝑣1𝑣2 𝑣1+𝑣2，𝑣1, 𝑣2分别是来时和去时的速度. 适用：直线等距离，直线往返，上下坡往返. 推导：直线往返为例 不妨设单程路程为𝑠，来时速度为𝑣1，去时速度为𝑣2 来时时间：𝑡1 = 𝑠 𝑣1 ；去时时间：𝑡2 = 𝑠 𝑣2 总路程为2𝑠，总时间𝑡= 𝑡1 + 𝑡2 = 𝑠 𝑣1 + 𝑠 𝑣2 = (𝑣1 + 𝑣2)𝑠 𝑣1𝑣2 ， 全程平均速度为𝑣= 2𝑠 𝑡= 2𝑠 (𝑣1 + 𝑣2)𝑠 𝑣1𝑣2 = 2𝑣1𝑣2 𝑣1 + 𝑣2 . 你的坚持，终将美好！ 17 题型1：考查普通行程问题",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 15,
+    "needs_review": true,
+    "sort_order": 29
+  },
+  {
+    "id": "f1ccf752-b13d-5afb-8970-e4ca6e27d448",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "某人从𝐴地出发，先乘时速为220 千米的动车，后转乘时速为100 千 米的汽车到达𝐵地，则𝐴, 𝐵两地的距离为960 千米.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 16,
+    "needs_review": true,
+    "sort_order": 30
+  },
+  {
+    "id": "081f871c-7789-5f82-95dd-f94b1efceb36",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "乘动车时间与乘汽车的时间相等.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 16,
+    "needs_review": true,
+    "sort_order": 31
+  },
+  {
+    "id": "2f62fe7c-0116-5668-b33b-e770f0793699",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "乘动车时间与乘汽车的时间之和为6 小时. 题型2：考查等距离求平均速度",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 16,
+    "needs_review": true,
+    "sort_order": 32
+  },
+  {
+    "id": "2d890606-cbda-5cd6-bcba-6d2a04122993",
     "chapter_id": "22222222-2222-2222-2222-222222222216",
     "qtype": "mcq",
     "stem": "某人以6 公里/小时的平均速度上山，上山后立即以12 公里/小时的平 均速度原路返回，那么此人在往返过程中每小时平均所走的公里数为 ( ).",
@@ -289,10 +614,36 @@
     "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 16,
     "needs_review": true,
-    "sort_order": 8
+    "sort_order": 33
   },
   {
-    "id": "95ea6a96-9e8f-5e24-9e8c-4ea8d90530a6",
+    "id": "24ea6158-68c8-523d-93b2-94719bb8b862",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "一次相遇：相遇1 次，则走1 个全程. 𝑆= 𝑆1 + 𝑆2 = 𝑣1𝑡+ 𝑣2𝑡= (𝑣1 + 𝑣2)𝑡 , 𝑡= 𝑆 𝑣1 + 𝑣2 . 𝑆1 𝑆2 A B 多次相遇：相遇2次，则走3 个全程，则3𝑆= (𝑣1 + 𝑣2)𝑡 , 𝑡= 3𝑆 𝑣1+𝑣2. 𝑆1 𝑆2 A B 相遇𝑛次，则走2𝑛−1个全程，则(2𝑛−1)𝑆= (𝑣1 + 𝑣2)𝑡. 相遇一起走的路程和时间满足：1：3：5：7……",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 18,
+    "needs_review": true,
+    "sort_order": 34
+  },
+  {
+    "id": "b3335083-2475-52e8-91cc-c948b4a31eb2",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "追及：𝑆距离差= 𝑆1 −𝑆2 = 𝑣1𝑡−𝑣2𝑡= (𝑣1 −𝑣2)𝑡 , 𝑡= 𝑆距离差 𝑣1−𝑣2. 𝑆1 A B A、B 𝑆2 你的坚持，终将美好！ 20 题型3：考查一次相遇问题",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 18,
+    "needs_review": true,
+    "sort_order": 35
+  },
+  {
+    "id": "c39e51a6-660d-5e2f-84a6-3d196174e798",
     "chapter_id": "22222222-2222-2222-2222-222222222216",
     "qtype": "mcq",
     "stem": "甲、乙两车同时从𝐴, 𝐵两地相向开出，甲车行驶速度为70km/h，乙车 每小时行驶62km/h，两辆车在离中点20km 处相遇，则𝐴, 𝐵两地相距 ( )km.",
@@ -323,10 +674,10 @@
     "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 19,
     "needs_review": true,
-    "sort_order": 9
+    "sort_order": 36
   },
   {
-    "id": "2aa6ed5d-79f0-59a5-bab5-dd62f2231e71",
+    "id": "5b44d766-efe7-5ff4-b8d7-81079183b6df",
     "chapter_id": "22222222-2222-2222-2222-222222222216",
     "qtype": "mcq",
     "stem": "甲、乙两列火车分别从𝐴城，𝐵城相向而行，第一次相遇在离𝐴地500 公 里处，相遇后，两列车继续前进，各自到达目的地后，又折回，第二 次相遇在离𝐵城300 公里处，问𝐴城，𝐵城相距( )公里.",
@@ -357,10 +708,10 @@
     "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 19,
     "needs_review": true,
-    "sort_order": 10
+    "sort_order": 37
   },
   {
-    "id": "ce30aac8-58ae-5987-bb2e-b7002325eb7b",
+    "id": "efcfd479-435e-5846-97ad-91a3d7a83fb1",
     "chapter_id": "22222222-2222-2222-2222-222222222216",
     "qtype": "mcq",
     "stem": "甲、乙两人从同一地点出发，甲先出发10 分钟.若乙跑步追赶甲，则10 分钟追上；若乙骑车追赶甲，每分钟比跑步多行100 米，则5 分钟追 上.那么甲每分钟走的距离为( )米.",
@@ -391,10 +742,10 @@
     "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 21,
     "needs_review": true,
-    "sort_order": 11
+    "sort_order": 38
   },
   {
-    "id": "ba86f772-9f5d-58f5-b284-46dac0663f65",
+    "id": "8a06d1b9-dafa-5f77-9f92-767d43d7d6b4",
     "chapter_id": "22222222-2222-2222-2222-222222222216",
     "qtype": "mcq",
     "stem": "甲、乙两人同时从A 点出发,沿400 米跑道同向均匀行走,25 分钟后乙 比甲少走了一圈.若乙行走一圈需要8 分钟,则甲的速度是( )米/分钟.",
@@ -425,10 +776,10 @@
     "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 21,
     "needs_review": true,
-    "sort_order": 12
+    "sort_order": 39
   },
   {
-    "id": "dbbaf6f5-9f9f-52b2-a848-ab5cd211a127",
+    "id": "91eba894-f34f-5f1d-a4dc-32114713a57c",
     "chapter_id": "22222222-2222-2222-2222-222222222216",
     "qtype": "mcq",
     "stem": "已知船在静水中的速度为25 千米/小时，水流的速度为15 千米/小时， 则此船在相距80 千米的两地间往返一次所需要的时间是( )小时.",
@@ -459,10 +810,75 @@
     "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 23,
     "needs_review": true,
-    "sort_order": 13
+    "sort_order": 40
   },
   {
-    "id": "ddd3a83c-0a05-5e6b-b4ac-18ac282447a6",
+    "id": "b4d823b2-a725-5d76-a6db-8573799c1b57",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "火车经过大桥：𝐿火车+ 𝐿大桥= 𝑣火车× 𝑡. L",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 25,
+    "needs_review": true,
+    "sort_order": 41
+  },
+  {
+    "id": "d26dff9b-8147-56b9-b2c6-0610b19be6e7",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "火车经过静止的行人：𝐿火车= 𝑣火车× 𝑡.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 25,
+    "needs_review": true,
+    "sort_order": 42
+  },
+  {
+    "id": "d207ae61-8029-5208-82c8-fb23e384c86d",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "火车经过移动的行人（行船流水）",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 25,
+    "needs_review": true,
+    "sort_order": 43
+  },
+  {
+    "id": "54221238-a35d-5470-a0a4-9668bcfc3f4e",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "相遇：𝐿火车= (𝑣火车+ 𝑣人) × 𝑡.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 25,
+    "needs_review": true,
+    "sort_order": 44
+  },
+  {
+    "id": "a309718c-c540-5faa-9008-340d698f0954",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "追及：𝐿火车= (𝑣火车−𝑣人) × 𝑡. 题型8：考查火车过桥",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 25,
+    "needs_review": true,
+    "sort_order": 45
+  },
+  {
+    "id": "54fdf5bb-864f-5f54-842d-ea40f6b19bf3",
     "chapter_id": "22222222-2222-2222-2222-222222222216",
     "qtype": "mcq",
     "stem": "一列火车长75 米，通过525 米长的桥梁需要40 秒，若以同样的速度 穿过300 米的隧道，则需要( )秒.",
@@ -493,10 +909,36 @@
     "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 25,
     "needs_review": true,
-    "sort_order": 14
+    "sort_order": 46
   },
   {
-    "id": "dc1af061-4140-5a4e-9b3d-6aa55f8befaf",
+    "id": "5731f620-9c26-5480-a904-c92c4f8406c8",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "𝑠−𝑡图：横坐标代表时间，纵坐标代表路程，斜率代表速度.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 26,
+    "needs_review": true,
+    "sort_order": 47
+  },
+  {
+    "id": "3974b735-a425-5310-ad66-55367fe3c2e7",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "𝑣−𝑡图：横坐标代表时间，纵坐标代表速度，图形与𝑥轴围成的面积代表 路程. 题型9：考查数形结合",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 26,
+    "needs_review": true,
+    "sort_order": 48
+  },
+  {
+    "id": "7dac912a-2128-5f59-9b69-c4545a3aa006",
     "chapter_id": "22222222-2222-2222-2222-222222222216",
     "qtype": "mcq",
     "stem": "货车行驶72km用时1h，其速度𝑣与行驶时间𝑡的关系如图所示，则𝑣0 = ( )km/h.",
@@ -527,10 +969,179 @@
     "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 26,
     "needs_review": true,
-    "sort_order": 15
+    "sort_order": 49
+  },
+  {
+    "id": "b5435301-031d-53ae-a1ba-777c5a8c0e4e",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "甲的效率为 1 𝑚，乙的效率为 1 𝑛；",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 27,
+    "needs_review": true,
+    "sort_order": 50
+  },
+  {
+    "id": "cc09b206-c9de-5679-b550-0016948d4e3c",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "甲乙合作的效率为 1 𝑚+ 1 𝑛；",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 27,
+    "needs_review": true,
+    "sort_order": 51
+  },
+  {
+    "id": "ba6606ec-5dc3-5aef-a834-522d90c0faf4",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "甲乙合作完成需要的时间为 1 1 𝑚+1 𝑛 = 𝑚𝑛 𝑚+𝑛.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(1) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 27,
+    "needs_review": true,
+    "sort_order": 52
   },
   {
     "id": "3ce7238a-7577-51cc-8664-c63811277387",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "增长率：𝑎为基期值，𝑏为现期值，𝑟为增长率， 则有，现期值=基期值(1 + 𝑟)，即𝑏= 𝑎(1 + 𝑟).",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 1,
+    "needs_review": true,
+    "sort_order": 53
+  },
+  {
+    "id": "5daaf729-36b6-5274-b007-759c6b4b3cde",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "平均增长率：𝑎为基期值，𝑏为现期值，𝑟为增长率，𝑛为增长次数，则有， 现期值=基期值(1 + 𝑟)𝑛 ⇒(1 + 𝑟)𝑛= 现期 基期⇒ 𝑟= √现期 基期 𝑛 −1，即𝑟= √𝑏 𝑎 𝑛 −1.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 1,
+    "needs_review": true,
+    "sort_order": 54
+  },
+  {
+    "id": "dc046df9-6287-539a-8674-08c82f6644f6",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "浓度= 溶质 溶液= 溶质 溶质+溶剂.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 1,
+    "needs_review": true,
+    "sort_order": 55
+  },
+  {
+    "id": "aef17324-af63-5a5d-a0ac-710c913102c9",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "十字交叉法.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 1,
+    "needs_review": true,
+    "sort_order": 56
+  },
+  {
+    "id": "62761a14-ee65-5dfb-b317-fe30b5456235",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "等距离平均速度公式：𝑣= 2𝑣1𝑣2 𝑣1+𝑣2，𝑣1, 𝑣2分别是来时和去时的速度.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 1,
+    "needs_review": true,
+    "sort_order": 57
+  },
+  {
+    "id": "b7f97ffd-8fcd-5748-8c5d-c5a28ee3ecc2",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "顺水行船：𝑣顺= 𝑣船+ 𝑣水；逆水行船：𝑣逆= 𝑣船−𝑣水.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 1,
+    "needs_review": true,
+    "sort_order": 58
+  },
+  {
+    "id": "54a5d821-1632-5af2-8beb-aadef8c43c68",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "火车经过大桥：𝐿火车+ 𝐿大桥= 𝑣火车× 𝑡. 知新 主讲人：十一老师 现在是网络设备测试时间，课程将准时开始，请大家耐心等待 你的坚持，终将美好！ 19 考点4：工程问题 一、基本公式 工作量：工作量一定时，可以将总的工作量看做“1”（☆☆☆）. 工作效率：合作时，总的效率等于各效率的代数和. 工作量=工作效率×工作时间，(𝑠= 𝑣𝑡). 工作时间= 工作量 工作效率，( 𝑡= 𝑠 𝑣 ). 工作效率= 工作量 工作时间，( 𝑣= 𝑠 𝑡 ). 二、单位“1”公式 若甲单独完成需要𝑚天，乙单独完成需要𝑛天，总量看做“1”，则",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 1,
+    "needs_review": true,
+    "sort_order": 59
+  },
+  {
+    "id": "1ad39b13-56ac-5a32-b819-c3af32d6f9cd",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "甲的效率为 1 𝑚，乙的效率为 1 𝑛；",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 2,
+    "needs_review": true,
+    "sort_order": 60
+  },
+  {
+    "id": "ccc90b4a-6153-5eab-96f9-1fd203d8b608",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "甲乙合作的效率为 1 𝑚+ 1 𝑛；",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 2,
+    "needs_review": true,
+    "sort_order": 61
+  },
+  {
+    "id": "ddd795b2-79c0-5209-8ce4-fa290320cd38",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "甲乙合作完成需要的时间为 1 1 𝑚+1 𝑛 = 𝑚𝑛 𝑚+𝑛. 你的坚持，终将美好！ 20 题型1：考查单项工程多人做",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 2,
+    "needs_review": true,
+    "sort_order": 62
+  },
+  {
+    "id": "fb0bf2ea-4ba5-58e7-acb5-b2e4049d6e70",
     "chapter_id": "22222222-2222-2222-2222-222222222216",
     "qtype": "mcq",
     "stem": "一项工程甲、乙、丙三人合作需要15 天完成，如果乙休息2 天，丙就 要多做4 天，或者由甲、乙两人合作1 天，则这项工程由丙单独做需要 ( )天.",
@@ -561,10 +1172,10 @@
     "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 3,
     "needs_review": true,
-    "sort_order": 16
+    "sort_order": 63
   },
   {
-    "id": "5daaf729-36b6-5274-b007-759c6b4b3cde",
+    "id": "e5d10754-0933-5154-bfe5-37c7381d7bdf",
     "chapter_id": "22222222-2222-2222-2222-222222222216",
     "qtype": "mcq",
     "stem": "某工程由甲公司承包需要60 天完成，由甲、乙两公司共同承包需要28 天完成，由乙、丙两公司共同承包需要35 天完成，则由丙公司承包完 成该工程需要的天数为( ).",
@@ -595,10 +1206,10 @@
     "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 3,
     "needs_review": true,
-    "sort_order": 17
+    "sort_order": 64
   },
   {
-    "id": "dc046df9-6287-539a-8674-08c82f6644f6",
+    "id": "877caa3c-4a38-5131-8d32-369f935db711",
     "chapter_id": "22222222-2222-2222-2222-222222222216",
     "qtype": "mcq",
     "stem": "完成某项任务，甲单独做需要12 天，乙单独做需要6 天，丙单独做需 要24 天，现甲、乙、丙三人依次一日一轮地工作，则完成该项任务共 需的天数为( ).",
@@ -629,10 +1240,114 @@
     "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 5,
     "needs_review": true,
-    "sort_order": 18
+    "sort_order": 65
   },
   {
-    "id": "aef17324-af63-5a5d-a0ac-710c913102c9",
+    "id": "01e9ecb0-b8e1-5dca-a9ca-63b72b444b76",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "𝑦：原来的草量（牛没吃草之前的量）",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 7,
+    "needs_review": true,
+    "sort_order": 66
+  },
+  {
+    "id": "853af0ef-932a-50aa-849a-10dbfc1b0e1b",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "𝑁：牛每天吃的量（牛头数）",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 7,
+    "needs_review": true,
+    "sort_order": 67
+  },
+  {
+    "id": "cb13e0fc-212c-59fd-acbb-4662a0db1fe1",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "𝑥：草每天长的量",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 7,
+    "needs_review": true,
+    "sort_order": 68
+  },
+  {
+    "id": "ebaa7990-0a73-5d66-8a24-f8a63fe9e1f6",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "𝑇：吃完草的时间 小试牛刀： 一片草地每天都以平均速度生长，已知这片草地可以供25 头牛吃12 天， 或者供40 头牛6 天.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 7,
+    "needs_review": true,
+    "sort_order": 69
+  },
+  {
+    "id": "1c15c784-11c5-59bf-95cc-e016c8f7dfc1",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "草的生长速度是多少？（10）",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 7,
+    "needs_review": true,
+    "sort_order": 70
+  },
+  {
+    "id": "e9a81aaf-74f7-54c0-982b-a8f14e52bacd",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "这片草地原有多少草量？（180）",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 7,
+    "needs_review": true,
+    "sort_order": 71
+  },
+  {
+    "id": "8e2d08d3-e448-55ae-9468-9d241fa88956",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "这片草地可供30 头牛吃多少天？（9）",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 7,
+    "needs_review": true,
+    "sort_order": 72
+  },
+  {
+    "id": "7b3b1152-fb85-59e4-940b-1f08b0297f25",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "草地上有28 头牛，需要多少天，原草地还剩40%？（6） 你的坚持，终将美好！ 25 题型3：考查牛吃草问题",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 7,
+    "needs_review": true,
+    "sort_order": 73
+  },
+  {
+    "id": "7a506056-b918-5065-9da4-3fc1dd950b74",
     "chapter_id": "22222222-2222-2222-2222-222222222216",
     "qtype": "mcq",
     "stem": "牧场上一片青草，每天牧草都均匀生长。这片牧草可供100 头牛吃20 天，或者可供150 头牛吃10 天。则这片牧场可供250 头牛吃( )天.",
@@ -663,10 +1378,10 @@
     "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 8,
     "needs_review": true,
-    "sort_order": 19
+    "sort_order": 74
   },
   {
-    "id": "62761a14-ee65-5dfb-b317-fe30b5456235",
+    "id": "32d1fc27-ea0f-5ba9-948a-9725ea8206e2",
     "chapter_id": "22222222-2222-2222-2222-222222222216",
     "qtype": "mcq",
     "stem": "某道路一侧原有路灯106 盏，道路两端均设有路灯，相邻两盏灯的距 离为36m，现将原有路灯全部换为新型节能灯，两灯距离变为70m， 道路两端依旧各装一盏路灯，布局不超出原道路范围，则道路一侧共需 新型节能灯( )盏.",
@@ -697,10 +1412,10 @@
     "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 10,
     "needs_review": true,
-    "sort_order": 20
+    "sort_order": 75
   },
   {
-    "id": "b7f97ffd-8fcd-5748-8c5d-c5a28ee3ecc2",
+    "id": "acd47185-00ae-504c-a054-8911129eb138",
     "chapter_id": "22222222-2222-2222-2222-222222222216",
     "qtype": "mcq",
     "stem": "将一批树苗种在一个正方形花园的边上，四角都种.如果每隔3m 种一 棵，那么剩下10 棵树苗；如果每隔2m 种一棵，那么恰好种满正方形 的3 条边，则这批树苗有( )棵.",
@@ -731,10 +1446,49 @@
     "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 10,
     "needs_review": true,
-    "sort_order": 21
+    "sort_order": 76
   },
   {
-    "id": "54a5d821-1632-5af2-8beb-aadef8c43c68",
+    "id": "16a00553-7707-5a54-9b91-68697d57a3d3",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "𝐴+ 𝐵−𝐴∩𝐵= 𝐴∪𝐵 二、三集合公式",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 12,
+    "needs_review": true,
+    "sort_order": 77
+  },
+  {
+    "id": "454fbbe8-ea42-5c90-8624-c08797ba1abf",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "𝐴+ 𝐵+ 𝐶−𝑎−𝑏−𝑐−2𝑑= 𝐴∪𝐵∪𝐶",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 12,
+    "needs_review": true,
+    "sort_order": 78
+  },
+  {
+    "id": "8dc21c47-329a-56c6-8641-945513bda3fb",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "𝐴+ 𝐵+ 𝐶−𝐴∩𝐵−𝐴∩𝐶−𝐵∩𝐶+ 𝐴∩𝐵∩𝐶= 𝐴∪𝐵∪𝐶 你的坚持，终将美好！ 30 题型1：考查两集合问题",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 12,
+    "needs_review": true,
+    "sort_order": 79
+  },
+  {
+    "id": "aa0f575c-ef67-572a-9405-f120083037fd",
     "chapter_id": "22222222-2222-2222-2222-222222222216",
     "qtype": "mcq",
     "stem": "某单位有职工40 人，其中参加计算机考核的有31 人，参加外语考核 的有20 人，有8 人没有参加任何一种考核，则同时参加两项考核的职 工有( )人.",
@@ -765,10 +1519,10 @@
     "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 13,
     "needs_review": true,
-    "sort_order": 22
+    "sort_order": 80
   },
   {
-    "id": "1ad39b13-56ac-5a32-b819-c3af32d6f9cd",
+    "id": "1a6da806-0d0b-54dc-aec5-e879e01e25d2",
     "chapter_id": "22222222-2222-2222-2222-222222222216",
     "qtype": "mcq",
     "stem": "某单位有240 名员工，其中订阅𝐴期刊的有125 人，订阅𝐵期刊的有 126 人，订阅𝐶期刊的有135 人，订阅𝐴、𝐵期刊的有57 人，订阅𝐴、𝐶 期刊的有73 人，订阅3 种期刊的有31 人，此外，还有17 人没有订 阅这三种期刊中的任何一种。则订阅𝐵、𝐶期刊的有( )人.",
@@ -799,10 +1553,10 @@
     "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 13,
     "needs_review": true,
-    "sort_order": 23
+    "sort_order": 81
   },
   {
-    "id": "ccc90b4a-6153-5eab-96f9-1fd203d8b608",
+    "id": "104cce50-d834-54d4-bc6c-f0a0a499abc6",
     "chapter_id": "22222222-2222-2222-2222-222222222216",
     "qtype": "mcq",
     "stem": "某公司的员工中，拥有本科毕业证、计算机等级证、汽车驾驶证的人数 分别为130，110，90，又知只有一种证的人数为140，三证齐全的人 数为30，则恰有双证的人数为( ).",
@@ -833,10 +1587,10 @@
     "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 14,
     "needs_review": true,
-    "sort_order": 24
+    "sort_order": 82
   },
   {
-    "id": "ddd795b2-79c0-5209-8ce4-fa290320cd38",
+    "id": "b866150d-4383-5914-a101-537de5209254",
     "chapter_id": "22222222-2222-2222-2222-222222222216",
     "qtype": "mcq",
     "stem": "某公司用1 万元购买了价格分别是1750 元和950 元的甲、乙两种办 公设备，则购买的甲、乙办公设备的件数分别为( ).",
@@ -867,10 +1621,10 @@
     "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 16,
     "needs_review": true,
-    "sort_order": 25
+    "sort_order": 83
   },
   {
-    "id": "fb0bf2ea-4ba5-58e7-acb5-b2e4049d6e70",
+    "id": "f3ad9eb8-3315-5965-bfc8-eb38d5a0a1dc",
     "chapter_id": "22222222-2222-2222-2222-222222222216",
     "qtype": "mcq",
     "stem": "某单位向希望工程捐款，其中部门领导每人捐50 元，普通员工每人捐 20 元，某部门所有人员共捐款320 元，已知该部门总人数超过10 人， 则该部门可能有( )名部门领导.",
@@ -901,10 +1655,10 @@
     "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 16,
     "needs_review": true,
-    "sort_order": 26
+    "sort_order": 84
   },
   {
-    "id": "e5d10754-0933-5154-bfe5-37c7381d7bdf",
+    "id": "dd33d3d3-8e43-517b-a92f-d6b64c9adabf",
     "chapter_id": "22222222-2222-2222-2222-222222222216",
     "qtype": "mcq",
     "stem": "有271 位游客欲乘大、小两种客车旅游，已知大客车有37 个座位，小 客车有20 个座位. 为保证每位游客均有座位，且车上没有空座位，则 需要大客车的辆数是( ).",
@@ -935,10 +1689,10 @@
     "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 17,
     "needs_review": true,
-    "sort_order": 27
+    "sort_order": 85
   },
   {
-    "id": "877caa3c-4a38-5131-8d32-369f935db711",
+    "id": "83d9c6c4-7c51-5127-aaf8-4392ea10530f",
     "chapter_id": "22222222-2222-2222-2222-222222222216",
     "qtype": "mcq",
     "stem": "某自来水公司的水费计算方法如下：每户每月用水不超过5 吨的，每 吨收费4 元，超过5 吨的，每吨收取较高标准的费用.已知9 月份张家 的用水量比李家的用水量多50%，张家和李家的水费分别是90 元和 55 元，则用水量超过5 吨的收费标准是( )元/吨.",
@@ -969,10 +1723,36 @@
     "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 19,
     "needs_review": true,
-    "sort_order": 28
+    "sort_order": 86
   },
   {
-    "id": "01e9ecb0-b8e1-5dca-a9ca-63b72b444b76",
+    "id": "5b9e0188-adba-5395-a930-64791d11dae3",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "同比是指本年度（季度，月份）与上一年年度（季度，月份）的对比. 比如：2013 年8 月，A 市用电量同比增加r%，指的是2013 年8 月，A 市用电量比2012 年8 月，A 市用电量增加了r% .",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 20,
+    "needs_review": true,
+    "sort_order": 87
+  },
+  {
+    "id": "eae05f8b-f76b-535b-b894-c97a6d65c049",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "环比是指本季度或者月度的对比. 比如：2013 年8 月，A 市用电量环比增加r%，指的是2013 年8 月，A 市用电量比2013 年7 月，A 市用电量增加了r% . 二、股票：总市值=每股股价×总股数 三、年龄问题（牢记年龄差不变） 例：今年为2013 年，女儿的年龄是母亲的 1 4，40 年后女儿的年龄是母亲年龄 的 2",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 20,
+    "needs_review": true,
+    "sort_order": 88
+  },
+  {
+    "id": "5780e7d2-671c-5e02-9708-cf928cf20107",
     "chapter_id": "22222222-2222-2222-2222-222222222216",
     "qtype": "mcq",
     "stem": "则当女儿的年龄是母亲年龄的一半时，是( )年.",
@@ -1003,6 +1783,71 @@
     "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 20,
     "needs_review": true,
-    "sort_order": 29
+    "sort_order": 89
+  },
+  {
+    "id": "5652ca1d-fb02-539c-bf48-e64ff7b6dac8",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "…… 你的坚持，终将美好！ 39 五、斐波那契数列：1，1，2，3，5，8，13，21，34，⋯⋯ 从一 3 项开始，每一项=前两项之和. 即𝑓(0)，𝑓(1)，𝑓(2)，⋯一𝑛项𝑓(𝑛) = 𝑓(𝑛−1) + 𝑓(𝑛−2), (𝑛⩾2).",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 21,
+    "needs_review": true,
+    "sort_order": 90
+  },
+  {
+    "id": "7bee9689-7863-544b-bff4-0def6d507b9d",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "爬楼梯模型 假设每次可以爬1 或2 个台阶，要𝑛阶才可以爬到楼顶，问有多少种方 法？ 逆向思考：一𝑛阶时，可能从𝑛-1 阶走1 步，也可能从𝑛-2 阶走2 步， 故到达一𝑛阶的方法为到达一𝑛−1阶与𝑛−2阶的方法之和， 即𝑓(𝑛) = 𝑓(𝑛−1) + 𝑓(𝑛−2), (𝑛⩾2). 由于𝑓(1) = 1，𝑓(2) = 1 + 1 = 2，则𝑓(0) = 𝑓(2) −𝑓(1) = 2 −1 = 1 𝑓(0)=1，表示平地； 𝑓(1) = 1，爬一1 层楼梯，只爬1 层，总计1 种方式； 𝑓(2) = 2，爬一2 层楼梯，一次爬1 层，爬两次或者一次爬2 层，爬一 次，总计2 种方式； 例：某自助餐厅提供羊肉串，小王怕浪费每次最多只拿2 串，已知他正 好吃了10 串，那么他共有多少种不同的拿法？（难） 𝑓(𝑛) = 𝑓(𝑛−1) + 𝑓(𝑛−2) 一几次 0 1 2 3 4 5 6 7 8 9 10 拿法 1 1 2 3 5 8 13 21 34 55 89 你的坚持，终将美好！ 40",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 22,
+    "needs_review": true,
+    "sort_order": 91
+  },
+  {
+    "id": "50dea7b4-ba72-5cac-b2bc-658b4c16e302",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "网格模型",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 23,
+    "needs_review": true,
+    "sort_order": 92
+  },
+  {
+    "id": "a8a6cf31-6ed3-5b6a-9839-407ddc96dcdb",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "小明从家出发去单位上班要经过多条街道，假如他只能向上、向右 走，不能回头，则他上班有多少种不同的走法.（35） 【注】家到任一点的走法数=到上方点的走数+到右方点的走法数.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 23,
+    "needs_review": true,
+    "sort_order": 93
+  },
+  {
+    "id": "8bc2089b-e60c-5f27-b460-76a17ff3faad",
+    "chapter_id": "22222222-2222-2222-2222-222222222216",
+    "qtype": "short",
+    "stem": "小明从家出发去单位上班要经过多条街道，假如他只能向上、向右 走，不能回头，则他上班有多少种不同的走法.（26） 你的坚持，终将美好！ 41",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第6章 应用题(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 23,
+    "needs_review": true,
+    "sort_order": 94
   }
 ]

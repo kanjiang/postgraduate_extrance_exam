@@ -2,6 +2,110 @@
   {
     "id": "f4116002-3267-54ef-a9be-31b9d96a2ec5",
     "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "扇形弧长：𝑙= 𝛼° 360° × 2π𝑟= π𝑟𝛼° 180°. 扇形面积：𝑆扇形= 𝛼° 360° × π𝑟2 = 1 2 𝑙𝑟.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 1,
+    "needs_review": true,
+    "sort_order": 1
+  },
+  {
+    "id": "3aa2034b-9e70-57ac-9ffa-8afc563cf981",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "直线𝑙：𝑎𝑥+ 𝑏𝑦+ 𝑐= 0关于点𝑃(𝑥0, 𝑦0)对称的直线𝑙′的方程是 𝑎(2𝑥0 −𝑥) + 𝑏(2𝑦0 −𝑦) + 𝑐= 0.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 1,
+    "needs_review": true,
+    "sort_order": 2
+  },
+  {
+    "id": "b8720d4f-d927-5bb9-b963-31c8d7150d30",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "点(𝑥0, 𝑦0)到直线𝑎𝑥+ 𝑏𝑦+ 𝑐= 0的距离𝑑= |𝑎𝑥0+𝑏𝑦0+𝑐| √𝑎2+𝑏2 .",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 1,
+    "needs_review": true,
+    "sort_order": 3
+  },
+  {
+    "id": "7c6ac306-ecc9-5948-a718-dea30fece331",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "直线𝑎𝑥+ 𝑏𝑦+ 𝑐1 = 0与直线𝑎𝑥+ 𝑏𝑦+ 𝑐2 = 0的距离𝑑= |𝑐1−𝑐2| √𝑎2+𝑏2. 5. 知新 主讲人：十一老师 现在是网络设备测试时间，课程将准时开始，请大家耐心等待 你的坚持，终将美好！ 第九章 立体几何 考点1 长方体 考点2 柱体 考点3 锥体 考点4 球体 你的坚持，终将美好！ 1 考点1：长方体 如图所示，设3条相邻的棱长分别是𝑎, 𝑏, 𝑐.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 1,
+    "needs_review": true,
+    "sort_order": 4
+  },
+  {
+    "id": "e905d8b8-9d8b-5aa2-be7c-63ec2f4e8f5e",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "全面积：𝑆= 2(𝑎𝑏+ 𝑏𝑐+ 𝑎𝑐).",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 3,
+    "needs_review": true,
+    "sort_order": 5
+  },
+  {
+    "id": "7cc4dfd1-aedf-57c3-943e-1cac92bcd232",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "体积：𝑉= 𝑎𝑏𝑐.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 3,
+    "needs_review": true,
+    "sort_order": 6
+  },
+  {
+    "id": "c8bacfcf-7e4b-5ed2-9604-d436897e8c14",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "体对角线𝐴′𝐶：𝑑= √𝑎2 + 𝑏2 + 𝑐2.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 3,
+    "needs_review": true,
+    "sort_order": 7
+  },
+  {
+    "id": "6c054e85-e5f7-5151-be46-d0350d4ca3eb",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "所有棱长和：𝑙= 4(𝑎+ 𝑏+ 𝑐). 特别地，当𝑎= 𝑏= 𝑐时，为正方体 此时，全面积𝑆正= 6𝑎2 ； 体积𝑉正= 𝑎3 ； 体对角线𝑑正= √3𝑎. 题型1：考查长方体体积的求解",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 3,
+    "needs_review": true,
+    "sort_order": 8
+  },
+  {
+    "id": "c50c885f-f4bf-5c8b-8004-dcea59a44b81",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
     "qtype": "mcq",
     "stem": "长方体的3个侧面的面积分别为12,6,8，则长方体的体积为( ).",
     "options": [
@@ -31,10 +135,10 @@
     "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 3,
     "needs_review": true,
-    "sort_order": 1
+    "sort_order": 9
   },
   {
-    "id": "3aa2034b-9e70-57ac-9ffa-8afc563cf981",
+    "id": "fd7cf169-fa28-567e-800e-5b0bf186f503",
     "chapter_id": "22222222-2222-2222-2222-222222222219",
     "qtype": "mcq",
     "stem": "长方体的体对角线长为√14 ，全面积为22 ，则长方体所有棱长和和为 ( ).",
@@ -65,10 +169,10 @@
     "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 4,
     "needs_review": true,
-    "sort_order": 2
+    "sort_order": 10
   },
   {
-    "id": "b8720d4f-d927-5bb9-b963-31c8d7150d30",
+    "id": "746db530-96ed-5077-a7c4-610d00a63790",
     "chapter_id": "22222222-2222-2222-2222-222222222219",
     "qtype": "mcq",
     "stem": "如图，正方体𝐴𝐵𝐶𝐷−𝐴′𝐵′𝐶′𝐷′的棱长为2，𝐹是棱𝐶′𝐷′的中点，则𝐴𝐹的 长为( ).",
@@ -99,10 +203,140 @@
     "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 4,
     "needs_review": true,
-    "sort_order": 3
+    "sort_order": 11
   },
   {
-    "id": "7c6ac306-ecc9-5948-a718-dea30fece331",
+    "id": "b525f431-a221-59aa-9cf6-7d159afef7c4",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "在长方体中，能确定长方体体对角线的长度.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 6,
+    "needs_review": true,
+    "sort_order": 12
+  },
+  {
+    "id": "bded538b-13a8-545b-a021-c968b88ea9e6",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "已知共顶点的三个面的面积.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 6,
+    "needs_review": true,
+    "sort_order": 13
+  },
+  {
+    "id": "d0434940-134a-5ed4-b15f-af123a377722",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "已知共顶点的三个面的对角线长度. 你的坚持，终将美好！ 5 你的坚持，终将美好！ 6 考点2：柱体 一、柱体的分类",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 6,
+    "needs_review": true,
+    "sort_order": 14
+  },
+  {
+    "id": "b683e3c9-153b-5879-b3b8-3c18d0c8fc5d",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "圆柱：底面为圆的柱体称为圆柱.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 8,
+    "needs_review": true,
+    "sort_order": 15
+  },
+  {
+    "id": "34a72c4b-8a1c-5ded-aa3b-cfea8d7b4de0",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "棱柱：底面为多边形的柱体称为棱柱，底面为𝑛边形的就称为𝑛棱柱. 二、柱体的通用公式 无论是圆柱还是棱柱，侧面展开图均为矩形，其中一边长为底面的周长， 另一边为柱体的高.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 8,
+    "needs_review": true,
+    "sort_order": 16
+  },
+  {
+    "id": "597b659f-dcb5-5deb-b7d9-50a2c977f050",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "侧面积：𝑆=底面周长×高",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 8,
+    "needs_review": true,
+    "sort_order": 17
+  },
+  {
+    "id": "01bffcef-c70c-5cfb-8914-cb61babf80a3",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "体积：𝑉=底面积×高. 三、圆柱的公式 设圆柱的高为ℎ，底面半径为𝑟.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 8,
+    "needs_review": true,
+    "sort_order": 18
+  },
+  {
+    "id": "50e7c414-6150-5216-a93b-fbb89b36b6a2",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "体积：𝑉= π𝑟2ℎ",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 8,
+    "needs_review": true,
+    "sort_order": 19
+  },
+  {
+    "id": "c1e39355-a4a0-5b45-9e27-708380dfb6f2",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "侧面积：𝑆= 2π𝑟ℎ (其侧面展开图为一个长为2π𝑟，宽为ℎ的长方形)",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 8,
+    "needs_review": true,
+    "sort_order": 20
+  },
+  {
+    "id": "d447c109-a699-5747-bed1-a4d6626d0141",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "全面积：𝐹= 𝑆侧+ 2𝑆底= 2π𝑟ℎ+ 2π𝑟2 你的坚持，终将美好！ 7 题型1：考查截面截取圆柱体",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 8,
+    "needs_review": true,
+    "sort_order": 21
+  },
+  {
+    "id": "2d2a01ab-c417-59b1-8f71-797f9e81b75c",
     "chapter_id": "22222222-2222-2222-2222-222222222219",
     "qtype": "mcq",
     "stem": "如图所示，圆柱体的底面半径为2，高为3，垂直于底面的平面截圆柱 体所得的截面为矩形𝐴𝐵𝐶𝐷，若弦𝐴𝐵所对的圆心角是 π 3，则截掉部分(较 小部分)的体积为( ).",
@@ -125,10 +359,10 @@
     "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 9,
     "needs_review": true,
-    "sort_order": 4
+    "sort_order": 22
   },
   {
-    "id": "e905d8b8-9d8b-5aa2-be7c-63ec2f4e8f5e",
+    "id": "557715ac-349a-5a02-bbc2-6e2d21c46ff8",
     "chapter_id": "22222222-2222-2222-2222-222222222219",
     "qtype": "mcq",
     "stem": "有一个圆柱体的零件，高10，底面直径是6，零件的一端有一个圆柱 形的圆孔，圆孔的直径是4，孔深5.如果将这个零件接触空气的部分涂 上防锈漆，那么一共要涂( ).",
@@ -159,10 +393,10 @@
     "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 9,
     "needs_review": true,
-    "sort_order": 5
+    "sort_order": 23
   },
   {
-    "id": "7cc4dfd1-aedf-57c3-943e-1cac92bcd232",
+    "id": "e7c5c295-b768-5a6b-91ef-abd7af51aec4",
     "chapter_id": "22222222-2222-2222-2222-222222222219",
     "qtype": "mcq",
     "stem": "一个酒瓶内部总深度为30cm，底面内直径是10cm，瓶里酒深15cm. 将瓶口密封严实后倒置，此时瓶内酒水液面距离瓶底（瓶口端）高度为 25cm. 这时酒瓶的容积是( )cm3，(π 取3).",
@@ -193,10 +427,153 @@
     "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 11,
     "needs_review": true,
-    "sort_order": 6
+    "sort_order": 24
   },
   {
-    "id": "c8bacfcf-7e4b-5ed2-9604-d436897e8c14",
+    "id": "86863a9d-f371-51c3-97f0-27824d84d694",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "顶点：锥体的顶点即锥体的公共顶点，是所有侧面的交点.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 12,
+    "needs_review": true,
+    "sort_order": 25
+  },
+  {
+    "id": "451bb260-dd83-559e-bf06-6b9a7ae2fd65",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "底面：锥体的底面是一个封闭的简单多边形，可以是三边形、四边形等.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 12,
+    "needs_review": true,
+    "sort_order": 26
+  },
+  {
+    "id": "6cc9623b-ddf5-5bd0-a140-34ccce790843",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "侧面：锥体的侧面是底面到顶点的全部连线所围成的曲面.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 12,
+    "needs_review": true,
+    "sort_order": 27
+  },
+  {
+    "id": "029126f7-6a22-5c31-955c-7744b5c2a345",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "母线：圆锥的底面圆周一点到顶点的连线.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 12,
+    "needs_review": true,
+    "sort_order": 28
+  },
+  {
+    "id": "c1665e9f-bb4e-5054-92b9-822626f74c88",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "高：锥体的顶点到底面的距离. 三、圆锥 设高为ℎ，底面半径为𝑟，母线为𝑙 (轴截面是等腰三角形)",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 12,
+    "needs_review": true,
+    "sort_order": 29
+  },
+  {
+    "id": "55e0303e-367f-565d-b8a5-aa63b7b7c4e5",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "圆锥的母线：𝑙= √ℎ2 + 𝑟2.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 12,
+    "needs_review": true,
+    "sort_order": 30
+  },
+  {
+    "id": "ad1b11fb-f087-57fd-9b2b-a1fa6ccb9c85",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "展开扇形的圆心角：𝜃= 2π𝑟 𝑙.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 12,
+    "needs_review": true,
+    "sort_order": 31
+  },
+  {
+    "id": "bfcc26c3-fab2-5ce2-abdf-37ba83a7b3ed",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "圆锥的侧面积：𝑆侧= π𝑟𝑙.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 12,
+    "needs_review": true,
+    "sort_order": 32
+  },
+  {
+    "id": "ed60a54d-5b0c-59a5-b54f-8d504ea3d8b9",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "圆锥的全面积：𝑆全= π𝑟(𝑙+ 𝑟).",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 12,
+    "needs_review": true,
+    "sort_order": 33
+  },
+  {
+    "id": "30946740-66be-56d8-8df7-812b13fd1334",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "圆锥的体积：𝑉= 1 3 π𝑟2ℎ.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 12,
+    "needs_review": true,
+    "sort_order": 34
+  },
+  {
+    "id": "f74aa651-afc5-5abe-a53a-ba3be7acf746",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "圆锥中平行于底面的截面性质： 𝑆1 𝑆底= ℎ12 ℎ2 ， 𝑉1 𝑉底= ℎ13 ℎ3. 你的坚持，终将美好！ 11 题型1：考查圆锥的全面积",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 12,
+    "needs_review": true,
+    "sort_order": 35
+  },
+  {
+    "id": "459348ac-0184-5eb6-9485-bef232db27c0",
     "chapter_id": "22222222-2222-2222-2222-222222222219",
     "qtype": "mcq",
     "stem": "若一个圆锥的轴截面是等边三角形，其面积为√3，则这个圆锥的全面 积是( ).",
@@ -227,10 +604,10 @@
     "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 13,
     "needs_review": true,
-    "sort_order": 7
+    "sort_order": 36
   },
   {
-    "id": "6c054e85-e5f7-5151-be46-d0350d4ca3eb",
+    "id": "b2f2f825-98ca-5cf0-a423-355a8134e5f9",
     "chapter_id": "22222222-2222-2222-2222-222222222219",
     "qtype": "mcq",
     "stem": "如图，在正方形铁皮上剪下一个扇形和一个半径为1 的圆形，使和恰 好围成一个圆锥，则圆锥的高为( ).",
@@ -261,10 +638,127 @@
     "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 13,
     "needs_review": true,
-    "sort_order": 8
+    "sort_order": 37
   },
   {
-    "id": "c50c885f-f4bf-5c8b-8004-dcea59a44b81",
+    "id": "41972ed6-f468-5f4b-b6fe-b15bb333d2c8",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "球的截面：一个平面截球，平面与球面的交线是一个圆，当平面经过球 心时，这个圆叫做球的大圆，当平面不过球心时，这个圆叫做球的小圆.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 15,
+    "needs_review": true,
+    "sort_order": 38
+  },
+  {
+    "id": "fc94d34a-2d62-56f7-bf6c-a99341ce4e50",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "球心和截面圆心的连线垂直于截面.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 15,
+    "needs_review": true,
+    "sort_order": 39
+  },
+  {
+    "id": "e44e9c05-1aca-51e0-9888-2875c60ba098",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "球心到截面的距离𝑑与球半径𝑅及截面圆半径𝑟的关系：𝑅2 = 𝑑2 + 𝑟2.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 15,
+    "needs_review": true,
+    "sort_order": 40
+  },
+  {
+    "id": "2d71a9aa-5cc8-5aeb-ac71-67f1ebc2e843",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "几何体的外接球：几何体的顶点都在球面上.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 15,
+    "needs_review": true,
+    "sort_order": 41
+  },
+  {
+    "id": "e5f10da9-8eb4-56be-bfab-c0e66bf72bca",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "几何体的内切球：球与几何体的各个面都相切. 你的坚持，终将美好！ 14 二、公式 设球的半径为𝑅，则有",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 15,
+    "needs_review": true,
+    "sort_order": 42
+  },
+  {
+    "id": "c0eb0ec7-06e9-5398-8372-e27cfaf86eab",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "球的表面积：𝑆= 4π𝑅2；",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 16,
+    "needs_review": true,
+    "sort_order": 43
+  },
+  {
+    "id": "6f293b89-9f94-5b04-986b-b516279aa3ca",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "球的体积：𝑉= 4 3 π𝑅3.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 16,
+    "needs_review": true,
+    "sort_order": 44
+  },
+  {
+    "id": "b177a387-c72e-5523-bf77-02720f799c7d",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "一个实心大铁球融化后分割为𝑛个相同的实心小铁球，在分割过程中体 积不发生损耗，则𝑛个实心小铁球的表面积和和是大球的表面积的√𝑛 3 倍",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 16,
+    "needs_review": true,
+    "sort_order": 45
+  },
+  {
+    "id": "5b6865c2-c84b-51d6-a32a-7b635ba8a07d",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "一个实心大正方体铁块融化后分割为𝑛个相同的实心小正方体铁物，在 分割的过程中体积不发生损耗，则𝑛个实心小正方体铁块的表面积和和 是实心大正方体铁块的表面积的√𝑛 3 倍. 你的坚持，终将美好！ 15 题型1：考查球体的融合",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 16,
+    "needs_review": true,
+    "sort_order": 46
+  },
+  {
+    "id": "b534829c-e968-5214-807c-d5abb3b36922",
     "chapter_id": "22222222-2222-2222-2222-222222222219",
     "qtype": "mcq",
     "stem": "将体积为4πcm3和32πcm3的两个实心金属球熔化后铸成一个实心大球， 则大球的表面积为( ).",
@@ -295,10 +789,10 @@
     "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 17,
     "needs_review": true,
-    "sort_order": 9
+    "sort_order": 47
   },
   {
-    "id": "fd7cf169-fa28-567e-800e-5b0bf186f503",
+    "id": "f8fc282b-f5dd-5b04-a5d4-466af7269801",
     "chapter_id": "22222222-2222-2222-2222-222222222219",
     "qtype": "mcq",
     "stem": "一平面截一球 得到直径是6 的圆面，球心到这个平面的距离是4 ，则 球的体积是( ).",
@@ -329,10 +823,10 @@
     "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 17,
     "needs_review": true,
-    "sort_order": 10
+    "sort_order": 48
   },
   {
-    "id": "746db530-96ed-5077-a7c4-610d00a63790",
+    "id": "270e7d54-585c-5ca1-b612-af555e94602e",
     "chapter_id": "22222222-2222-2222-2222-222222222219",
     "qtype": "mcq",
     "stem": "如图，一个底面半径为𝑅 的圆柱形 子中装有适量的水.若放入一个半 径为𝑟的实心铁球，水面高度恰好升高𝑟，则 𝑅 𝑟= ( ).",
@@ -363,10 +857,49 @@
     "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 18,
     "needs_review": true,
-    "sort_order": 11
+    "sort_order": 49
   },
   {
-    "id": "b525f431-a221-59aa-9cf6-7d159afef7c4",
+    "id": "ed0b7c03-d073-52ee-a4cd-1427f839629f",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "内切球 如果一个球与多面体的各个面都相切（球和每个面有且只有一个公共点）， 且球完全在多面体内部，这个球就叫 多面体的内切球，球心称为内心. 注：内切球球心到几何体所有面的距离都相等，距离等于内切球半径𝒓.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 20,
+    "needs_review": true,
+    "sort_order": 50
+  },
+  {
+    "id": "5dca95af-f631-554c-b710-9fb487e95a9e",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "外接球 对于一个多面体，若一个球经过多面体的所有顶点，且多面体整体位于 球的内部，这个球就叫做 多面体的外接球，球心称为外心. 注：外接球球心到几何体所有顶点的距离相等,距离等于外接球半径𝑹； 球心是各顶点连线垂直平分面的交点.",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 20,
+    "needs_review": true,
+    "sort_order": 51
+  },
+  {
+    "id": "64a33a85-40c7-55b8-99aa-0005ca7f861a",
+    "chapter_id": "22222222-2222-2222-2222-222222222219",
+    "qtype": "short",
+    "stem": "设圆柱底面半径为𝑟，球半径为𝑅，圆柱的高为ℎ. 你的坚持，终将美好！ 19 题型4：考查外接球",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
+    "source_page": 20,
+    "needs_review": true,
+    "sort_order": 52
+  },
+  {
+    "id": "e164929a-060e-5f09-a077-9dbc2560df56",
     "chapter_id": "22222222-2222-2222-2222-222222222219",
     "qtype": "mcq",
     "stem": "现有一个半径为𝑅的球体，拟用刨床将其加工成正方体，则能加工成的 最大正方体的体积是( ).",
@@ -397,10 +930,10 @@
     "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 21,
     "needs_review": true,
-    "sort_order": 12
+    "sort_order": 53
   },
   {
-    "id": "bded538b-13a8-545b-a021-c968b88ea9e6",
+    "id": "1258a431-9197-567a-b8b1-3fd10666e310",
     "chapter_id": "22222222-2222-2222-2222-222222222219",
     "qtype": "mcq",
     "stem": "棱长为𝑎的正方体的内切球、外接球的半径分别是( ).",
@@ -427,10 +960,10 @@
     "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 21,
     "needs_review": true,
-    "sort_order": 13
+    "sort_order": 54
   },
   {
-    "id": "d0434940-134a-5ed4-b15f-af123a377722",
+    "id": "f20511a0-0874-5a96-b67f-06f3b2aca28a",
     "chapter_id": "22222222-2222-2222-2222-222222222219",
     "qtype": "mcq",
     "stem": "如图，半球内有一内接正方体，正方体的一个面在半球底面圆内，若正 方体的棱长为√6，则半球的表面积和体积分别是( ).",
@@ -461,10 +994,10 @@
     "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 23,
     "needs_review": true,
-    "sort_order": 14
+    "sort_order": 55
   },
   {
-    "id": "b683e3c9-153b-5879-b3b8-3c18d0c8fc5d",
+    "id": "10b7bc4e-3dc4-5b89-b673-3c2d176d959a",
     "chapter_id": "22222222-2222-2222-2222-222222222219",
     "qtype": "mcq",
     "stem": "半径为4的球体中有一个内接圆柱体，当圆柱体的侧面积最大时，球体 的表面积与圆柱体的侧面积和差为( ).",
@@ -495,6 +1028,6 @@
     "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 24,
     "needs_review": true,
-    "sort_order": 15
+    "sort_order": 56
   }
 ]

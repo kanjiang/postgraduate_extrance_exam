@@ -2,6 +2,136 @@
   {
     "id": "2539cc48-c406-5614-9cf8-2caa0983c3e9",
     "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "支持论点 直接证明论点是成立的。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修10-论证逻辑2-支持题及假设题【最终版】.pdf",
+    "source_page": 2,
+    "needs_review": true,
+    "sort_order": 1
+  },
+  {
+    "id": "c3bce25b-9f56-51d2-8ff8-68ae74f5d35d",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "建立联系 建立联系又叫搭桥，其基本思路是证明论据可以推出 论点。具体可分为如下两类：",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修10-论证逻辑2-支持题及假设题【最终版】.pdf",
+    "source_page": 2,
+    "needs_review": true,
+    "sort_order": 2
+  },
+  {
+    "id": "7c6f493f-628b-52e9-be21-b346da5f8fe4",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "直接搭桥 直接搭桥的意思是直接建立论据和论点的联系，其特 点是话题词和题干高度一致。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修10-论证逻辑2-支持题及假设题【最终版】.pdf",
+    "source_page": 2,
+    "needs_review": true,
+    "sort_order": 3
+  },
+  {
+    "id": "0e6c37bb-899d-597b-83fb-4fc482ac056a",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "间接搭桥 间接搭桥的意思是间接地建立论据和论点的联系，其 特点是话题词和题干不完全一致。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修10-论证逻辑2-支持题及假设题【最终版】.pdf",
+    "source_page": 2,
+    "needs_review": true,
+    "sort_order": 4
+  },
+  {
+    "id": "0b7a75dc-c300-5370-9fd7-eb0812058716",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "支持论据 直接证明论据是成立的。 适用范围 支持题 技巧说明 具体请看如下例子： 【典例】 老王每天扛着法拉利跑20万公里，因此，老王一个 月后会变瘦。 【支持】",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修10-论证逻辑2-支持题及假设题【最终版】.pdf",
+    "source_page": 2,
+    "needs_review": true,
+    "sort_order": 5
+  },
+  {
+    "id": "74db8036-5bee-521d-afcb-71156ed77b01",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "老王一个月瘦了10斤。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修10-论证逻辑2-支持题及假设题【最终版】.pdf",
+    "source_page": 2,
+    "needs_review": true,
+    "sort_order": 6
+  },
+  {
+    "id": "8743eb69-3e3e-5bac-97f1-0c5680f46937",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "如果每天扛着法拉利跑20万公里，那么就会变瘦。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修10-论证逻辑2-支持题及假设题【最终版】.pdf",
+    "source_page": 2,
+    "needs_review": true,
+    "sort_order": 7
+  },
+  {
+    "id": "e0d65608-9f0d-58b5-9e95-df4a545fb3ac",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "事实表明，老王的确每天扛着法拉利跑20万公里。 【分析】",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修10-论证逻辑2-支持题及假设题【最终版】.pdf",
+    "source_page": 2,
+    "needs_review": true,
+    "sort_order": 8
+  },
+  {
+    "id": "e8322aef-91ea-537f-af3b-835961bfc6a0",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "的分析：该项证明了题干的论点为真，是支持论 点型的支持。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修10-论证逻辑2-支持题及假设题【最终版】.pdf",
+    "source_page": 2,
+    "needs_review": true,
+    "sort_order": 9
+  },
+  {
+    "id": "e8f8a612-3b71-57bc-9a23-55c888154107",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "的分析：该项直接建立了论据和论点的联系，属 于建立联系中的直接搭桥。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修10-论证逻辑2-支持题及假设题【最终版】.pdf",
+    "source_page": 2,
+    "needs_review": true,
+    "sort_order": 10
+  },
+  {
+    "id": "49dc32ec-2061-5ba9-b16a-27a11f7275eb",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
     "qtype": "mcq",
     "stem": "的分析：该项证明了题干的论据为真，是支持论 据型的支持。 模块二 论证逻辑 专题二 支持题 【例1】——支持论点 离家300米的学校不能上，却被安排到2千米外的学校就读，某市一位适龄儿童在上小学时就遭遇了所在 区教育局这样的安排，而这一安排是区教育局根据儿童户籍所在施教区做出的。根据该市教育局规定的“就 近入学”原则，儿童家长将区教育局告上法院，要求撤销原来安排，让其孩子就近入学。法院对此作出一审 判决，驳回原告请求。 下列哪项最可能是法院判决的合理依据？",
     "options": [
@@ -31,10 +161,101 @@
     "source_file": "逻辑/基础必修10-论证逻辑2-支持题及假设题【最终版】.pdf",
     "source_page": 2,
     "needs_review": false,
-    "sort_order": 1
+    "sort_order": 11
   },
   {
-    "id": "c3bce25b-9f56-51d2-8ff8-68ae74f5d35d",
+    "id": "9dde8d85-9591-5020-a635-7cc9225e5a1b",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "假设的本质 假设的本质是论证默认的条件。通俗地讲，就是论 证所需要的但并未直接提及的条件。其典型的特征是， 若假设不成立，则题干的论证一般是不成立的。因此， 我们也说假设是论证的必要条件。具体来讲，假设有如 下两种形式：",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修10-论证逻辑2-支持题及假设题【最终版】.pdf",
+    "source_page": 31,
+    "needs_review": true,
+    "sort_order": 12
+  },
+  {
+    "id": "de8e20d3-f8f0-558a-b610-06a63f1f3142",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "建立联系（搭桥法） 这类假设的典型特征是在论据和论点之间建立联系， 即，论据+假设→论点。这类假设是近年真题的主流考 法，也是和支持题中建立联系的思路类似的考法。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修10-论证逻辑2-支持题及假设题【最终版】.pdf",
+    "source_page": 31,
+    "needs_review": true,
+    "sort_order": 13
+  },
+  {
+    "id": "a4f6901f-ecca-5103-9d9d-ff704750369e",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "必要前提 这类假设更加强调“假设是题干论证的必要条件”这 个本质。其典型特征是，若假设成立，则论证不一定成 立；但若假设不成立，则题干的论证不成立。这一特征 也是假设和支持的最大区别。 适用范围 假设题 技巧说明 具体请看如下例子： 【例子】 老王逻辑好，因此，老王可以考上研究生。 【选项】",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修10-论证逻辑2-支持题及假设题【最终版】.pdf",
+    "source_page": 31,
+    "needs_review": true,
+    "sort_order": 14
+  },
+  {
+    "id": "becde7e1-1bcb-54a0-8d41-b51bba0db95c",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "如果逻辑好，那么可以考上研究生。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修10-论证逻辑2-支持题及假设题【最终版】.pdf",
+    "source_page": 31,
+    "needs_review": true,
+    "sort_order": 15
+  },
+  {
+    "id": "bd17c8a3-7ace-50ed-b855-f8ca09974fc2",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "有的逻辑好的人可以考上研究生。 【分析】",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修10-论证逻辑2-支持题及假设题【最终版】.pdf",
+    "source_page": 31,
+    "needs_review": true,
+    "sort_order": 16
+  },
+  {
+    "id": "51afdc91-abe3-5bb1-9467-e3b4ce92ca8c",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "的分析：该项直接建立了论据和论点之间的联系， 属于建立联系型的假设。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修10-论证逻辑2-支持题及假设题【最终版】.pdf",
+    "source_page": 31,
+    "needs_review": true,
+    "sort_order": 17
+  },
+  {
+    "id": "91bca6fe-9289-52c8-923e-55b21d568ca1",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "的分析：若该项成立，则题干的论证不一定成立； 但若该项不成立，则意味着所有逻辑好的人都考不上研究 生，此时题干的论证不成立。因此，该项是必要前提型的 假设。 模块二 论证逻辑 专题三 假设题 考点一 假设题的基本思路 适用范围 假设题 技巧说明",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修10-论证逻辑2-支持题及假设题【最终版】.pdf",
+    "source_page": 31,
+    "needs_review": true,
+    "sort_order": 18
+  },
+  {
+    "id": "ea4333e9-ec7e-56ad-8330-8ea9218034a0",
     "chapter_id": "22222222-2222-2222-2222-222222222206",
     "qtype": "mcq",
     "stem": "取非验证法 根据假设的本质可知，一般情况下，假设是题干论证成立的必要条件。因此，在无法判断哪个选项 是题干的假设时，可以用取非验证法解题。具体步骤如下： 第一步：否定选项。 第二步：代入题干。 情况（1） 此时题干论证不成立，则证明该选项是题干论证成立的必要条件，故该项就是题干论证的假设。 情况（2） 此时题干论证依然可以成立，则证明该选项不是题干论证成立的必要条件，故该项不是题干论证的 假设。 模块二 论证逻辑 专题三 假设题 【例1】——搭桥法 因为照片的影像是通过光线与胶片的接触形成的，所以每张照片都具有一定的真实性。但是从不同角度拍 摄的照片只反映物体某个侧面的真实而不是全部的真实，在这个意义上，照片又是不真实的。因此，在目前 的技术条件下，以照片作为证据是不恰当的，特别是在法庭上。 以下哪项是上述论证所假设的？",
@@ -65,10 +286,88 @@
     "source_file": "逻辑/基础必修10-论证逻辑2-支持题及假设题【最终版】.pdf",
     "source_page": 32,
     "needs_review": false,
-    "sort_order": 2
+    "sort_order": 19
   },
   {
-    "id": "7c6f493f-628b-52e9-be21-b346da5f8fe4",
+    "id": "35440ffe-3632-579c-964c-890839ad3552",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "特征：某选项和题干的论证有关，但又不是题干论证成立的必要条件。 这类选项的典型特征有两个：①力度比题干强；②出现无关的新话题。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修10-论证逻辑2-支持题及假设题【最终版】.pdf",
+    "source_page": 35,
+    "needs_review": true,
+    "sort_order": 20
+  },
+  {
+    "id": "77f47371-fd0e-5544-8f0d-f094714ef56a",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "分析：这类选项一般就是过度假设。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修10-论证逻辑2-支持题及假设题【最终版】.pdf",
+    "source_page": 35,
+    "needs_review": true,
+    "sort_order": 21
+  },
+  {
+    "id": "d1b21887-a34e-521f-92c8-feca85996d39",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "识别：识别过度假设的方法有如下两种。 ①观察特征：若选项力度比题干强或出现了无关的新话题，则该项很可能是过度假设。 ②取非验证：若用取非验证法验证后发现选项不是题干论证的必要条件，则该项很可能是过度假设。 模块二 论证逻辑 专题三 假设题 【例子】 老王逻辑好，因此，老王可能考上研究生。 【选项】",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修10-论证逻辑2-支持题及假设题【最终版】.pdf",
+    "source_page": 35,
+    "needs_review": true,
+    "sort_order": 22
+  },
+  {
+    "id": "dcd00f44-4729-5345-85fb-6f06f3a69e1e",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "所有逻辑好的人必然能考上研究生。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修10-论证逻辑2-支持题及假设题【最终版】.pdf",
+    "source_page": 36,
+    "needs_review": true,
+    "sort_order": 23
+  },
+  {
+    "id": "f2e725d1-6b7a-5172-a420-ab224f3efc78",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "所有逻辑好的人都必然能考上研究生而且能找到对象。 【分析】",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修10-论证逻辑2-支持题及假设题【最终版】.pdf",
+    "source_page": 36,
+    "needs_review": true,
+    "sort_order": 24
+  },
+  {
+    "id": "90b4e8bd-0ffa-5367-afe1-adb268a74fa3",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "的分析：该项的范围是“所有”，比题干的“老王”范围大，且其“必然”的力度比题干中 “可能”的力度强，故该项可能是过度假设。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修10-论证逻辑2-支持题及假设题【最终版】.pdf",
+    "source_page": 36,
+    "needs_review": true,
+    "sort_order": 25
+  },
+  {
+    "id": "ee325067-eae6-5e42-9f8a-61e95885dff1",
     "chapter_id": "22222222-2222-2222-2222-222222222206",
     "qtype": "mcq",
     "stem": "的分析：题干并不讨论逻辑好的人是否能找到对象，故该项可能是过度假设。 模块二 论证逻辑 专题三 假设题 【例2】——搭桥法 最近，在100万年前的河姆渡氏族公社遗址发现了烧焦的羚羊骨残片，这证明人类在很早的时候就掌握了 取火煮食肉类的技术。 上述推论中隐含着下列哪项作为假设？",
@@ -99,10 +398,101 @@
     "source_file": "逻辑/基础必修10-论证逻辑2-支持题及假设题【最终版】.pdf",
     "source_page": 36,
     "needs_review": false,
-    "sort_order": 3
+    "sort_order": 26
   },
   {
     "id": "3ed33588-b21d-5ef4-87df-07762977077d",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "假设的本质 假设的本质是论证默认的条件。通俗地讲，就是论 证所需要的但并未直接提及的条件。其典型的特征是， 若假设不成立，则题干的论证一般是不成立的。因此， 我们也说假设是论证的必要条件。具体来讲，假设有如 下两种形式：",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
+    "source_page": 2,
+    "needs_review": true,
+    "sort_order": 27
+  },
+  {
+    "id": "22b41a86-a1a3-561f-8928-ce7d0e928527",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "建立联系（搭桥法） 这类假设的典型特征是在论据和论点之间建立联系， 即，论据+假设→论点。这类假设是近年真题的主流考 法，也是和支持题中建立联系的思路类似的考法。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
+    "source_page": 2,
+    "needs_review": true,
+    "sort_order": 28
+  },
+  {
+    "id": "56b1f8aa-6a37-5688-92cc-201eeb9b8823",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "必要前提 这类假设更加强调“假设是题干论证的必要条件”这 个本质。其典型特征是，若假设成立，则论证不一定成 立；但若假设不成立，则题干的论证不成立。这一特征 也是假设和支持的最大区别。 适用范围 假设题 技巧说明 具体请看如下例子： 【例子】 老王逻辑好，因此，老王可以考上研究生。 【选项】",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
+    "source_page": 2,
+    "needs_review": true,
+    "sort_order": 29
+  },
+  {
+    "id": "87ac2e9b-d1fe-5976-bfbe-9f3758bfde42",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "如果逻辑好，那么可以考上研究生。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
+    "source_page": 2,
+    "needs_review": true,
+    "sort_order": 30
+  },
+  {
+    "id": "c587889f-5906-5292-922b-4100d26268db",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "有的逻辑好的人可以考上研究生。 【分析】",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
+    "source_page": 2,
+    "needs_review": true,
+    "sort_order": 31
+  },
+  {
+    "id": "2dca5d5a-e14d-560f-92d1-fca3f0a5f604",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "的分析：该项直接建立了论据和论点之间的联系， 属于建立联系型的假设。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
+    "source_page": 2,
+    "needs_review": true,
+    "sort_order": 32
+  },
+  {
+    "id": "6114cb0c-3792-5ed6-a7e4-6d4591900de2",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "的分析：若该项成立，则题干的论证不一定成立； 但若该项不成立，则意味着所有逻辑好的人都考不上研究 生，此时题干的论证不成立。因此，该项是必要前提型的 假设。 模块二 论证逻辑 专题三 假设题 考点一 假设题的基本思路 适用范围 假设题 技巧说明",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
+    "source_page": 2,
+    "needs_review": true,
+    "sort_order": 33
+  },
+  {
+    "id": "34e0233a-02a0-5223-b808-2e0d0477aefa",
     "chapter_id": "22222222-2222-2222-2222-222222222206",
     "qtype": "mcq",
     "stem": "取非验证法 根据假设的本质可知，一般情况下，假设是题干论证成立的必要条件。因此，在无法判断哪个选项 是题干的假设时，可以用取非验证法解题。具体步骤如下： 第一步：否定选项。 第二步：代入题干。 情况（1） 此时题干论证不成立，则证明该选项是题干论证成立的必要条件，故该项就是题干论证的假设。 情况（2） 此时题干论证依然可以成立，则证明该选项不是题干论证成立的必要条件，故该项不是题干论证的 假设。 模块二 论证逻辑 专题三 假设题 【例4】——搭桥法 流行性感冒病毒，是正粘病毒科的代表种，简称流感病毒，包括人流感病毒和动物流感病毒，人流感病毒 分为甲(A)、乙(B)、丙(C)三型，是流行性感冒(流感)的病原体。研究人员发现，注射灭活疫苗可使人体产生对 伤寒、霍乱、流行性脑膜炎等病毒的抗体。有科学家据此认为，研发灭活疫苗将是人类对抗流感病毒的有效 途径。 以下哪项最可能是科学家的论证所假设的?",
@@ -133,10 +523,23 @@
     "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
     "source_page": 3,
     "needs_review": false,
-    "sort_order": 4
+    "sort_order": 34
   },
   {
-    "id": "22b41a86-a1a3-561f-8928-ce7d0e928527",
+    "id": "7bc14618-e307-5433-8424-a31935eeb422",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "急救中心的救护车的数量，必须与中心的规模和综合能力相配套；",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
+    "source_page": 11,
+    "needs_review": true,
+    "sort_order": 35
+  },
+  {
+    "id": "011fc565-91ce-5134-af14-8455dd23faa1",
     "chapter_id": "22222222-2222-2222-2222-222222222206",
     "qtype": "short",
     "stem": "根据该急救中心现有的医护人员及医疗设施的规模和综合能力，现有的救护车足够了。 论点：否决了这项申请=否决了购置新的救护车的申请。 第二步，预判思路。 首先，观察选项可发现，本题没有建立联系型的假设，故考虑用取非验证法寻找必要前提型的假设。其次，C 项有弱力度词至少有一辆，故考虑优先验证C项。 第三步，验证选项。 A项，无关选项，题干主要强调急救中心的救护车的数量要和中心的规模等配套，并未讨论急救对象的数量。 模块二 论证逻辑 专题三 假设题 【例7】",
@@ -146,10 +549,62 @@
     "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
     "source_page": 11,
     "needs_review": true,
-    "sort_order": 5
+    "sort_order": 36
   },
   {
-    "id": "56b1f8aa-6a37-5688-92cc-201eeb9b8823",
+    "id": "6729f35c-981c-543a-8058-34149bc47c31",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "基本原则 争论焦点题的核心原则是差异性原则，具体来讲，正确答案必须是辩论双方涉及 且存在分歧的话题。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
+    "source_page": 20,
+    "needs_review": true,
+    "sort_order": 37
+  },
+  {
+    "id": "ead50c53-c064-5ef5-a487-7da93d2b0f82",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "常见分歧 双方论证的分歧点有三种情况：",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
+    "source_page": 20,
+    "needs_review": true,
+    "sort_order": 38
+  },
+  {
+    "id": "85e88eb4-c77f-51f3-8bc5-bb50c438b645",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "论点分歧；",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
+    "source_page": 20,
+    "needs_review": true,
+    "sort_order": 39
+  },
+  {
+    "id": "587ea73c-5cbe-56d8-94f5-3283d6215627",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "隐含假设分歧；",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
+    "source_page": 20,
+    "needs_review": true,
+    "sort_order": 40
+  },
+  {
+    "id": "f9580a02-9587-5c87-abd8-f4d2f5ddd247",
     "chapter_id": "22222222-2222-2222-2222-222222222206",
     "qtype": "mcq",
     "stem": "论据分歧。 其中，论点分歧是真题考查的重中之重，因此，我们做争论焦点题时要优先寻找双 方论点的分歧。 模块二 论证逻辑 专题四 分析题 【例1】 甲：从互联网上人们可以获得任何想要的信息和资料。因此，人们不需要听取专家的意见，只要通过互联网 就可以很容易地学到他们需要的知识。 乙：过去的经验告诉我们，随着知识的增加，对专家的需求也相应增加。因此，互联网反而会增加我们咨询 专家的机会。 以下哪项是上述论证的焦点？",
@@ -180,10 +635,23 @@
     "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
     "source_page": 20,
     "needs_review": false,
-    "sort_order": 6
+    "sort_order": 41
   },
   {
-    "id": "87ac2e9b-d1fe-5976-bfbe-9f3758bfde42",
+    "id": "93872f75-bfbf-54da-afa9-7a5fc9e997d1",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "有经验的司机完全有能力并习惯以每小时120千米的速度在高速公路上安全行驶；",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
+    "source_page": 25,
+    "needs_review": true,
+    "sort_order": 42
+  },
+  {
+    "id": "287644ec-9c3f-5ce5-a257-26b976176949",
     "chapter_id": "22222222-2222-2222-2222-222222222206",
     "qtype": "short",
     "stem": "降低最高时速既会降低高速公路的使用效率，也会使一些有经验的司机违反交规。 论点：高速公路上的最高时速不应由120千米改为现在的110千米。 交警的论证： 论据：每个司机都可以在法律规定的速度内行驶，只要他愿意。 论点：把对最高时速的修改说成是某些违规行为的原因，是不能成立的。 模块二 论证逻辑 专题四 分析题 【例2】",
@@ -193,10 +661,36 @@
     "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
     "source_page": 25,
     "needs_review": true,
-    "sort_order": 7
+    "sort_order": 43
   },
   {
-    "id": "c587889f-5906-5292-922b-4100d26268db",
+    "id": "c370d342-06b0-5dd4-a718-7bd071181676",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "推理结构一致 若题干的论证结构以形式逻辑的公式表达为主，则优先比较题干和选项的推理结构。 要重点比较：（1）推理结构；（2）肯否形式。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
+    "source_page": 31,
+    "needs_review": true,
+    "sort_order": 44
+  },
+  {
+    "id": "ce36b937-1884-5574-9f8d-176487f58930",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "论证方法一致 若题干的论证以论证逻辑的证明的方法、反驳的方法为主，则优先比较题干和选项 的论证方法。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
+    "source_page": 31,
+    "needs_review": true,
+    "sort_order": 45
+  },
+  {
+    "id": "480b0f40-f9c2-5b4c-9d4f-2f87a6e42b2c",
     "chapter_id": "22222222-2222-2222-2222-222222222206",
     "qtype": "mcq",
     "stem": "概念细节一致 当选项和题干的结构一致时，就要注意比较概念细节，即概念之间的对应关系。简 便起见，可以用字母A、B、C等表示题干的关键概念，来梳理题干概念之间的对应关系。 模块二 论证逻辑 专题四 分析题 【例4】 甲：己所不欲，勿施于人。 A→B 乙：我反对，己所欲，则施于人。 我反对，¬A→¬B 以下哪项与上述对话方式最为相似？",
@@ -227,10 +721,114 @@
     "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
     "source_page": 31,
     "needs_review": false,
-    "sort_order": 8
+    "sort_order": 46
   },
   {
-    "id": "2dca5d5a-e14d-560f-92d1-fca3f0a5f604",
+    "id": "46153fc4-e3b5-516a-8b64-128abc677d0e",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "单一现象 若题干给出单一现象，则寻找能解释该现象的原因。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
+    "source_page": 38,
+    "needs_review": true,
+    "sort_order": 47
+  },
+  {
+    "id": "dba5fa43-279e-588c-a3f8-219453075532",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "差异现象 若题干给出一组差异现象，则寻找能解释该差异的原因。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
+    "source_page": 38,
+    "needs_review": true,
+    "sort_order": 48
+  },
+  {
+    "id": "47e4d876-d9d0-52f1-8452-65031adc0952",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "并列现象 若题干给出两个并列的现象A、B，例如，给出一组求异实验，则考虑建立A、 B之间的因果联系。 模块二 论证逻辑 专题五 解释题 考点一 解释现象题 一、解释现象 适用范围 解释现象题。 技巧说明 具体请看如下例子： 【例子】",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
+    "source_page": 38,
+    "needs_review": true,
+    "sort_order": 49
+  },
+  {
+    "id": "a1b1d44f-3e16-5146-a29c-f2cc63e8c56b",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "老王长胖了。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
+    "source_page": 39,
+    "needs_review": true,
+    "sort_order": 50
+  },
+  {
+    "id": "5bf789ad-87b0-5571-8346-118aa5eed07c",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "老王长胖了，小陆变瘦了。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
+    "source_page": 39,
+    "needs_review": true,
+    "sort_order": 51
+  },
+  {
+    "id": "f95a1015-a414-54aa-89e7-f2523b65c742",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "老王吃得多的时候体重往往会增加，吃得少的时候体重往往会下降。 【解释】",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
+    "source_page": 39,
+    "needs_review": true,
+    "sort_order": 52
+  },
+  {
+    "id": "3c2d260f-65e6-5dbc-a452-363f5be63ad5",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "的解释：老王最近吃得多、动得少。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
+    "source_page": 39,
+    "needs_review": true,
+    "sort_order": 53
+  },
+  {
+    "id": "f325c3f9-09e9-5ead-974e-aa0593457367",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "的解释：老王最近吃得多，但小陆最近吃得少。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
+    "source_page": 39,
+    "needs_review": true,
+    "sort_order": 54
+  },
+  {
+    "id": "42eb5b8b-45d0-55a8-99e6-03be33701b1d",
     "chapter_id": "22222222-2222-2222-2222-222222222206",
     "qtype": "mcq",
     "stem": "的解释：吃得多会导致摄入热量超过消耗热量，最终会导致体重增加。反 之，则体重减少。 模块二 论证逻辑 专题五 解释题 【例1】 在一项关于“社会关系如何影响人的死亡率”的课题研究中，研究人员惊奇地发现：不论种族、收入、体 育锻炼等因素，一个乐于助人、和他人相处融治的人，其平均寿命长于一般人，在男性中尤其如此；相反， 心怀恶意、损人利己、和他人相处不融洽的人70岁之前的死亡率比正常人高出1.5至2倍。 以下哪项如果为真，最能解释上述发现？",
@@ -261,10 +859,75 @@
     "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
     "source_page": 39,
     "needs_review": false,
-    "sort_order": 9
+    "sort_order": 55
   },
   {
-    "id": "6114cb0c-3792-5ed6-a7e4-6d4591900de2",
+    "id": "66e33e27-382b-541a-b2d4-a1f0fe7b8eb0",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "一般矛盾 若题干给出一般的矛盾现象，则考虑引入一个新的原因让矛盾双方可以共存。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
+    "source_page": 43,
+    "needs_review": true,
+    "sort_order": 56
+  },
+  {
+    "id": "f89bc5ef-c512-5bd7-8a55-20b61fd84d04",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "数字矛盾 若题干给出的矛盾现象和数字有关，则考虑从数字的角度解释题干。 模块二 论证逻辑 专题五 解释题 考点一 解释现象题 二、解释矛盾 适用范围 解释现象题。 技巧说明 具体请看如下例子： 【例子】",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
+    "source_page": 43,
+    "needs_review": true,
+    "sort_order": 57
+  },
+  {
+    "id": "20f6cef4-f10c-551c-b5f7-e68c80e06c31",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "老王吃得多，体重反而下降了。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
+    "source_page": 44,
+    "needs_review": true,
+    "sort_order": 58
+  },
+  {
+    "id": "947c3b39-862d-5b28-b9d1-cbcc7b86351e",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "老王最近花钱很多，存款反而增加了。 【解释】",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
+    "source_page": 44,
+    "needs_review": true,
+    "sort_order": 59
+  },
+  {
+    "id": "851ff8a7-7c69-54c4-99a8-53663697feb9",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "的解释：老王最近运动量巨大。这就意味着，有可能是由于运动量大，老 王即便吃得多，体重依然下降了。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
+    "source_page": 44,
+    "needs_review": true,
+    "sort_order": 60
+  },
+  {
+    "id": "adad8b61-683d-5530-b3a3-0eb619fafec5",
     "chapter_id": "22222222-2222-2222-2222-222222222206",
     "qtype": "mcq",
     "stem": "的解释：老王最近买彩票中了1个亿。这就意味着，由于老王中了彩票，他 即便花钱多，存款也依然可以增加。 模块二 论证逻辑 专题五 解释题 【例2】 我国中原地区如果降水量比往年偏低，该地区河流水位会下降，流速会减缓。这有利于河流中的水草生长， 河流中的水草总量通常也会随之增加。不过，去年该地区在经历了一次极端干旱之后，尽管该地区某河流的 流速十分缓慢，但其中的水草总量并未随之而增加，只是处于一个很低的水平。 以下哪项如果为真，最能解释上述看似矛盾的现象？",
@@ -295,10 +958,23 @@
     "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
     "source_page": 44,
     "needs_review": false,
-    "sort_order": 10
+    "sort_order": 61
   },
   {
-    "id": "34e0233a-02a0-5223-b808-2e0d0477aefa",
+    "id": "d9fd76b4-3912-51a4-9699-40a72be9b44d",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "论点优先 若题干有论点，则考虑优先寻找和论点相关的选项。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
+    "source_page": 51,
+    "needs_review": true,
+    "sort_order": 62
+  },
+  {
+    "id": "d92dad21-185e-5f13-b915-10ca7bc8c638",
     "chapter_id": "22222222-2222-2222-2222-222222222206",
     "qtype": "mcq",
     "stem": "以偏概全 若某选项仅根据某个论据就可以推出，则一般不选这个选项。因为，这类选 项通常不能概括题干的核心思想，存在以偏概全的问题。 模块二 论证逻辑 专题六 推论题 【例1】 纯种赛马是昂贵的商品。一种由遗传缺陷引起的疾病威胁着纯种赛马，使它们轻则丧失赛跑能力，重则 瘫痪甚至死亡。因此，赛马饲养者认为，一旦发现有此种缺陷的赛马应停止饲养。这种看法是片面的。因为 一般地说，此种疾病可以通过饮食和医疗加以控制。另外，有此种遗传缺陷的赛马往往特别美，这正是马术 表演特别看重的。 以下哪项最为准确地概括了题干所要论证的结论？",
@@ -329,10 +1005,75 @@
     "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
     "source_page": 51,
     "needs_review": false,
-    "sort_order": 11
+    "sort_order": 63
   },
   {
-    "id": "7bc14618-e307-5433-8424-a31935eeb422",
+    "id": "cacb3840-1d82-5970-99fe-ab65cf30a720",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "逐一验证 在逐一验证选项时，优先验证如下两类选项往往更容易出答案：",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
+    "source_page": 54,
+    "needs_review": true,
+    "sort_order": 64
+  },
+  {
+    "id": "58f4f0b4-ec92-56e8-91ce-2e5293fd8a64",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "假言型选项；",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
+    "source_page": 54,
+    "needs_review": true,
+    "sort_order": 65
+  },
+  {
+    "id": "8cebf0b6-d10b-5b25-ba09-a609d5be0be3",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "力度较弱的选项。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
+    "source_page": 54,
+    "needs_review": true,
+    "sort_order": 66
+  },
+  {
+    "id": "831e4158-2550-50c1-88bc-7c62bf245f0d",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "取非验证 若直接代入无法选出答案，则可以考虑用取非验证法。其解题流程如下： 第一步：假设选项不成立，即，否定选项。 第二步：将否定的结果代入题干。",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
+    "source_page": 54,
+    "needs_review": true,
+    "sort_order": 67
+  },
+  {
+    "id": "d6547420-703a-5ebf-937e-18cf3e7371f3",
+    "chapter_id": "22222222-2222-2222-2222-222222222206",
+    "qtype": "short",
+    "stem": "若该结果和题干产生矛盾，则该项必然为真；",
+    "options": null,
+    "answer": "",
+    "explanation": "",
+    "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
+    "source_page": 54,
+    "needs_review": true,
+    "sort_order": 68
+  },
+  {
+    "id": "b847bc05-3181-5403-8ca1-fcd1cde1d137",
     "chapter_id": "22222222-2222-2222-2222-222222222206",
     "qtype": "mcq",
     "stem": "若该结果和题干不产生矛盾，则该项不一定为真。 模块二 论证逻辑 专题六 推论题 【例2】 一般将缅甸所产的经过风化或经河水搬运至河谷、河床中的翡翠大砾石，称为“老坑玉”。老坑玉的特 点是“水头好”、质坚、透明度高，其上品透明如玻璃，故称“玻璃种”或“冰种”。同为老坑玉，其质量 相对也有高低之分，有的透明度高一些，有的透明度稍差些，所以价值也有差别。在其他条件都相同的情况 下，透明度高的老坑玉比透明度较其低的单位价值高，但是开采的实践告诉人们，没有单位价值最高的老坑 玉。 以上陈述如果为真，可以得出以下哪项结论？",
@@ -363,7 +1104,7 @@
     "source_file": "逻辑/基础必修11-论证逻辑3-其他题型【最终版】.pdf",
     "source_page": 54,
     "needs_review": false,
-    "sort_order": 12
+    "sort_order": 69
   },
   {
     "id": "ed23f8ed-5855-5cdb-a00a-28a905d629b8",
@@ -397,7 +1138,7 @@
     "source_file": "逻辑/基础必修12-论证逻辑专项训练【最终版】.pdf",
     "source_page": 3,
     "needs_review": false,
-    "sort_order": 13
+    "sort_order": 70
   },
   {
     "id": "725f69e9-c148-5230-8be8-7817400ec706",
@@ -431,7 +1172,7 @@
     "source_file": "逻辑/基础必修12-论证逻辑专项训练【最终版】.pdf",
     "source_page": 5,
     "needs_review": false,
-    "sort_order": 14
+    "sort_order": 71
   },
   {
     "id": "390a592c-7739-5932-a935-7af58c1cb02b",
@@ -465,7 +1206,7 @@
     "source_file": "逻辑/基础必修12-论证逻辑专项训练【最终版】.pdf",
     "source_page": 7,
     "needs_review": false,
-    "sort_order": 15
+    "sort_order": 72
   },
   {
     "id": "0d334710-03a2-59ca-b4e1-e28a41eb4168",
@@ -499,7 +1240,7 @@
     "source_file": "逻辑/基础必修12-论证逻辑专项训练【最终版】.pdf",
     "source_page": 9,
     "needs_review": false,
-    "sort_order": 16
+    "sort_order": 73
   },
   {
     "id": "7e24b516-2e7c-5a58-9a7d-3e42c914ac15",
@@ -533,7 +1274,7 @@
     "source_file": "逻辑/基础必修12-论证逻辑专项训练【最终版】.pdf",
     "source_page": 11,
     "needs_review": false,
-    "sort_order": 17
+    "sort_order": 74
   },
   {
     "id": "00b70fbe-bcad-5026-8e40-a74e5ceaff74",
@@ -567,7 +1308,7 @@
     "source_file": "逻辑/基础必修12-论证逻辑专项训练【最终版】.pdf",
     "source_page": 13,
     "needs_review": false,
-    "sort_order": 18
+    "sort_order": 75
   },
   {
     "id": "c927b45a-7031-5bb3-aaff-f8fc4996ae3f",
@@ -601,7 +1342,7 @@
     "source_file": "逻辑/基础必修12-论证逻辑专项训练【最终版】.pdf",
     "source_page": 15,
     "needs_review": false,
-    "sort_order": 19
+    "sort_order": 76
   },
   {
     "id": "41e7eb08-114f-5288-b66e-55d937fdfa56",
@@ -635,7 +1376,7 @@
     "source_file": "逻辑/基础必修12-论证逻辑专项训练【最终版】.pdf",
     "source_page": 17,
     "needs_review": false,
-    "sort_order": 20
+    "sort_order": 77
   },
   {
     "id": "139b7160-9658-5070-bc1e-e0e1a13de001",
@@ -669,7 +1410,7 @@
     "source_file": "逻辑/基础必修12-论证逻辑专项训练【最终版】.pdf",
     "source_page": 19,
     "needs_review": false,
-    "sort_order": 21
+    "sort_order": 78
   },
   {
     "id": "3fff43e0-bacb-5b45-9489-e38d5a369ebb",
@@ -703,7 +1444,7 @@
     "source_file": "逻辑/基础必修12-论证逻辑专项训练【最终版】.pdf",
     "source_page": 21,
     "needs_review": false,
-    "sort_order": 22
+    "sort_order": 79
   },
   {
     "id": "ce1bc152-bf7c-595c-96da-ca009ef6bcb4",
@@ -737,7 +1478,7 @@
     "source_file": "逻辑/基础必修12-论证逻辑专项训练【最终版】.pdf",
     "source_page": 23,
     "needs_review": false,
-    "sort_order": 23
+    "sort_order": 80
   },
   {
     "id": "16ab0b0d-a19d-59eb-953e-0501934ce4b9",
@@ -771,7 +1512,7 @@
     "source_file": "逻辑/基础必修12-论证逻辑专项训练【最终版】.pdf",
     "source_page": 26,
     "needs_review": false,
-    "sort_order": 24
+    "sort_order": 81
   },
   {
     "id": "df0b9e1b-f1c0-5ec6-9f6d-80dbeac050ef",
@@ -805,7 +1546,7 @@
     "source_file": "逻辑/基础必修12-论证逻辑专项训练【最终版】.pdf",
     "source_page": 28,
     "needs_review": false,
-    "sort_order": 25
+    "sort_order": 82
   },
   {
     "id": "8a308451-8643-580e-b518-8279a63d233d",
@@ -839,7 +1580,7 @@
     "source_file": "逻辑/基础必修12-论证逻辑专项训练【最终版】.pdf",
     "source_page": 30,
     "needs_review": false,
-    "sort_order": 26
+    "sort_order": 83
   },
   {
     "id": "26bfc336-45a2-5e4d-a6a2-f7ae4b7e7e63",
@@ -873,7 +1614,7 @@
     "source_file": "逻辑/基础必修12-论证逻辑专项训练【最终版】.pdf",
     "source_page": 32,
     "needs_review": false,
-    "sort_order": 27
+    "sort_order": 84
   },
   {
     "id": "6265da73-12a4-5ed2-8b42-c73da60e4792",
@@ -907,7 +1648,7 @@
     "source_file": "逻辑/基础必修12-论证逻辑专项训练【最终版】.pdf",
     "source_page": 34,
     "needs_review": false,
-    "sort_order": 28
+    "sort_order": 85
   },
   {
     "id": "665bb33a-932b-5ea8-9461-d31642429d4b",
@@ -941,7 +1682,7 @@
     "source_file": "逻辑/基础必修12-论证逻辑专项训练【最终版】.pdf",
     "source_page": 36,
     "needs_review": false,
-    "sort_order": 29
+    "sort_order": 86
   },
   {
     "id": "e25e92e3-39ca-5cc9-bf85-c20c8fbc09b1",
@@ -975,7 +1716,7 @@
     "source_file": "逻辑/基础必修12-论证逻辑专项训练【最终版】.pdf",
     "source_page": 38,
     "needs_review": false,
-    "sort_order": 30
+    "sort_order": 87
   },
   {
     "id": "96062f48-4b15-5549-ae66-0a218dec2f56",
@@ -1009,6 +1750,6 @@
     "source_file": "逻辑/基础必修12-论证逻辑专项训练【最终版】.pdf",
     "source_page": 40,
     "needs_review": false,
-    "sort_order": 31
+    "sort_order": 88
   }
 ]
