@@ -32,6 +32,9 @@ export function AppHeader() {
         <Link href="/search" className="nav-link-desktop">
           搜索
         </Link>
+        <Link href="/practice" className="nav-link-desktop">
+          练习
+        </Link>
         <button type="button" className="btn-text" onClick={logout}>
           退出
         </button>

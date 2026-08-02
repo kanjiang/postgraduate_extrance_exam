@@ -48,7 +48,17 @@ git push -u origin main
 
 开发阶段建议：**Authentication → Providers → Email** 里继续关闭 **Confirm email**，手机注册后能马上进。
 
-## 四、手机 / 平板怎么用
+## 四、题库练习相关 SQL（在已有种子之后执行）
+
+若已执行过 `001_init.sql`、`004_full_seed.sql` 等基础迁移，在 Supabase SQL Editor 中**按顺序**新建查询并执行：
+
+1. `supabase/migrations/006_practice_schema.sql` — 练习表结构与 RLS
+2. `supabase/migrations/006b_math_chapters.sql` — 数学额外章节
+3. `supabase/migrations/007_questions_seed.sql` — 题库种子数据
+
+执行成功后，刷新站点即可在导航中看到「练习」入口。
+
+## 五、手机 / 平板怎么用
 
 1. 浏览器打开 Vercel 给你的网址（Safari / Chrome 均可）。
 2. 用已有邮箱账号登录，或重新注册。
@@ -56,7 +66,7 @@ git push -u origin main
 
 同一账号在电脑和手机上笔记、打卡会同步。
 
-## 五、以后更新网站
+## 六、以后更新网站
 
 本地改完代码后：
 
@@ -73,3 +83,4 @@ Vercel 会自动重新部署；一两分钟后手机刷新即可。
 - **能打开但登录失败**：多半是 Site URL / Redirect URLs 没配好。
 - **页面空白**：到 Vercel → Deployments → 点最新一次看 Build Logs。
 - **国内访问偶发慢**：Vercel 在境外，一般可用；若长期很慢再考虑国内托管。
+- **练习页无题目**：确认已按第四节顺序执行 `006` / `006b` / `007` 三个 SQL 文件。

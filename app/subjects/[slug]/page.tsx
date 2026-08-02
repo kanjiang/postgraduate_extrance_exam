@@ -58,6 +58,9 @@ export default async function SubjectPage({ params, searchParams }: Props) {
                 </Link>
               </p>
             ) : null}
+            <p className="subject-guide-link">
+              <Link href={`/practice?subject=${slug}`}>去练习 →</Link>
+            </p>
           </div>
           <ChapterDrawer
             chapters={chapters}

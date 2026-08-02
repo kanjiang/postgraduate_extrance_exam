@@ -20,6 +20,16 @@ const STUDY_ITEMS: NavItem[] = [
     title: "学习课表",
     desc: "按日期查看课程与完成情况",
   },
+  {
+    href: "/practice",
+    title: "题库练习",
+    desc: "按章节刷题、查看成绩",
+  },
+  {
+    href: "/practice/wrong",
+    title: "错题本",
+    desc: "复习做错的题目",
+  },
 ];
 
 const TOOL_ITEMS: NavItem[] = [
