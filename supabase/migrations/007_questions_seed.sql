@@ -7220,4 +7220,5 @@ on conflict (id) do update set
   source_page = excluded.source_page,
   needs_review = excluded.needs_review,
   sort_order = excluded.sort_order,
-  user_id = excluded.user_id;
+  user_id = excluded.user_id
+where public.questions.needs_review is true;

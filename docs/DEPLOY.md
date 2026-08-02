@@ -56,6 +56,8 @@ git push -u origin main
 2. `supabase/migrations/006b_math_chapters.sql` — 数学额外章节
 3. `supabase/migrations/007_questions_seed.sql` — 题库种子数据
 
+注意：重跑 `007_questions_seed.sql` 只会覆盖仍为 `needs_review = true` 的题目，已人工校对/修正过的题不会被种子回写覆盖。
+
 执行成功后，刷新站点即可在导航中看到「练习」入口。
 
 ## 五、手机 / 平板怎么用

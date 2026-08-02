@@ -2,9 +2,14 @@
 
 import { redirect } from "next/navigation";
 import { revalidatePath } from "next/cache";
+import {
+  getChapterPracticeAvailability,
+  REVIEW_ONLY_CHAPTER_ERROR,
+} from "@/lib/practice";
 import { createClient } from "@/lib/supabase/server";
 import {
   createSession,
+  findOpenChapterSession,
   getQuestion,
   listActiveWrongQuestions,
   listQuestionsForChapter,
@@ -38,8 +43,22 @@ function revalidatePracticeRoutes(sessionId?: string, chapterId?: string | null)
 
 export async function startChapterPracticeAction(chapterId: string) {
   const { user } = await requireUser();
+  const openSession = await findOpenChapterSession(user.id, chapterId);
+  if (openSession) {
+    revalidatePracticeRoutes(openSession.id, chapterId);
+    redirect(`/practice/c/${chapterId}?session=${openSession.id}`);
+  }
+
   const questions = await listQuestionsForChapter(chapterId);
   if (questions.length === 0) {
+    const allQuestions = await listQuestionsForChapter(chapterId, true);
+    const availability = getChapterPracticeAvailability({
+      total: allQuestions.length,
+      reviewable: questions.length,
+    });
+    if (availability === "review_only") {
+      throw new Error(REVIEW_ONLY_CHAPTER_ERROR);
+    }
     throw new Error("该章节还没有可练习的题目");
   }
 
@@ -73,18 +92,18 @@ export async function saveDraftAnswersAction(
   sessionId: string,
   answers: { questionId: string; userAnswer: string }[],
 ) {
-  await requireUser();
-  await saveAnswers(sessionId, answers);
+  const { user } = await requireUser();
+  await saveAnswers(sessionId, answers, user.id);
   revalidatePracticeRoutes(sessionId);
   revalidatePath("/practice/wrong/take");
 }
 
 export async function submitPracticeAction(sessionId: string) {
   const { user } = await requireUser();
-  await submitSession(sessionId, user.id);
-  revalidatePracticeRoutes(sessionId);
+  const session = await submitSession(sessionId, user.id);
+  revalidatePracticeRoutes(session.id, session.chapter_id);
   revalidatePath("/practice/wrong/take");
-  redirect(`/practice/session/${sessionId}`);
+  redirect(`/practice/session/${session.id}`);
 }
 
 export async function selfMarkAction(

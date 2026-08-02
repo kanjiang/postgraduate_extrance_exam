@@ -97,7 +97,8 @@ def main() -> None:
         "  source_page = excluded.source_page,\n"
         "  needs_review = excluded.needs_review,\n"
         "  sort_order = excluded.sort_order,\n"
-        "  user_id = excluded.user_id;\n"
+        "  user_id = excluded.user_id\n"
+        "where public.questions.needs_review is true;\n"
     )
     OUT_PATH.write_text(sql, encoding="utf-8")
     print(f"wrote {OUT_PATH.relative_to(ROOT).as_posix()}")

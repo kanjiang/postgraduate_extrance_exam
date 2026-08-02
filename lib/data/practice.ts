@@ -1,4 +1,9 @@
-import { gradeMcq } from "@/lib/practice";
+import {
+  assertSessionEditable,
+  filterChapterQuestions,
+  gradeMcq,
+  shouldSkipSelfMark,
+} from "@/lib/practice";
 import { createClient } from "@/lib/supabase/server";
 import type {
   PracticeAnswer,
@@ -18,6 +23,8 @@ type SessionStats = Pick<
 
 const QUESTION_SELECT =
   "id, chapter_id, qtype, stem, options, answer, explanation, source_file, source_page, needs_review, sort_order, user_id";
+const SESSION_SELECT =
+  "id, user_id, chapter_id, mode, started_at, finished_at, mcq_correct, mcq_total, short_marked_correct, short_total";
 
 function normalizeOptions(options: unknown): QuestionOption[] | null {
   if (!Array.isArray(options)) return null;
@@ -79,9 +86,7 @@ async function getSessionOrThrow(sessionId: string, userId: string) {
   const supabase = await createClient();
   const { data, error } = await supabase
     .from("practice_sessions")
-    .select(
-      "id, user_id, chapter_id, mode, started_at, finished_at, mcq_correct, mcq_total, short_marked_correct, short_total",
-    )
+    .select(SESSION_SELECT)
     .eq("id", sessionId)
     .eq("user_id", userId)
     .maybeSingle();
@@ -219,15 +224,43 @@ export async function listChapterQuestionCounts(): Promise<
     ;
 }
 
-export async function listQuestionsForChapter(chapterId: string): Promise<Question[]> {
+export async function listQuestionsForChapter(
+  chapterId: string,
+  includeNeedsReview = false,
+): Promise<Question[]> {
   const supabase = await createClient();
-  const { data, error } = await supabase
+  let query = supabase
     .from("questions")
     .select(QUESTION_SELECT)
-    .eq("chapter_id", chapterId)
-    .order("sort_order");
+    .eq("chapter_id", chapterId);
+  if (!includeNeedsReview) {
+    query = query.eq("needs_review", false);
+  }
+  const { data, error } = await query.order("sort_order");
   if (error) throw error;
-  return toQuestionRows((data ?? []) as QuestionRow[]);
+  return filterChapterQuestions(
+    toQuestionRows((data ?? []) as QuestionRow[]),
+    includeNeedsReview,
+  );
+}
+
+export async function findOpenChapterSession(
+  userId: string,
+  chapterId: string,
+): Promise<PracticeSession | null> {
+  const supabase = await createClient();
+  const { data, error } = await supabase
+    .from("practice_sessions")
+    .select(SESSION_SELECT)
+    .eq("user_id", userId)
+    .eq("mode", "chapter")
+    .eq("chapter_id", chapterId)
+    .is("finished_at", null)
+    .order("started_at", { ascending: false })
+    .limit(1)
+    .maybeSingle();
+  if (error) throw error;
+  return (data as PracticeSession | null) ?? null;
 }
 
 export async function listActiveWrongQuestions(userId: string): Promise<Question[]> {
@@ -357,7 +390,11 @@ export async function createSession(
 export async function saveAnswers(
   sessionId: string,
   answers: { questionId: string; userAnswer: string }[],
+  userId: string,
 ): Promise<void> {
+  const session = await getSessionOrThrow(sessionId, userId);
+  assertSessionEditable(session);
+
   const supabase = await createClient();
   const rows = [...new Map(answers.map((answer) => [answer.questionId, answer])).values()];
   if (rows.length === 0) return;
@@ -377,7 +414,10 @@ export async function submitSession(
   sessionId: string,
   userId: string,
 ): Promise<PracticeSession> {
-  await getSessionOrThrow(sessionId, userId);
+  const session = await getSessionOrThrow(sessionId, userId);
+  if (session.finished_at) {
+    return session;
+  }
 
   const answers = await getSessionAnswers(sessionId);
   const questions = await getQuestionMap(answers.map((answer) => answer.question_id));
@@ -462,9 +502,7 @@ export async function submitSession(
 
   const { data: updatedSession, error: fetchError } = await supabase
     .from("practice_sessions")
-    .select(
-      "id, user_id, chapter_id, mode, started_at, finished_at, mcq_correct, mcq_total, short_marked_correct, short_total",
-    )
+    .select(SESSION_SELECT)
     .eq("id", sessionId)
     .eq("user_id", userId)
     .single();
@@ -490,6 +528,18 @@ export async function selfMarkAnswer(
   if (!question) throw new Error("题目不存在");
   if ((question as { qtype: Question["qtype"] }).qtype !== "short") {
     throw new Error("仅简答题支持手动判分");
+  }
+
+  const { data: existingAnswer, error: existingAnswerError } = await supabase
+    .from("practice_answers")
+    .select("session_id, question_id, user_answer, is_correct, self_marked")
+    .eq("session_id", sessionId)
+    .eq("question_id", questionId)
+    .maybeSingle();
+  if (existingAnswerError) throw existingAnswerError;
+  if (!existingAnswer) throw new Error("作答记录不存在");
+  if (shouldSkipSelfMark(existingAnswer as PracticeAnswer)) {
+    return;
   }
 
   const { error: answerError } = await supabase

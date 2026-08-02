@@ -4,7 +4,12 @@ import { listChapterQuestionCounts } from "@/lib/data/practice";
 import { listSubjects, listChaptersForSubject } from "@/lib/data/subjects";
 import { createClient } from "@/lib/supabase/server";
 
-export default async function PracticeHubPage() {
+type Props = {
+  searchParams: Promise<{ subject?: string }>;
+};
+
+export default async function PracticeHubPage({ searchParams }: Props) {
+  const { subject: selectedSubject } = await searchParams;
   const supabase = await createClient();
   const {
     data: { user },
@@ -22,6 +27,15 @@ export default async function PracticeHubPage() {
       chapters: await listChaptersForSubject(subject.id),
     })),
   );
+  const visibleSections =
+    selectedSubject == null
+      ? subjectSections
+      : subjectSections.filter(
+          ({ subject }) =>
+            subject.id === selectedSubject || subject.slug === selectedSubject,
+        );
+  const sectionsToRender =
+    visibleSections.length > 0 ? visibleSections : subjectSections;
 
   return (
     <>
@@ -46,8 +60,12 @@ export default async function PracticeHubPage() {
         </div>
 
         <div className="practice-subject-sections">
-          {subjectSections.map(({ subject, chapters }) => (
-            <section key={subject.id} className="practice-section-card">
+          {sectionsToRender.map(({ subject, chapters }) => (
+            <section
+              key={subject.id}
+              id={`subject-${subject.slug}`}
+              className="practice-section-card"
+            >
               <h2>{subject.name}</h2>
               {chapters.length === 0 ? (
                 <p className="muted">还没有章节数据。</p>
