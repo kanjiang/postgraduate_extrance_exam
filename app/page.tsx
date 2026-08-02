@@ -25,23 +25,28 @@ export default async function HomePage() {
         <section className="hero">
           <h1 className="hero-brand">工程管理备考</h1>
           <p className="hero-line">逻辑 · 数学 · 英语二 — 知识点整理与复习</p>
+          <div className="hero-actions">
+            <Link className="btn-primary hero-btn" href="/today">
+              今日打卡
+            </Link>
+            <Link className="btn-secondary" href="/schedule">
+              学习课表
+            </Link>
+          </div>
         </section>
 
         <section className="subject-grid">
           {subjects.length === 0 ? (
             <div className="empty-subjects">
               <p>
-                还没有科目数据。请在 Supabase SQL Editor 依次执行：
+                还没有科目数据。请在 Supabase SQL Editor 新建查询，执行这一份即可：
               </p>
               <ol>
                 <li>
-                  <code>supabase/migrations/003_ensure_seed.sql</code>
-                </li>
-                <li>
-                  <code>supabase/migrations/002_enrich_skeleton.sql</code>
+                  <code>supabase/migrations/004_full_seed.sql</code>
                 </li>
               </ol>
-              <p className="muted">执行后刷新本页，应出现「逻辑 / 数学 / 英语二」入口。</p>
+              <p className="muted">执行成功后刷新本页，应出现「逻辑 / 数学 / 英语二」入口。</p>
             </div>
           ) : (
             subjects.map((s) => <SubjectCard key={s.id} subject={s} />)
