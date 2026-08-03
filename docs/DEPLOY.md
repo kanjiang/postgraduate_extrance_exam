@@ -52,11 +52,18 @@ git push -u origin main
 
 若已执行过 `001_init.sql`、`004_full_seed.sql` 等基础迁移，在 Supabase SQL Editor 中**按顺序**新建查询并执行：
 
-1. `supabase/migrations/006_practice_schema.sql` — 练习表结构与 RLS
-2. `supabase/migrations/006b_math_chapters.sql` — 数学额外章节
-3. `supabase/migrations/007_questions_seed.sql` — 题库种子数据
+1. `supabase/migrations/006_practice_schema.sql` — 练习表结构与 RLS  
+2. `supabase/migrations/006b_math_chapters.sql` — 数学额外章节  
+3. **题库数据（不要整份跑 `007_questions_seed.sql`，编辑器会报 Query too large）**，改跑拆分包：
 
-注意：重跑 `007_questions_seed.sql` 只会覆盖仍为 `needs_review = true` 的题目，已人工校对/修正过的题不会被种子回写覆盖。
+| 顺序 | 文件 | 说明 |
+|------|------|------|
+| 先跑 | `supabase/migrations/007_parts/007a_clean_only.sql` | 约 74 道可直接练习的题（推荐先跑这个） |
+| 可选 | `007_parts/007b_review_part_01.sql` … `007b_review_part_34.sql` | 待校对题，每次新建查询粘贴一份再 Run |
+
+整份 `007_questions_seed.sql` 仅作备份；日常导入请用 `007_parts/`。
+
+注意：重跑种子只会覆盖仍为 `needs_review = true` 的题目，已人工校对过的题不会被回写覆盖。
 
 执行成功后，刷新站点即可在导航中看到「练习」入口。
 
@@ -85,4 +92,5 @@ Vercel 会自动重新部署；一两分钟后手机刷新即可。
 - **能打开但登录失败**：多半是 Site URL / Redirect URLs 没配好。
 - **页面空白**：到 Vercel → Deployments → 点最新一次看 Build Logs。
 - **国内访问偶发慢**：Vercel 在境外，一般可用；若长期很慢再考虑国内托管。
-- **练习页无题目**：确认已按第四节顺序执行 `006` / `006b` / `007` 三个 SQL 文件。
+- **练习页无题目**：确认已执行 `006`、`006b`，以及至少 `007_parts/007a_clean_only.sql`。  
+- **Query is too large**：不要跑整份 `007_questions_seed.sql`，改用 `007_parts/` 下的小文件逐个执行。
