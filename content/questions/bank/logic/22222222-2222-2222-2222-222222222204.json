@@ -56,7 +56,7 @@
     "explanation": "",
     "source_file": "逻辑/基础必修5-综合推理1.pdf",
     "source_page": 3,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 3
   },
   {
@@ -103,7 +103,7 @@
     "explanation": "",
     "source_file": "逻辑/基础必修5-综合推理1.pdf",
     "source_page": 3,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 5
   },
   {
@@ -306,7 +306,7 @@
     "explanation": "",
     "source_file": "逻辑/基础必修5-综合推理1.pdf",
     "source_page": 7,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 19
   },
   {
@@ -418,7 +418,7 @@
     "explanation": "",
     "source_file": "逻辑/基础必修5-综合推理1.pdf",
     "source_page": 9,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 26
   },
   {
@@ -582,7 +582,7 @@
     "explanation": "",
     "source_file": "逻辑/基础必修5-综合推理1.pdf",
     "source_page": 12,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 37
   },
   {
@@ -1528,7 +1528,7 @@
     "explanation": "",
     "source_file": "逻辑/基础必修5-综合推理1.pdf",
     "source_page": 35,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 100
   },
   {
@@ -1679,7 +1679,7 @@
     "explanation": "",
     "source_file": "逻辑/基础必修5-综合推理1.pdf",
     "source_page": 38,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 110
   },
   {
@@ -1895,7 +1895,7 @@
     "explanation": "",
     "source_file": "逻辑/基础必修6-综合推理2.pdf",
     "source_page": 3,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 125
   },
   {
@@ -2046,7 +2046,7 @@
     "explanation": "",
     "source_file": "逻辑/基础必修6-综合推理2.pdf",
     "source_page": 5,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 135
   },
   {
@@ -2145,7 +2145,7 @@
     "explanation": "",
     "source_file": "逻辑/基础必修6-综合推理2.pdf",
     "source_page": 8,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 141
   },
   {
@@ -2635,7 +2635,7 @@
     "explanation": "",
     "source_file": "逻辑/基础必修6-综合推理2.pdf",
     "source_page": 19,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 175
   },
   {
@@ -2873,7 +2873,7 @@
     "explanation": "",
     "source_file": "逻辑/基础必修6-综合推理2.pdf",
     "source_page": 24,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 191
   },
   {
@@ -3210,7 +3210,7 @@
     "explanation": "【第1步 识别命题形式】\n题干中出现多个假言命题，提问方式为“下列哪项一定为假”，故此题为假言命题的矛盾命题模型。\n【第2步 套用母题方法】\n步骤1:画箭头。",
     "source_file": "逻辑/基础必修6-综合推理2.pdf",
     "source_page": 31,
-    "needs_review": false,
+    "needs_review": true,
     "sort_order": 212
   },
   {
@@ -3270,7 +3270,7 @@
     "explanation": "",
     "source_file": "逻辑/基础必修6-综合推理2.pdf",
     "source_page": 32,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 215
   },
   {
@@ -3330,7 +3330,7 @@
     "explanation": "【第1步 识别命题形式】\n题干中出现多个假言命题，提问方式为“以下哪项一定为假”，故此题为假言命题的矛盾命题模型。\n【第2步 套用母题方法】\n题干:",
     "source_file": "逻辑/基础必修6-综合推理2.pdf",
     "source_page": 33,
-    "needs_review": false,
+    "needs_review": true,
     "sort_order": 218
   },
   {
@@ -4767,7 +4767,7 @@
     "explanation": "",
     "source_file": "逻辑/基础必修7-综合推理3.pdf",
     "source_page": 46,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 306
   },
   {
@@ -4957,7 +4957,7 @@
     "explanation": "",
     "source_file": "逻辑/基础必修8-综合推理4【全部题目版】.pdf",
     "source_page": 3,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 319
   },
   {
@@ -5785,7 +5785,7 @@
     "explanation": "",
     "source_file": "逻辑/基础必修8-综合推理4【全部题目版】.pdf",
     "source_page": 32,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 372
   },
   {
@@ -5871,7 +5871,7 @@
     "explanation": "",
     "source_file": "逻辑/基础必修8-综合推理4【全部题目版】.pdf",
     "source_page": 34,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 377
   },
   {
@@ -6589,7 +6589,7 @@
     "explanation": "【第1步 识别命题形式】\n题干中，5人均给出了6道题的答案(即每人做了6个判断)，并且已知每人的正确个数。故此题为真假话模型(一人多判断)。\n题干已知，每道题给出A、B、C、D、E五个选项，其中只有一项是正确答案。观察表格发现，第一题、第三题、第六题五\n人给出的答案包含了所有的可能性，因此，这三道题均恰好只有一人答对。\n再结合五人的测试结果可得下表:\n由上表的测试结果可知，每列的重复答案均错误，否则无法满足“对1题”。再结合赵和李的测试结果可得下表:\n答题者\n第二题\n第四题\n第五题\n测试\n结果\n赵\nE\nA\nB\n全错\n李\nC\nD\nE\n全错\n钱\nC\nA\nE\n对1题\n孙\nB\nE\nA\n周\nB\nD\nA\n【练习13】\n【答案】D\n【第1步 识别命题形式】\n由上表的测试结果可知，每列的重复答案均错误，否则无法满足“对1题”。再结合赵和李的测试结果可得下表:\n因此，第四题的正确答案是E，故D项正确。\n答题者\n第二题\n第四题\n第五题\n测试\n结果\n赵\nE（错）A（错）B（错）\n全错\n李\nC（错）D（错）E（错）\n全错\n钱\nC（错）A（错）E（错）\n对1题\n孙\nB（错）\nE\nA（错）\n周\nB（错）D（错）A（错）",
     "source_file": "逻辑/基础必修8-综合推理4【全部题目版】.pdf",
     "source_page": 48,
-    "needs_review": false,
+    "needs_review": true,
     "sort_order": 425
   },
   {
@@ -6709,7 +6709,7 @@
     "explanation": "",
     "source_file": "逻辑/基础必修8-综合推理4【最终版】.pdf",
     "source_page": 3,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 431
   },
   {
@@ -7537,7 +7537,7 @@
     "explanation": "",
     "source_file": "逻辑/基础必修8-综合推理4【最终版】.pdf",
     "source_page": 32,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 484
   },
   {
@@ -7770,7 +7770,7 @@
     "explanation": "【第1步 识别命题形式】\n题干中，5人均给出了6道题的答案(即每人做了6个判断)，并且已知每人的正确个数。故此题为真假话模型(一人多判断)。\n题干已知，每道题给出A、B、C、D、E五个选项，其中只有一项是正确答案。观察表格发现，第一题、第三题、第六题五\n人给出的答案包含了所有的可能性，因此，这三道题均恰好只有一人答对。\n再结合五人的测试结果可得下表:\n由上表的测试结果可知，每列的重复答案均错误，否则无法满足“对1题”。再结合赵和李的测试结果可得下表:\n答题者\n第二题\n第四题\n第五题\n测试\n结果\n赵\nE\nA\nB\n全错\n李\nC\nD\nE\n全错\n钱\nC\nA\nE\n对1题\n孙\nB\nE\nA\n周\nB\nD\nA\n【练习13】\n【答案】D\n【第1步 识别命题形式】\n由上表的测试结果可知，每列的重复答案均错误，否则无法满足“对1题”。再结合赵和李的测试结果可得下表:\n因此，第四题的正确答案是E，故D项正确。\n答题者\n第二题\n第四题\n第五题\n测试\n结果\n赵\nE（错）A（错）B（错）\n全错\n李\nC（错）D（错）E（错）\n全错\n钱\nC（错）A（错）E（错）\n对1题\n孙\nB（错）\nE\nA（错）\n周\nB（错）D（错）A（错）",
     "source_file": "逻辑/基础必修8-综合推理4【最终版】.pdf",
     "source_page": 38,
-    "needs_review": false,
+    "needs_review": true,
     "sort_order": 499
   },
   {
