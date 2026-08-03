@@ -58,8 +58,8 @@ git push -u origin main
 
 | 顺序 | 文件 | 说明 |
 |------|------|------|
-| 先跑 | `supabase/migrations/007_parts/007a_clean_only.sql` | 约 74 道可直接练习的题（推荐先跑这个） |
-| 可选 | `007_parts/007b_review_part_01.sql` … `007b_review_part_34.sql` | 待校对题，每次新建查询粘贴一份再 Run |
+| 先跑 | `007_parts/007a_clean_part_01.sql` … `04.sql` | 可练习题约 74 道，拆成 4 份（避免 Query too large） |
+| 可选 | `007_parts/007b_review_part_01.sql` … `34.sql` | 待校对题，每次新建查询粘贴一份再 Run |
 
 整份 `007_questions_seed.sql` 仅作备份；日常导入请用 `007_parts/`。
 

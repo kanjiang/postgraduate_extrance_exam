@@ -134,7 +134,7 @@
     "explanation": "",
     "source_file": "数学/第7章 平面几何(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 2,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 9
   },
   {
@@ -285,7 +285,7 @@
     "explanation": "",
     "source_file": "数学/第7章 平面几何(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 3,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 19
   },
   {
@@ -462,7 +462,7 @@
     "explanation": "",
     "source_file": "数学/第7章 平面几何(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 6,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 31
   },
   {
@@ -496,7 +496,7 @@
     "explanation": "",
     "source_file": "数学/第7章 平面几何(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 6,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 32
   },
   {
@@ -530,7 +530,7 @@
     "explanation": "",
     "source_file": "数学/第7章 平面几何(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 8,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 33
   },
   {
@@ -642,7 +642,7 @@
     "explanation": "",
     "source_file": "数学/第7章 平面几何(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 11,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 40
   },
   {
@@ -923,7 +923,7 @@
     "explanation": "",
     "source_file": "数学/第7章 平面几何(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 15,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 60
   },
   {
@@ -1048,7 +1048,7 @@
     "explanation": "",
     "source_file": "数学/第7章 平面几何(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 17,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 68
   },
   {
@@ -1095,7 +1095,7 @@
     "explanation": "",
     "source_file": "数学/第7章 平面几何(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 19,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 70
   },
   {
@@ -1129,7 +1129,7 @@
     "explanation": "",
     "source_file": "数学/第7章 平面几何(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 20,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 71
   },
   {
@@ -1163,7 +1163,7 @@
     "explanation": "",
     "source_file": "数学/第7章 平面几何(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 20,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 72
   },
   {
@@ -1197,7 +1197,7 @@
     "explanation": "",
     "source_file": "数学/第7章 平面几何(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 22,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 73
   },
   {
@@ -1270,7 +1270,7 @@
     "explanation": "",
     "source_file": "数学/第7章 平面几何(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 23,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 77
   },
   {
@@ -1343,7 +1343,7 @@
     "explanation": "",
     "source_file": "数学/第7章 平面几何(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 25,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 81
   },
   {
@@ -1390,7 +1390,7 @@
     "explanation": "根据正弦定理可得，\n𝑎\nsin𝐴=\n𝑐\nsin𝐶，解得sin𝐶=\n1\n2，所以∠𝐶= 30°，\n答案选（B）.\n三、余弦定理",
     "source_file": "数学/第7章 平面几何(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 27,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 83
   },
   {
@@ -1450,7 +1450,7 @@
     "explanation": "长方形对角线互相平分且相等，𝑆△𝐴𝐵𝐸= 𝑆△𝐷𝐶𝐸= 1\n2 × 4 × 3 = 6\n故𝑆△𝐵𝐸𝐺+ 𝑆△𝐶𝐸𝐹= 𝑆△𝐴𝐵𝐸+ 𝑆△𝐷𝐶𝐸−𝑆蓝色阴影= 6 + 6 −10 = 2\n𝑆𝐸𝐹𝐺𝐻= 𝑆△𝐵𝐶𝐻−(𝑆△𝐵𝐸𝐺+ 𝑆△𝐶𝐸𝐹) −𝑆△𝐵𝐶𝐸\n= 1\n2 × 4 × 6 −2 −1\n2 × 6 × 2 = 4\n答案选（C）.\n你的坚持，终将美好！\n53",
     "source_file": "数学/第7章 平面几何(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 29,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 86
   },
   {
@@ -2108,7 +2108,7 @@
     "explanation": "",
     "source_file": "数学/第7章 平面几何（1）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 7,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 135
   },
   {
@@ -2142,7 +2142,7 @@
     "explanation": "",
     "source_file": "数学/第7章 平面几何（1）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 8,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 136
   },
   {
@@ -2215,7 +2215,7 @@
     "explanation": "",
     "source_file": "数学/第7章 平面几何（1）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 9,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 140
   },
   {
@@ -2405,7 +2405,7 @@
     "explanation": "",
     "source_file": "数学/第7章 平面几何（1）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 13,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 153
   },
   {
@@ -2517,7 +2517,7 @@
     "explanation": "",
     "source_file": "数学/第7章 平面几何（1）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 15,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 160
   },
   {
@@ -2590,7 +2590,7 @@
     "explanation": "",
     "source_file": "数学/第7章 平面几何（1）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 17,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 164
   },
   {
@@ -2624,7 +2624,7 @@
     "explanation": "",
     "source_file": "数学/第7章 平面几何（1）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 17,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 165
   },
   {
@@ -2658,7 +2658,7 @@
     "explanation": "",
     "source_file": "数学/第7章 平面几何（1）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 18,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 166
   },
   {
@@ -3000,7 +3000,7 @@
     "explanation": "",
     "source_file": "数学/第7章 平面几何（1）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 23,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 190
   },
   {
@@ -3034,7 +3034,7 @@
     "explanation": "",
     "source_file": "数学/第7章 平面几何（1）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 23,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 191
   },
   {
@@ -3250,7 +3250,7 @@
     "explanation": "",
     "source_file": "数学/第7章 平面几何（1）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 26,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 206
   },
   {
@@ -3401,7 +3401,7 @@
     "explanation": "",
     "source_file": "数学/第7章 平面几何（1）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 27,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 216
   },
   {
@@ -3435,7 +3435,7 @@
     "explanation": "",
     "source_file": "数学/第7章 平面几何（1）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 28,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 217
   }
 ]

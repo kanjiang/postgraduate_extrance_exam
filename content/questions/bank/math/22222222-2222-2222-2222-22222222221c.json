@@ -121,7 +121,7 @@
     "explanation": "",
     "source_file": "数学/第12章 数据描述 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 2,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 8
   },
   {
@@ -253,7 +253,7 @@
     "explanation": "",
     "source_file": "数学/第12章 数据描述 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 5,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 15
   },
   {
@@ -326,7 +326,7 @@
     "explanation": "",
     "source_file": "数学/第12章 数据描述 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 7,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 19
   },
   {
@@ -373,7 +373,7 @@
     "explanation": "要每名男生旁边都有女生，则可以先排女生，再对男生插空\n第一步：求总情况数\n9个人进行全排列，有A9\n9\n第二步：排女生\n5名女生排成一排有A5\n5种方法，此时形成6 个空\n第三步：排男生",
     "source_file": "数学/第12章 数据描述 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 7,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 21
   },
   {
@@ -446,7 +446,7 @@
     "explanation": "",
     "source_file": "数学/第12章 数据描述 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 13,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 25
   },
   {
@@ -480,7 +480,7 @@
     "explanation": "",
     "source_file": "数学/第12章 数据描述 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 13,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 26
   },
   {
@@ -514,7 +514,7 @@
     "explanation": "",
     "source_file": "数学/第12章 数据描述 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 15,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 27
   },
   {
@@ -678,7 +678,7 @@
     "explanation": "",
     "source_file": "数学/第12章 数据描述 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 18,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 38
   },
   {
@@ -712,7 +712,7 @@
     "explanation": "",
     "source_file": "数学/第12章 数据描述 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 19,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 39
   },
   {
@@ -746,7 +746,7 @@
     "explanation": "",
     "source_file": "数学/第12章 数据描述 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 19,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 40
   },
   {
@@ -897,7 +897,7 @@
     "explanation": "",
     "source_file": "数学/第12章 数据描述 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 22,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 50
   },
   {
@@ -957,7 +957,7 @@
     "explanation": "",
     "source_file": "数学/第12章 数据描述 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 23,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 53
   },
   {

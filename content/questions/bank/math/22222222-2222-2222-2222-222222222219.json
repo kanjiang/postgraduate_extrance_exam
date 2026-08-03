@@ -134,7 +134,7 @@
     "explanation": "",
     "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 3,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 9
   },
   {
@@ -168,7 +168,7 @@
     "explanation": "",
     "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 4,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 10
   },
   {
@@ -202,7 +202,7 @@
     "explanation": "",
     "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 4,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 11
   },
   {
@@ -392,7 +392,7 @@
     "explanation": "",
     "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 9,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 23
   },
   {
@@ -426,7 +426,7 @@
     "explanation": "",
     "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 11,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 24
   },
   {
@@ -603,7 +603,7 @@
     "explanation": "",
     "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 13,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 36
   },
   {
@@ -637,7 +637,7 @@
     "explanation": "",
     "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 13,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 37
   },
   {
@@ -788,7 +788,7 @@
     "explanation": "",
     "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 17,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 47
   },
   {
@@ -822,7 +822,7 @@
     "explanation": "",
     "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 17,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 48
   },
   {
@@ -856,7 +856,7 @@
     "explanation": "",
     "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 18,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 49
   },
   {
@@ -929,7 +929,7 @@
     "explanation": "",
     "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 21,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 53
   },
   {
@@ -959,7 +959,7 @@
     "explanation": "",
     "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 21,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 54
   },
   {
@@ -993,7 +993,7 @@
     "explanation": "设球体的半径为𝑟（底面圆的圆心到球面上正方形交点的距离）\n正方形对角线长度为√6 × √2 = 2√3，则𝑟2 = (√3)\n2 + (√6)\n2 = 9，\n故球的半径为3，\n半球的表面积：𝑆=\n1\n2 × 4π × 32 + π × 32 = 27π.\n半球的体积：𝑉=\n1\n2 ×\n4\n3 π𝑟3 =\n2\n3 π × 33 = 18π.\n答案选(A).\n你的坚持，终将美好！\n22",
     "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 23,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 55
   },
   {
@@ -1027,7 +1027,7 @@
     "explanation": "设内接圆柱体的底面半径为𝑟，则圆柱体的高\nℎ= √82 −(2𝑟)2 = 2√16 −𝑟2.\n圆柱体的侧面积\n𝑆侧= 2π𝑟⋅2√16 −𝑟2 = 4π√𝑟2(16 −𝑟2) ⩽4π ⋅𝑟2 + 16 −𝑟2\n2\n= 32π\n当且仅当𝑟2 = 16 −𝑟2 ⇒𝑟= 2√2时，取等号\n球体的表面积为4π𝑅2 = 4π × 42 = 64π，\n则球体的表面积与圆柱体的侧面积和差为64π −32π = 32π.\n答案选(C).\n你的坚持，终将美好！\n23",
     "source_file": "数学/第9章 立体几何  含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 24,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 56
   }
 ]

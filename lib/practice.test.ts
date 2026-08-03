@@ -6,6 +6,7 @@ import {
   getChapterPracticeAvailability,
   gradeMcq,
   normalizeAnswerKey,
+  requiresSelfMark,
   shouldSkipSelfMark,
 } from "./practice";
 
@@ -72,6 +73,14 @@ describe("getChapterPracticeAvailability", () => {
     expect(
       getChapterPracticeAvailability({ total: 3, reviewable: 2 }),
     ).toBe("ready");
+  });
+});
+
+describe("requiresSelfMark", () => {
+  it("marks short and unanswered mcq for self review", () => {
+    expect(requiresSelfMark({ qtype: "short", answer: "参考" })).toBe(true);
+    expect(requiresSelfMark({ qtype: "mcq", answer: "" })).toBe(true);
+    expect(requiresSelfMark({ qtype: "mcq", answer: "B" })).toBe(false);
   });
 });
 

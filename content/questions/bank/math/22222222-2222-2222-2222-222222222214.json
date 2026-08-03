@@ -95,7 +95,7 @@
     "explanation": "",
     "source_file": "数学/第4章 方程与不等式（1） 含解析的合订版.pdf",
     "source_page": 1,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 6
   },
   {
@@ -324,7 +324,7 @@
     "explanation": "",
     "source_file": "数学/第4章 方程与不等式（1） 含解析的合订版.pdf",
     "source_page": 6,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 22
   },
   {
@@ -384,7 +384,7 @@
     "explanation": "",
     "source_file": "数学/第4章 方程与不等式（1） 含解析的合订版.pdf",
     "source_page": 9,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 25
   },
   {
@@ -418,7 +418,7 @@
     "explanation": "",
     "source_file": "数学/第4章 方程与不等式（1） 含解析的合订版.pdf",
     "source_page": 9,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 26
   },
   {
@@ -452,7 +452,7 @@
     "explanation": "",
     "source_file": "数学/第4章 方程与不等式（1） 含解析的合订版.pdf",
     "source_page": 11,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 27
   },
   {
@@ -486,7 +486,7 @@
     "explanation": "",
     "source_file": "数学/第4章 方程与不等式（1） 含解析的合订版.pdf",
     "source_page": 11,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 28
   },
   {
@@ -546,7 +546,7 @@
     "explanation": "",
     "source_file": "数学/第4章 方程与不等式（1） 含解析的合订版.pdf",
     "source_page": 13,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 30
   },
   {
@@ -1018,7 +1018,7 @@
     "explanation": "",
     "source_file": "数学/第4章 方程与不等式（3） 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 3,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 65
   },
   {
@@ -1052,7 +1052,7 @@
     "explanation": "",
     "source_file": "数学/第4章 方程与不等式（3） 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 3,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 66
   },
   {
@@ -1125,7 +1125,7 @@
     "explanation": "",
     "source_file": "数学/第4章 方程与不等式（3） 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 6,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 70
   },
   {
@@ -1159,7 +1159,7 @@
     "explanation": "",
     "source_file": "数学/第4章 方程与不等式（3） 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 6,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 71
   },
   {
@@ -1193,7 +1193,7 @@
     "explanation": "",
     "source_file": "数学/第4章 方程与不等式（3） 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 8,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 72
   },
   {
@@ -1279,7 +1279,7 @@
     "explanation": "",
     "source_file": "数学/第4章 方程与不等式（3） 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 9,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 77
   },
   {
@@ -1443,7 +1443,7 @@
     "explanation": "",
     "source_file": "数学/第4章 方程与不等式（3） 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 13,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 88
   },
   {
@@ -1477,7 +1477,7 @@
     "explanation": "",
     "source_file": "数学/第4章 方程与不等式（3） 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 15,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 89
   },
   {
@@ -1511,7 +1511,7 @@
     "explanation": "",
     "source_file": "数学/第4章 方程与不等式（3） 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 15,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 90
   },
   {
@@ -1545,7 +1545,7 @@
     "explanation": "",
     "source_file": "数学/第4章 方程与不等式（3） 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 17,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 91
   },
   {
@@ -1579,7 +1579,7 @@
     "explanation": "题目让求𝑎𝑏的值，也就是我们要么求出𝑎, 𝑏的具体值，要么求出𝑎𝑏的等价表\n达式的值，此时我们提取题干信息：",
     "source_file": "数学/第4章 方程与不等式（3） 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 17,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 92
   },
   {
@@ -1639,7 +1639,7 @@
     "explanation": "注意到𝑓(𝑥)是二次函数形式，但这里并没有说是二次函数（没给出𝑎≠0）.\n所以我们大概率是要对𝑎进行分类讨论的，推测此处应该是破题点.\n𝑓[𝑓(𝑥)] = 𝑓(𝑎𝑥2 + 2𝑥+ 1)=𝑎(𝑎𝑥2 + 2𝑥+ 1)2 + 2(𝑎𝑥2 + 2𝑥+ 1) + 1，\n发现这样代入算，会出现𝑥4，会很复杂，因此试试用换元法，不直接算.",
     "source_file": "数学/第4章 方程与不等式（3） 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 19,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 95
   },
   {
@@ -1699,7 +1699,7 @@
     "explanation": "5√𝑥−1 + √10 −2𝑥= 5 ⋅√𝑥−1 + √2 ⋅√5 −𝑥\n⩽√[52 + (√2)\n2] [(√𝑥−1)\n2 + (√5 −𝑥)\n2]\n= √27 × 4 = 6√3.\n检验：令𝑎= 5, 𝑐= √𝑥−1, 𝑏= √2, 𝑑= √5 −𝑥\n当𝑎𝑑= 𝑏𝑐，等号成立，则有5√5 −𝑥= √2 ⋅√𝑥−1，等式两边同时平方\n得：25(5 −𝑥) = 2(𝑥−1) ⇒125 −25𝑥= 2𝑥−2 ⇒27𝑥= 127 ⇒𝑥=\n127\n27\n在区间𝑥∈(1,5)内. 所以取得到等号.\n答案选（E）.\n你的坚持，终将美好！\n23",
     "source_file": "数学/第4章 方程与不等式（3） 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 21,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 98
   },
   {
@@ -1811,7 +1811,7 @@
     "explanation": "",
     "source_file": "数学/第4章 方程于不等式（2）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 1,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 105
   },
   {
@@ -1880,7 +1880,7 @@
     "explanation": "",
     "source_file": "数学/第4章 方程于不等式（2）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 3,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 109
   },
   {
@@ -2079,7 +2079,7 @@
     "explanation": "",
     "source_file": "数学/第4章 方程于不等式（2）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 7,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 123
   },
   {
@@ -2133,7 +2133,7 @@
     "explanation": "",
     "source_file": "数学/第4章 方程于不等式（2）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 8,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 124
   },
   {
@@ -2284,7 +2284,7 @@
     "explanation": "",
     "source_file": "数学/第4章 方程于不等式（2）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 12,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 134
   },
   {
@@ -2318,7 +2318,7 @@
     "explanation": "",
     "source_file": "数学/第4章 方程于不等式（2）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 12,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 135
   },
   {
@@ -2378,7 +2378,7 @@
     "explanation": "",
     "source_file": "数学/第4章 方程于不等式（2）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 15,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 138
   },
   {
@@ -2412,7 +2412,7 @@
     "explanation": "",
     "source_file": "数学/第4章 方程于不等式（2）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 15,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 139
   },
   {
@@ -2572,7 +2572,7 @@
     "explanation": "",
     "source_file": "数学/第4章 方程于不等式（2）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 19,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 149
   },
   {
@@ -2606,7 +2606,7 @@
     "explanation": "",
     "source_file": "数学/第4章 方程于不等式（2）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 20,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 150
   },
   {
@@ -2718,7 +2718,7 @@
     "explanation": "",
     "source_file": "数学/第4章 方程于不等式（2）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 23,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 157
   },
   {
@@ -2791,7 +2791,7 @@
     "explanation": "",
     "source_file": "数学/第4章 方程于不等式（2）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 23,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 161
   },
   {
@@ -2821,7 +2821,7 @@
     "explanation": "",
     "source_file": "数学/第4章 方程于不等式（2）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 26,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 162
   },
   {
@@ -2855,7 +2855,7 @@
     "explanation": "",
     "source_file": "数学/第4章 方程于不等式（2）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 26,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 163
   }
 ]

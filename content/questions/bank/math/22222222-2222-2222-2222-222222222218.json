@@ -199,7 +199,7 @@
     "explanation": "",
     "source_file": "数学/第8章 解析几何（1）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 4,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 14
   },
   {
@@ -342,7 +342,7 @@
     "explanation": "",
     "source_file": "数学/第8章 解析几何（1）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 7,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 23
   },
   {
@@ -513,7 +513,7 @@
     "explanation": "",
     "source_file": "数学/第8章 解析几何（1）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 9,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 33
   },
   {
@@ -599,7 +599,7 @@
     "explanation": "",
     "source_file": "数学/第8章 解析几何（1）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 11,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 38
   },
   {
@@ -646,7 +646,7 @@
     "explanation": "",
     "source_file": "数学/第8章 解析几何（1）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 12,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 40
   },
   {
@@ -719,7 +719,7 @@
     "explanation": "",
     "source_file": "数学/第8章 解析几何（1）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 15,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 44
   },
   {
@@ -753,7 +753,7 @@
     "explanation": "",
     "source_file": "数学/第8章 解析几何（1）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 15,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 45
   },
   {
@@ -787,7 +787,7 @@
     "explanation": "",
     "source_file": "数学/第8章 解析几何（1）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 17,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 46
   },
   {
@@ -821,7 +821,7 @@
     "explanation": "",
     "source_file": "数学/第8章 解析几何（1）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 17,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 47
   },
   {
@@ -855,7 +855,7 @@
     "explanation": "",
     "source_file": "数学/第8章 解析几何（1）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 19,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 48
   },
   {
@@ -889,7 +889,7 @@
     "explanation": "",
     "source_file": "数学/第8章 解析几何（1）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 21,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 49
   },
   {
@@ -923,7 +923,7 @@
     "explanation": "",
     "source_file": "数学/第8章 解析几何（1）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 21,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 50
   },
   {
@@ -1035,7 +1035,7 @@
     "explanation": "",
     "source_file": "数学/第8章 解析几何（1）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 24,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 57
   },
   {
@@ -1069,7 +1069,7 @@
     "explanation": "",
     "source_file": "数学/第8章 解析几何（1）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 26,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 58
   },
   {
@@ -1259,7 +1259,7 @@
     "explanation": "",
     "source_file": "数学/第8章 解析几何（2）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 5,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 71
   },
   {
@@ -1293,7 +1293,7 @@
     "explanation": "",
     "source_file": "数学/第8章 解析几何（2）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 5,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 72
   },
   {
@@ -1327,7 +1327,7 @@
     "explanation": "",
     "source_file": "数学/第8章 解析几何（2）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 7,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 73
   },
   {
@@ -1387,7 +1387,7 @@
     "explanation": "",
     "source_file": "数学/第8章 解析几何（2）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 8,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 76
   },
   {
@@ -1469,7 +1469,7 @@
     "explanation": "",
     "source_file": "数学/第8章 解析几何（2）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 11,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 80
   },
   {
@@ -1529,7 +1529,7 @@
     "explanation": "",
     "source_file": "数学/第8章 解析几何（2）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 13,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 83
   },
   {
@@ -1576,7 +1576,7 @@
     "explanation": "",
     "source_file": "数学/第8章 解析几何（2）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 14,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 85
   },
   {
@@ -1714,7 +1714,7 @@
     "explanation": "",
     "source_file": "数学/第8章 解析几何（2）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 18,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 94
   },
   {
@@ -1748,7 +1748,7 @@
     "explanation": "",
     "source_file": "数学/第8章 解析几何（2）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 20,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 95
   },
   {
@@ -1782,7 +1782,7 @@
     "explanation": "",
     "source_file": "数学/第8章 解析几何（2）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 22,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 96
   },
   {
@@ -1855,7 +1855,7 @@
     "explanation": "【思路分析】本题考查了直线关于对称直线相交的情形.先可以定𝑙1 上的\n一点，再求出𝑙2上的对称点，然后根据两点公式或者斜率公式求出𝑙2，最\n后求出截距求面积.\n第一步：先求直线𝑙1和直线𝑙交点\n联立方程 { 2𝑥+ 𝑦−4 = 0\n①\n3𝑥+ 4𝑦−1 = 0\n②由①得，𝑦= 4 −2𝑥，代入②，\n3𝑥+ 4(4 −2𝑥) −1 = 0，解得𝑥= 3，故𝑦= −2，交点𝑃的坐标为(3, −2).\n第二步：在𝑙1上取一点，求对称位置的𝑙2点\n取𝑙1上一点𝑥= 0，得𝑦= 4，故𝑀(0,4)，又𝑘𝑙= −\n3\n4 ，即𝑘𝑀𝑀′ =\n4\n3\n则直线MM'：𝑦=\n4\n3 𝑥+ 4，其与直线𝑙：3𝑥+ 4𝑦−1 = 0 的交点\n3𝑥+ 4 (4\n3 𝑥+ 4) −1 = 0 ⇒3𝑥+ 16\n3 𝑥+ 16 −1 = 0 ⇒25\n3 𝑥= −15\n解得𝑥= −9\n5 , 故𝑦= 4\n3 × (−9",
     "source_file": "数学/第8章 解析几何（2）含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 24,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 100
   },
   {

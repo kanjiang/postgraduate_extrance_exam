@@ -212,7 +212,7 @@
     "explanation": "",
     "source_file": "数学/第5章 数列(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 3,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 15
   },
   {
@@ -246,7 +246,7 @@
     "explanation": "",
     "source_file": "数学/第5章 数列(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 3,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 16
   },
   {
@@ -280,7 +280,7 @@
     "explanation": "",
     "source_file": "数学/第5章 数列(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 5,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 17
   },
   {
@@ -353,7 +353,7 @@
     "explanation": "",
     "source_file": "数学/第5章 数列(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 7,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 21
   },
   {
@@ -387,7 +387,7 @@
     "explanation": "",
     "source_file": "数学/第5章 数列(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 9,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 22
   },
   {
@@ -421,7 +421,7 @@
     "explanation": "",
     "source_file": "数学/第5章 数列(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 11,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 23
   },
   {
@@ -598,7 +598,7 @@
     "explanation": "数列前𝑛项和的最值求解，需要注意𝑛只能取整数.\n设𝑎𝑛= 𝑎1 + (𝑛−1)𝑑，𝑎2 + 𝑎4 = 𝑎1 ⇒ 2𝑎3 = 8 ⇒ 𝑎3 = 4，\n故𝑑=\n𝑎3−𝑎1\n3−1 =\n4−8\n2 = −2，𝑆𝑛=\n𝑑\n2 𝑛2 + (𝑎1 −\n𝑑",
     "source_file": "数学/第5章 数列(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 13,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 35
   },
   {
@@ -645,7 +645,7 @@
     "explanation": "将𝑎𝑛=\n𝑎𝑛−1\n2𝑎𝑛−1+1两边取倒数得\n1\n𝑎𝑛\n= 2𝑎𝑛−1 + 1\n𝑎𝑛−1\n⇒ 1\n𝑎𝑛\n= 2 +\n1\n𝑎𝑛−1\n⇒ 1\n𝑎𝑛\n−\n1\n𝑎𝑛−1\n= 2.\n令𝑏𝑛= 1\n𝑎𝑛\n，则𝑏1 = 1，且𝑏𝑛−𝑏𝑛−1 = 2，\n这是一个首项为1 公差为2 的等差数列，则\n𝑏100 = 𝑏1 + 2 × (100 −1) = 1 + 2 × 99 = 199，故𝑎100 =\n1\n𝑏100\n=\n1\n199.\n答案选(B).\n你的坚持，终将美好！\n32",
     "source_file": "数学/第5章 数列(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 15,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 37
   },
   {
@@ -679,7 +679,7 @@
     "explanation": "方程𝑎𝑛+1 = 𝑎𝑛\n2 一边有平方，一边没有平方，这是我们不喜欢看到的，想\n办法把次数化成一致，这个时候怎么把𝑎𝑛\n2的次数2 变成1，自然就要想\n到对数了.\n𝑎𝑛+1 = 𝑎𝑛\n2 ⩾0，又𝑎1 = 3，故𝑎𝑛> 0 (若𝑎𝑛= 0，则该数列恒为0)\n将𝑎𝑛+1 = 𝑎𝑛\n2两边取对数得，ln𝑎𝑛+1 = ln𝑎𝑛\n2 = 2ln𝑎𝑛，即ln𝑎𝑛+1\nln𝑎𝑛\n= 2，\n又ln𝑎1 = ln3，故数列{ln𝑎𝑛}是以ln3 为首项，公比为2 的等比数列，\nln𝑎11 = ln𝑎1 × 211−1 = 210ln3 = ln3210 ⇒ 𝑎11 = 3210 = 31024.\n答案选(E).",
     "source_file": "数学/第5章 数列(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 16,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 38
   },
   {
@@ -713,7 +713,7 @@
     "explanation": "根号是我们不喜欢看到的，想办法去根号，因此同时平方.\n𝑎𝑛= √3 + 𝑎𝑛−1\n2\n> 0，则对𝑎𝑛= √3 + 𝑎𝑛−1\n2\n两边同时平方\n得𝑎𝑛\n2 = 3 + 𝑎𝑛−1\n2\n⇒𝑎𝑛\n2 −𝑎𝑛−1\n2\n= 3，又𝑎1\n2 = 22 = 4\n故数列{𝑎𝑛\n2}是首项为4，公差为3 的等差数列，\n因此𝑎100\n2\n= 4 + 3(100 −1) = 301 ⇒ 𝑎100 = √301(注意𝑎𝑛> 0)，\n答案选(C).\n你的坚持，终将美好！\n33\n你的坚持，终将美好！\n第六章 应用题\n考点1 经济问题\n考点2 浓度问题\n考点3 行程问题\n考点4 工程问题\n考点5 植树问题\n考点6 集合问题\n考点7 不定方程\n考点8 分段计费\n你的坚持，终将美好！\n1\n考点1：经济问题\n一、计算公式",
     "source_file": "数学/第5章 数列(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 16,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 39
   },
   {
@@ -838,7 +838,7 @@
     "explanation": "",
     "source_file": "数学/第5章 数列(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 20,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 47
   },
   {
@@ -872,7 +872,7 @@
     "explanation": "",
     "source_file": "数学/第5章 数列(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 20,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 48
   },
   {
@@ -906,7 +906,7 @@
     "explanation": "",
     "source_file": "数学/第5章 数列(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 22,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 49
   },
   {
@@ -940,7 +940,7 @@
     "explanation": "",
     "source_file": "数学/第5章 数列(2) 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 22,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 50
   },
   {
@@ -1052,7 +1052,7 @@
     "explanation": "",
     "source_file": "数学/第5章 数列（1）.pdf",
     "source_page": 4,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 57
   },
   {
@@ -1086,7 +1086,7 @@
     "explanation": "",
     "source_file": "数学/第5章 数列（1）.pdf",
     "source_page": 4,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 58
   },
   {
@@ -1120,7 +1120,7 @@
     "explanation": "",
     "source_file": "数学/第5章 数列（1）.pdf",
     "source_page": 5,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 59
   },
   {
@@ -1219,7 +1219,7 @@
     "explanation": "",
     "source_file": "数学/第5章 数列（1）.pdf",
     "source_page": 7,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 65
   },
   {
@@ -1253,7 +1253,7 @@
     "explanation": "",
     "source_file": "数学/第5章 数列（1）.pdf",
     "source_page": 7,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 66
   },
   {
@@ -1417,7 +1417,7 @@
     "explanation": "",
     "source_file": "数学/第5章 数列（1）.pdf",
     "source_page": 10,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 77
   },
   {
@@ -1581,7 +1581,7 @@
     "explanation": "",
     "source_file": "数学/第5章 数列（1）.pdf",
     "source_page": 13,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 88
   },
   {
@@ -1615,7 +1615,7 @@
     "explanation": "",
     "source_file": "数学/第5章 数列（1）.pdf",
     "source_page": 14,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 89
   },
   {
@@ -1753,7 +1753,7 @@
     "explanation": "",
     "source_file": "数学/第5章 数列（1）.pdf",
     "source_page": 16,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 98
   },
   {
@@ -1787,7 +1787,7 @@
     "explanation": "",
     "source_file": "数学/第5章 数列（1）.pdf",
     "source_page": 17,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 99
   },
   {
@@ -1899,7 +1899,7 @@
     "explanation": "",
     "source_file": "数学/第5章 数列（1）.pdf",
     "source_page": 19,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 106
   },
   {
@@ -1933,7 +1933,7 @@
     "explanation": "",
     "source_file": "数学/第5章 数列（1）.pdf",
     "source_page": 19,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 107
   }
 ]

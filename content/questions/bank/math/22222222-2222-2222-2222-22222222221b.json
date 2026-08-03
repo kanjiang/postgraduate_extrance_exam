@@ -121,7 +121,7 @@
     "explanation": "",
     "source_file": "数学/第11章 概率 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 2,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 8
   },
   {
@@ -181,7 +181,7 @@
     "explanation": "",
     "source_file": "数学/第11章 概率 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 3,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 11
   },
   {
@@ -215,7 +215,7 @@
     "explanation": "",
     "source_file": "数学/第11章 概率 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 6,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 12
   },
   {
@@ -665,7 +665,7 @@
     "explanation": "",
     "source_file": "数学/第11章 概率 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 16,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 45
   },
   {
@@ -699,7 +699,7 @@
     "explanation": "",
     "source_file": "数学/第11章 概率 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 16,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 46
   },
   {
@@ -733,7 +733,7 @@
     "explanation": "",
     "source_file": "数学/第11章 概率 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 18,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 47
   },
   {
@@ -767,7 +767,7 @@
     "explanation": "",
     "source_file": "数学/第11章 概率 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 18,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 48
   },
   {
@@ -801,7 +801,7 @@
     "explanation": "",
     "source_file": "数学/第11章 概率 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 21,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 49
   },
   {
@@ -835,7 +835,7 @@
     "explanation": "",
     "source_file": "数学/第11章 概率 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 21,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 50
   },
   {
@@ -869,7 +869,7 @@
     "explanation": "",
     "source_file": "数学/第11章 概率 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 23,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 51
   },
   {
@@ -903,7 +903,7 @@
     "explanation": "",
     "source_file": "数学/第11章 概率 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 23,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 52
   },
   {
@@ -1015,7 +1015,7 @@
     "explanation": "",
     "source_file": "数学/第11章 概率 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 28,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 59
   },
   {
@@ -1049,7 +1049,7 @@
     "explanation": "",
     "source_file": "数学/第11章 概率 含解析的合订版（适合使用在线文档查看的同学）.pdf",
     "source_page": 28,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 60
   }
 ]

@@ -11,6 +11,15 @@ export function gradeMcq(userAnswer: string, correct: string): boolean {
   return normalizeAnswerKey(userAnswer) === normalizeAnswerKey(correct);
 }
 
+/** Short answers, or MCQ without a known key, need self-mark after submit. */
+export function requiresSelfMark(input: {
+  qtype: QuestionType;
+  answer: string;
+}): boolean {
+  if (input.qtype === "short") return true;
+  return normalizeAnswerKey(input.answer) === "";
+}
+
 export function computeMcqScore(
   rows: { is_correct: boolean | null; qtype: QuestionType }[],
 ): { correct: number; total: number } {

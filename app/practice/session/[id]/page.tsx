@@ -3,6 +3,7 @@ import { redirect } from "next/navigation";
 import { AppHeader } from "@/components/AppHeader";
 import { SelfMarkButtons } from "@/components/practice/SelfMarkButtons";
 import { getSessionBundle } from "@/lib/data/practice";
+import { requiresSelfMark } from "@/lib/practice";
 import { createClient } from "@/lib/supabase/server";
 
 type Props = {
@@ -33,7 +34,14 @@ export default async function PracticeSessionPage({ params }: Props) {
     bundle.session.mcq_correct + bundle.session.short_marked_correct;
   const totalQuestions = bundle.session.mcq_total + bundle.session.short_total;
   const pendingShortMarks = bundle.questions.filter((question) => {
-    if (question.qtype !== "short") return false;
+    if (
+      !requiresSelfMark({
+        qtype: question.qtype,
+        answer: question.answer,
+      })
+    ) {
+      return false;
+    }
     return answerMap.get(question.id)?.self_marked !== true;
   }).length;
 
@@ -55,7 +63,7 @@ export default async function PracticeSessionPage({ params }: Props) {
             简答题已判对 {bundle.session.short_marked_correct} / {bundle.session.short_total}
           </p>
           {pendingShortMarks > 0 ? (
-            <p className="muted">还有 {pendingShortMarks} 道简答题等待你手动判分。</p>
+            <p className="muted">还有 {pendingShortMarks} 道题等待你手动判分。</p>
           ) : null}
         </section>
 
@@ -114,7 +122,10 @@ export default async function PracticeSessionPage({ params }: Props) {
                   <p>{question.explanation || "暂无解析"}</p>
                 </div>
 
-                {question.qtype === "short" && answer?.self_marked !== true ? (
+                {requiresSelfMark({
+                  qtype: question.qtype,
+                  answer: question.answer,
+                }) && answer?.self_marked !== true ? (
                   <SelfMarkButtons
                     sessionId={bundle.session.id}
                     questionId={question.id}

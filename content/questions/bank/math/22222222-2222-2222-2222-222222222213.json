@@ -115,7 +115,7 @@
     "explanation": "",
     "source_file": "数学/第3章 集合与函数（1）合订版.pdf",
     "source_page": 1,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 6
   },
   {
@@ -149,7 +149,7 @@
     "explanation": "",
     "source_file": "数学/第3章 集合与函数（1）合订版.pdf",
     "source_page": 4,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 7
   },
   {
@@ -391,7 +391,7 @@
     "explanation": "",
     "source_file": "数学/第3章 集合与函数（1）合订版.pdf",
     "source_page": 10,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 24
   },
   {
@@ -425,7 +425,7 @@
     "explanation": "",
     "source_file": "数学/第3章 集合与函数（1）合订版.pdf",
     "source_page": 12,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 25
   },
   {
@@ -459,7 +459,7 @@
     "explanation": "",
     "source_file": "数学/第3章 集合与函数（1）合订版.pdf",
     "source_page": 12,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 26
   },
   {
@@ -571,7 +571,7 @@
     "explanation": "",
     "source_file": "数学/第3章 集合与函数（1）合订版.pdf",
     "source_page": 15,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 33
   },
   {
@@ -625,7 +625,7 @@
     "explanation": "",
     "source_file": "数学/第3章 集合与函数（1）合订版.pdf",
     "source_page": 17,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 34
   },
   {
@@ -659,7 +659,7 @@
     "explanation": "",
     "source_file": "数学/第3章 集合与函数（1）合订版.pdf",
     "source_page": 17,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 35
   },
   {
@@ -836,7 +836,7 @@
     "explanation": "",
     "source_file": "数学/第3章 集合与函数（1）合订版.pdf",
     "source_page": 21,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 47
   },
   {
@@ -870,7 +870,7 @@
     "explanation": "",
     "source_file": "数学/第3章 集合与函数（1）合订版.pdf",
     "source_page": 21,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 48
   },
   {
@@ -904,7 +904,7 @@
     "explanation": "",
     "source_file": "数学/第3章 集合与函数（1）合订版.pdf",
     "source_page": 23,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 49
   },
   {
@@ -938,7 +938,7 @@
     "explanation": "",
     "source_file": "数学/第3章 集合与函数（1）合订版.pdf",
     "source_page": 23,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 50
   },
   {
@@ -985,7 +985,7 @@
     "explanation": "",
     "source_file": "数学/第3章 集合与函数（1）合订版.pdf",
     "source_page": 25,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 52
   },
   {
@@ -1318,7 +1318,7 @@
     "explanation": "",
     "source_file": "数学/第3章 集合与函数（2）含解析的合订版.pdf",
     "source_page": 5,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 75
   },
   {
@@ -1352,7 +1352,7 @@
     "explanation": "",
     "source_file": "数学/第3章 集合与函数（2）含解析的合订版.pdf",
     "source_page": 5,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 76
   },
   {
@@ -1568,7 +1568,7 @@
     "explanation": "",
     "source_file": "数学/第3章 集合与函数（2）含解析的合订版.pdf",
     "source_page": 9,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 91
   },
   {
@@ -1602,7 +1602,7 @@
     "explanation": "",
     "source_file": "数学/第3章 集合与函数（2）含解析的合订版.pdf",
     "source_page": 11,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 92
   },
   {
@@ -1636,7 +1636,7 @@
     "explanation": "",
     "source_file": "数学/第3章 集合与函数（2）含解析的合订版.pdf",
     "source_page": 11,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 93
   },
   {
@@ -1722,7 +1722,7 @@
     "explanation": "",
     "source_file": "数学/第3章 集合与函数（2）含解析的合订版.pdf",
     "source_page": 13,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 98
   },
   {
@@ -1782,7 +1782,7 @@
     "explanation": "",
     "source_file": "数学/第3章 集合与函数（2）含解析的合订版.pdf",
     "source_page": 14,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 100
   },
   {
@@ -1855,7 +1855,7 @@
     "explanation": "",
     "source_file": "数学/第3章 集合与函数（2）含解析的合订版.pdf",
     "source_page": 20,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 104
   },
   {
@@ -1889,7 +1889,7 @@
     "explanation": "",
     "source_file": "数学/第3章 集合与函数（2）含解析的合订版.pdf",
     "source_page": 20,
-    "needs_review": true,
+    "needs_review": false,
     "sort_order": 105
   },
   {

@@ -2,6 +2,8 @@ import {
   assertSessionEditable,
   filterChapterQuestions,
   gradeMcq,
+  normalizeAnswerKey,
+  requiresSelfMark,
   shouldSkipSelfMark,
 } from "@/lib/practice";
 import { createClient } from "@/lib/supabase/server";
@@ -437,18 +439,20 @@ export async function submitSession(
     );
 
   const supabase = await createClient();
-  const mcqUpdates = rows
-    .filter((row) => row.qtype === "mcq")
-    .map((row) => {
-      const isCorrect = gradeMcq(row.user_answer, row.correctAnswer);
-      return {
-        session_id: row.session_id,
-        question_id: row.question_id,
-        user_answer: row.user_answer,
-        is_correct: isCorrect,
-        self_marked: row.self_marked,
-      };
-    });
+  const autoGradableMcq = rows.filter(
+    (row) =>
+      row.qtype === "mcq" && normalizeAnswerKey(row.correctAnswer) !== "",
+  );
+  const mcqUpdates = autoGradableMcq.map((row) => {
+    const isCorrect = gradeMcq(row.user_answer, row.correctAnswer);
+    return {
+      session_id: row.session_id,
+      question_id: row.question_id,
+      user_answer: row.user_answer,
+      is_correct: isCorrect,
+      self_marked: row.self_marked,
+    };
+  });
 
   if (mcqUpdates.length > 0) {
     const { error } = await supabase
@@ -481,14 +485,18 @@ export async function submitSession(
     }
   }
 
-  const stats = computeSessionStats(rows.map((row) => ({
-    ...row,
-    is_correct:
-      row.qtype === "mcq"
-        ? mcqUpdates.find((item) => item.question_id === row.question_id)?.is_correct ??
-          row.is_correct
-        : row.is_correct,
-  })));
+  const gradedById = new Map(
+    mcqUpdates.map((row) => [row.question_id, row.is_correct] as const),
+  );
+  const stats = computeSessionStats(
+    rows.map((row) => ({
+      ...row,
+      is_correct:
+        row.qtype === "mcq" && gradedById.has(row.question_id)
+          ? (gradedById.get(row.question_id) ?? null)
+          : row.is_correct,
+    })),
+  );
 
   const { error: sessionError } = await supabase
     .from("practice_sessions")
@@ -526,8 +534,17 @@ export async function selfMarkAnswer(
     .maybeSingle();
   if (questionError) throw questionError;
   if (!question) throw new Error("题目不存在");
-  if ((question as { qtype: Question["qtype"] }).qtype !== "short") {
-    throw new Error("仅简答题支持手动判分");
+  const typedQuestion = question as {
+    qtype: Question["qtype"];
+    answer: string;
+  };
+  if (
+    !requiresSelfMark({
+      qtype: typedQuestion.qtype,
+      answer: typedQuestion.answer ?? "",
+    })
+  ) {
+    throw new Error("该题已有标准答案，无需手动判分");
   }
 
   const { data: existingAnswer, error: existingAnswerError } = await supabase
