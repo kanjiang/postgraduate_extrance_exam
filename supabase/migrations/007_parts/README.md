@@ -1,27 +1,19 @@
 # 题库种子（拆分版）
 
-## 逻辑题干像讲义、不对？
+## 逻辑题干混进讲义？
 
-PDF 抽题会把讲义段落误当成题目。请再跑：
+请按顺序跑这 3 个（小文件）：
 
-1. `007d_logic_quality_reset.sql` — 先把逻辑题全部标成待校对  
-2. `007d_logic_quality_promote.sql` — 只放开约 50 道更像真题的选择题  
+1. `007e_logic_stem_reset.sql` — 先隐藏全部逻辑抽题  
+2. `007e_logic_stem_enable_01.sql` — 写入清洗后的题干并开放练习  
+3. `007e_logic_stem_enable_02.sql`
 
-然后刷新练习页。
+然后强制刷新练习页（可清缓存/无痕）。
 
+## 数学 / 英语
 
-数学 / 英语选择题答案多数没抽出来，需额外导入：
+`007c_math_english_part_01.sql` … `12.sql`
 
-`007c_math_english_part_01.sql` … `007c_math_english_part_12.sql`
+## 基础（含少量逻辑）
 
-（每次一个文件）
-
-无标准答案的选择题交卷后可自行点「做对/做错」。
-
-## 基础可练习题（含逻辑）
-
-1. `007a_clean_part_01.sql` … `04.sql`
-
-## 表结构
-
-先跑 `../006_practice_schema.sql`、`../006b_math_chapters.sql`。
+`007a_clean_part_01.sql` … `04.sql`（若已跑过可跳过）
